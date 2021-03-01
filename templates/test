@@ -1,0 +1,21 @@
+ {% if tasks|length
+    < 1 %} <br>
+        <h3 style="text-align: center">There are no updates, sorry come again.</h3>
+        {% else %}
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Provider</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for task in tasks %}
+                <tr>
+                    <td scope="col">{{ task }}</td>
+
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}

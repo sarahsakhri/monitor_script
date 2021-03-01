@@ -1,0 +1,188 @@
+{
+    "values_changed": {
+        "root[194]['text']": {
+            "new_value": "Monday,  Feb 15",
+            "old_value": "Opening December 21"
+        },
+        "root[177]['text']": {
+            "new_value": "Camperville Primary Health Care Center",
+            "old_value": "Testing Centre: Waterhen Primary Health Care Centre"
+        },
+        "root[174]": {
+            "new_value": {
+                "tag": "td",
+                "text": "10:00 AM to 2:00 PM",
+                "attrs": {
+                    "align": "center"
+                }
+            },
+            "old_value": {
+                "tag": "td",
+                "text": "Testing Centre: Camperville Primary Health Care Center",
+                "attrs": {
+                    "width": "25%"
+                }
+            }
+        }
+    },
+    "iterable_item_added": {
+        "root[89]": {
+            "tag": "em",
+            "text": "Last updated: February 12, 2021",
+            "attrs": {}
+        },
+        "root[124]": {
+            "tag": "strong",
+            "text": "(Louis Riel Day)",
+            "attrs": {}
+        },
+        "root[129]": {
+            "tag": "td",
+            "text": "7:00 AM to 7:00 PM",
+            "attrs": {
+                "align": "center",
+                "width": "33%"
+            }
+        },
+        "root[133]": {
+            "tag": "td",
+            "text": "8:00 AM to 4:00 PM",
+            "attrs": {
+                "align": "center",
+                "width": "33%"
+            }
+        },
+        "root[137]": {
+            "tag": "td",
+            "text": "9:00 AM to 4:00 PM",
+            "attrs": {
+                "align": "center",
+                "width": "33%"
+            }
+        },
+        "root[141]": {
+            "tag": "td",
+            "text": "Closed",
+            "attrs": {
+                "align": "center",
+                "width": "33%"
+            }
+        },
+        "root[179]": {
+            "tag": "td",
+            "text": "Closed",
+            "attrs": {
+                "align": "center"
+            }
+        },
+        "root[182]": {
+            "tag": "p",
+            "text": "Monday to Thursday 8:45 AM to 6:00 PM",
+            "attrs": {}
+        },
+        "root[183]": {
+            "tag": "p",
+            "text": "Friday to Sunday 8:45 AM to 3:15 PM",
+            "attrs": {}
+        },
+        "root[184]": {
+            "tag": "p",
+            "text": "New Hours Beginning Tuesday, February 16",
+            "attrs": {}
+        },
+        "root[185]": {
+            "tag": "p",
+            "text": "Mondays  to Thursdays 8:45 am - 4:30 pm",
+            "attrs": {}
+        },
+        "root[186]": {
+            "tag": "p",
+            "text": "Fridays  and Saturdays 8:45 am - 3:15 pm",
+            "attrs": {}
+        },
+        "root[187]": {
+            "tag": "p",
+            "text": "Sundays 8:45 am - 2:30 pm",
+            "attrs": {}
+        },
+        "root[188]": {
+            "tag": "td",
+            "text": "8:45 AM to 6:00 PM",
+            "attrs": {
+                "align": "center"
+            }
+        },
+        "root[194]": {
+            "tag": "td",
+            "text": "9:00 AM to 5:00 PM",
+            "attrs": {
+                "align": "center"
+            }
+        },
+        "root[197]": {
+            "tag": "td",
+            "text": "Monday and Thursday 10:00 AM to 3:00 PM",
+            "attrs": {
+                "width": "25%"
+            }
+        },
+        "root[199]": {
+            "tag": "td",
+            "text": "Waterhen Primary Health Care Centre",
+            "attrs": {
+                "width": "25%"
+            }
+        },
+        "root[213]": {
+            "tag": "td",
+            "text": "9:00 AM to 4:00 PM",
+            "attrs": {
+                "align": "center"
+            }
+        },
+        "root[236]": {
+            "tag": "td",
+            "text": "8:45 AM to 4:00 PM",
+            "attrs": {
+                "align": "center"
+            }
+        },
+        "root[246]": {
+            "tag": "td",
+            "text": "8:45 AM to 3:40 PM",
+            "attrs": {
+                "align": "center"
+            }
+        },
+        "root[252]": {
+            "tag": "td",
+            "text": "8:15 AM to 8:45 PM",
+            "attrs": {
+                "align": "center"
+            }
+        },
+        "root[279]": {
+            "tag": "td",
+            "text": "11:00 AM to 3:00 PM",
+            "attrs": {
+                "align": "center"
+            }
+        }
+    },
+    "iterable_item_removed": {
+        "root[167]": {
+            "tag": "td",
+            "text": "Monday to Thursday 8:45 AM to 6:00 PM",
+            "attrs": {
+                "width": "25%"
+            }
+        },
+        "root[168]": {
+            "tag": "td",
+            "text": "Friday to Sunday 8:45 AM to 3:15 PM",
+            "attrs": {
+                "width": "25%"
+            }
+        }
+    }
+}

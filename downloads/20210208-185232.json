@@ -1,0 +1,2111 @@
+[{
+        "URL": "https://www.nshealth.ca/coronavirustesting"
+    },
+    {
+        "tag": "[document]",
+        "text": "html",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if IEMobile 7]><html class=\"no-js ie iem7\" lang=\"en\" dir=\"ltr\"><![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if lte IE 6]><html class=\"no-js ie lt-ie9 lt-ie8 lt-ie7\" lang=\"en\" dir=\"ltr\"><![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if (IE 7)&(!IEMobile)]><html class=\"no-js ie lt-ie9 lt-ie8\" lang=\"en\" dir=\"ltr\"><![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if IE 8]><html class=\"no-js ie lt-ie9\" lang=\"en\" dir=\"ltr\"><![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if (gte IE 9)|(gt IEMobile 7)]><html class=\"no-js ie\" lang=\"en\" dir=\"ltr\" prefix=\"content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#\"><![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if !IE]><!",
+        "attrs": {}
+    },
+    {
+        "tag": "html",
+        "text": "<![endif]",
+        "attrs": {
+            "class": [
+                "no-js"
+            ],
+            "lang": "en",
+            "dir": "ltr",
+            "prefix": "content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"
+        }
+    },
+    {
+        "tag": "title",
+        "text": "COVID-19 Testing | Nova Scotia Health Authority",
+        "attrs": {}
+    },
+    {
+        "tag": "style",
+        "text": "@import url(\"https://www.nshealth.ca/sites/all/themes/omega/omega/css/modules/system/system.base.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/themes/omega/omega/css/modules/system/system.menus.theme.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/themes/omega/omega/css/modules/system/system.messages.theme.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/themes/omega/omega/css/modules/system/system.theme.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/date/date_api/date.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/fitvids/fitvids.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/themes/omega/omega/css/modules/comment/comment.theme.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/modules/node/node.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/themes/omega/omega/css/modules/field/field.theme.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/views/css/views.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/themes/omega/omega/css/modules/search/search.theme.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/themes/omega/omega/css/modules/user/user.base.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/themes/omega/omega/css/modules/user/user.theme.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/ckeditor/css/ckeditor.css?qjc43e\");",
+        "attrs": {}
+    },
+    {
+        "tag": "style",
+        "text": "@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/colorbox/styles/default/colorbox_style.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/ctools/css/ctools.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/panels/css/panels.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/jquery_ui_filter/dialog/jquery_ui_filter_dialog.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/nshealth.ca/files/ctools/css/be6ba902f1481edfe859d9193d80ab4e.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/all/modules/contrib/panels/plugins/layouts/flexible/flexible.css?qjc43e\");\n@import url(\"https://www.nshealth.ca/sites/nshealth.ca/files/ctools/css/0f6b958b56583a3b057bb8c0f39ffe64.css?qjc43e\");",
+        "attrs": {}
+    },
+    {
+        "tag": "style",
+        "text": "@import url(\"https://www.nshealth.ca/sites/all/themes/nova_scotia_health/css/nova-scotia-health-styles.css?qjc43e\");",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if lte IE 8]>\n<style>\n@import url(\"https://www.nshealth.ca/sites/all/themes/nova_scotia_health/css/nova-scotia-health.no-query.css?qjc43e\");\n</style>\n<![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(h,o,t,j,a,r){\n  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n  h._hjSettings={hjid:\"1464946\",hjsv:\"6\"};\n  a=o.getElementsByTagName('head')[0];\n  r=o.createElement('script');r.async=1;\n  r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n  a.appendChild(r);\n})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if (gte IE 6)&(lte IE 8)]>\n<script src=\"https://www.nshealth.ca/sites/all/themes/nova_scotia_health/libraries/html5shiv/html5shiv.min.js?qjc43e\"></script>\n<![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if (gte IE 6)&(lte IE 8)]>\n<script src=\"https://www.nshealth.ca/sites/all/themes/nova_scotia_health/libraries/html5shiv/html5shiv-printshiv.min.js?qjc43e\"></script>\n<![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if (gte IE 6)&(lte IE 8)]>\n<script src=\"https://www.nshealth.ca/sites/all/themes/nova_scotia_health/libraries/selectivizr/selectivizr.min.js?qjc43e\"></script>\n<![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(i,s,o,g,r,a,m){i[\"GoogleAnalyticsObject\"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,\"script\",\"//www.google-analytics.com/analytics.js\",\"ga\");ga(\"create\", \"UA-61436203-1\", {\"cookieDomain\":\"auto\"});ga(\"set\", \"anonymizeIp\", true);ga(\"set\", \"page\", location.pathname + location.search + location.hash);ga(\"send\", \"pageview\");",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "jQuery.extend(Drupal.settings, {\"basePath\":\"\\/\",\"pathPrefix\":\"\",\"colorbox\":{\"opacity\":\"0.85\",\"current\":\"{current} of {total}\",\"previous\":\"\\u00ab Prev\",\"next\":\"Next \\u00bb\",\"close\":\"Close\",\"maxWidth\":\"98%\",\"maxHeight\":\"98%\",\"fixed\":true,\"mobiledetect\":true,\"mobiledevicewidth\":\"480px\"},\"jQueryUiFilter\":{\"disabled\":0,\"accordionHeaderTag\":\"h3\",\"accordionOptions\":{\"active\":0,\"animated\":\"slide\",\"autoHeight\":\"false\",\"clearStyle\":\"true\",\"collapsible\":\"true\",\"event\":\"click\",\"scrollTo\":0,\"history\":\"false\"},\"dialogWhitelist\":\"\",\"dialogOptions\":{\"closeOnEscape\":\"true\",\"closeText\":\"Close\",\"closeButton\":\"false\",\"dialogClass\":\"\",\"draggable\":\"true\",\"height\":\"auto\",\"hide\":\"\",\"show\":\"\",\"width\":\"auto\",\"maxHeight\":500,\"maxWidth\":\"false\",\"minHeight\":150,\"minWidth\":150,\"modal\":\"false\",\"position\":\"center\",\"resizable\":\"true\",\"stack\":\"true\",\"title\":\"\",\"dialogFeatures\":{\"form-onsubmit_close\":1,\"page-logo\":0,\"page-site_name\":0,\"page-site_slogan\":0,\"page-mission\":0,\"page-main_menu\":0,\"page-secondary_menu\":0,\"page-title\":1,\"page-title_prefix\":0,\"page-title_suffix\":0,\"page-tabs\":1,\"page-breadcrumb\":0,\"page-action_links\":0,\"page-feed_icons\":0,\"page-footer_message\":0,\"page-regions\":0}},\"tabsOptions\":{\"collapsible\":\"false\",\"event\":\"click\",\"fx\":0,\"paging\":{\"back\":\"\\u0026laquo; Previous\",\"next\":\"Next \\u0026raquo;\"},\"selected\":\"\",\"scrollTo\":0,\"history\":\"false\"},\"tabsHeaderTag\":\"h3\"},\"fitvids\":{\"custom_domains\":[],\"selectors\":[\"body\"],\"simplifymarkup\":1},\"currentPath\":\"coronavirustesting\",\"currentPathIsAdmin\":false,\"googleanalytics\":{\"trackOutbound\":1,\"trackMailto\":1,\"trackDownload\":1,\"trackDownloadExtensions\":\"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip\",\"trackUrlFragments\":1}});",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){\n  (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);\n  e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);\n  })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');\n  \n  _st('install','cBFVPdykkyLebR2yQJsL','2.0.0');",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Skip to main content",
+        "attrs": {
+            "href": "#main-content",
+            "class": [
+                "element-invisible",
+                "element-focusable"
+            ]
+        }
+    },
+    {
+        "tag": "header",
+        "text": "header top begin",
+        "attrs": {
+            "class": [
+                "l-header"
+            ],
+            "role": "banner"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "About Us",
+        "attrs": {
+            "href": "/about-us",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Careers",
+        "attrs": {
+            "href": "http://www.nshealth.ca/careers",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Need a Family Practice?",
+        "attrs": {
+            "href": "https://needafamilypractice.nshealth.ca/",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Students and Learners",
+        "attrs": {
+            "href": "http://www.nshealth.ca/student-learner",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Research",
+        "attrs": {
+            "href": "http://www.nshealth.ca/research",
+            "title": "See why NSHA is a world leading research facility"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Intranet",
+        "attrs": {
+            "href": "http://intra.nshealth.ca/Pages/Welcome.aspx",
+            "title": "The NSHA Employee Intranet"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News",
+        "attrs": {
+            "href": "http://www.nshealth.ca/news",
+            "title": "Current news and information from Nova Scotia Health Authority"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Volunteer",
+        "attrs": {
+            "href": "http://www.nshealth.ca/get-involved",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "En fran\u00e7ais",
+        "attrs": {
+            "href": "http://www.nshealth.ca/les-services-en-francais-la-regie-de-la-sante-de-la-nouvelle-ecosse",
+            "title": "Les services en fran\u00e7ais \u00e0 la R\u00e9gie de la sant\u00e9 de la Nouvelle-\u00c9cosse."
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact",
+        "attrs": {
+            "href": "/contact-us",
+            "title": ""
+        }
+    },
+    {
+        "tag": "header",
+        "text": "header top end",
+        "attrs": {
+            "class": [
+                "l-header"
+            ],
+            "role": "banner"
+        }
+    },
+    {
+        "tag": "header",
+        "text": "header bottom begin",
+        "attrs": {
+            "class": [
+                "l-header"
+            ],
+            "role": "banner"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Nova Scotia Health Authority",
+        "attrs": {
+            "href": "/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Menu",
+        "attrs": {
+            "class": [
+                "mobile-trigger__button"
+            ],
+            "href": "#"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19",
+        "attrs": {
+            "href": "http://www.nshealth.ca/coronavirus",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Locations",
+        "attrs": {
+            "href": "/locations",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Programs and Services",
+        "attrs": {
+            "href": "/programs-and-services",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Your Visit",
+        "attrs": {
+            "href": "http://www.nshealth.ca/your-visit",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Careers",
+        "attrs": {
+            "href": "http://www.nshealth.ca/careers",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Need a Family Practice?",
+        "attrs": {
+            "href": "https://needafamilypractice.nshealth.ca/FPSearchReasons/create",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "/contact-us",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Courses, Events and Workshops",
+        "attrs": {
+            "href": "http://nshealth.eventbrite.com",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19",
+        "attrs": {
+            "href": "http://www.nshealth.ca/coronavirus",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Programs and Services",
+        "attrs": {
+            "href": "http://www.nshealth.ca/services",
+            "title": "Find all of the programs and services available at Nova Scotia Health Authority"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Your Visit",
+        "attrs": {
+            "href": "http://www.nshealth.ca/your-visit",
+            "title": "Information to help you during your visit at NSHA facilities"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Courses, Events and Workshops",
+        "attrs": {
+            "href": "https://www.nshevents.ca/",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Locations",
+        "attrs": {
+            "href": "/locations?field_geofield_distance%255Bdistance%255D=10&field_geofield_distance%255Borigin%255D=Enter%2BStreet%2BAddress%2Bor%2BPostal%2BCode&field_location_type_tid%255B%255D=59",
+            "title": "Search all of our hospitals and other facilities by name, or on our interactive map"
+        }
+    },
+    {
+        "tag": "header",
+        "text": "header bottom end",
+        "attrs": {
+            "class": [
+                "l-header"
+            ],
+            "role": "banner"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "You are here",
+        "attrs": {
+            "class": [
+                "element-invisible"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "main content",
+        "attrs": {
+            "class": [
+                "l-page",
+                "has-one-sidebar",
+                "has-sidebar"
+            ]
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "COVID-19 Testing",
+        "attrs": {
+            "class": [
+                "page-title"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "There are several ways to get tested for COVID-19 based on why you may require a test. Please choose one of the following options. Additional information on self-isolation, receiving results and related subjects is below.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "I have COVID-19 symptoms",
+        "attrs": {
+            "class": [
+                "rtecenter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Get Assessment",
+        "attrs": {
+            "href": "https://covid-self-assessment.novascotia.ca/en/TestingRequest/SymptomIntro"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "I have no symptoms but want to be tested",
+        "attrs": {
+            "class": [
+                "rtecenter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Request asymptomatic testing",
+        "attrs": {
+            "href": "https://covid-self-assessment.novascotia.ca/en/TestingRequest/SymptomFreeIntro"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "I was at a potential exposure site",
+        "attrs": {
+            "class": [
+                "rtecenter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Get Assessment",
+        "attrs": {
+            "href": "https://covid-self-assessment.novascotia.ca/en/TestingRequest/SymptomFreeIntro"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "I am an NSH or IWK worker",
+        "attrs": {
+            "class": [
+                "rtecenter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Learn More",
+        "attrs": {
+            "href": "http://policy.nshealth.ca/Site_Published/covid19/document_render.aspx?documentRender.IdType=6&documentRender.GenericField=&documentRender.Id=82667"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "I am a rotational worker",
+        "attrs": {
+            "class": [
+                "rtecenter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Get Assessment",
+        "attrs": {
+            "href": "https://covid-self-assessment.novascotia.ca/en/TestingRequest/SymptomFreeIntro"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "I am 16+, with no symptoms & want a rapid test",
+        "attrs": {
+            "class": [
+                "rtecenter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Pop-up Testing Info",
+        "attrs": {
+            "href": "http://www.nshealth.ca/service-details/COVID-19%20Rapid%20Testing"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "I require a COVID-19 test for essential work or travel",
+        "attrs": {
+            "class": [
+                "rtecenter"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Learn more",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Additional Testing Information",
+        "attrs": {
+            "style": "color:#ffffff; font-size:1.5em"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "For updated information on Coronavirus visit",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "www.novascotia.ca/coronavirus",
+        "attrs": {
+            "href": "http://www.novascotia.ca/coronavirus",
+            "style": "background-color: transparent; color: rgb(28, 97, 131);"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "and",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "www.canada.ca/coronavirus",
+        "attrs": {
+            "href": "http://www.canada.ca/coronavirus",
+            "style": "background-color: transparent; color: rgb(28, 97, 131);"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "What do I need to know about self-isolation?",
+        "attrs": {
+            "class": [
+                "jquery-ui-filter-header",
+                "jquery-ui-filter-accordion-header"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Directions for self-isolation may vary slightly for each person, based on their personal situation.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Learn more about when you need to get tested and when you need to self isolate here.",
+        "attrs": {
+            "href": "http://www.nshealth.ca/what-do-i-need-know-about-covid-19-testing-and-self-isolation"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Assessment centre locations",
+        "attrs": {
+            "class": [
+                "jquery-ui-filter-header",
+                "jquery-ui-filter-accordion-header"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Central Nova Scotia (Halifax Regional Municipality, Eastern Shore and West Hants areas)",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Dartmouth -\u00a0Burnside Dartmouth Crossing - Former Bouclair, 72 Finnian Row",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "DIRECTIONS",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200bOpen from 8:00 a.m. to 7:10 p.m. every day",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "\u200bDartmouth -\u00a0Dartmouth General Hospital Drive Through",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Dartmouth+General+Hospital,+325+Pleasant+St,+Dartmouth,+NS+B2Y+4G8/@44.6539913,-63.5498101,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5a23b95a164951:0x716633b8eae09809!2m2!1d-63.5483164!2d44.6550299!3e0"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "(\u200bNote:\u00a0Behind Dartmouth General Hospital off Mount Hope Avenue)",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Open 8 a.m. to 7 p.m. every day",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Halifax - Bayers Lake 41 Washmill Lake Drive, 4th Floor",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "DIRECTIONS",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "\u200bOpen from 8:00 a.m. to 7:10 p.m. every day",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Halifax - Multi-purpose room - corner of Young and Windsor street -\u00a06210 Young Street",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//6210+Young+St,+Halifax,+NS+B3K+2A6/@44.6562591,-63.6073228,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5a21765582b44d:0x7d9ba5216ed1d4be!2m2!1d-63.6051341!2d44.6562553!3e0"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "\u200b",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//6210+Young+St,+Halifax,+NS+B3K+2A6/@44.6562591,-63.6073228,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5a21765582b44d:0x7d9ba5216ed1d4be!2m2!1d-63.6051341!2d44.6562553!3e0"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Open from 8:00 a.m. to 7:10 p.m. every day",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Halifax - Saint Mary's University - Homburg Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "DIRECTIONS",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Open from 8:00 a.m. to 7:10 p.m. every day",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Middle Musquodoboit - Musquodoboit Valley Memorial Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Musquodoboit+Valley+Memorial+Hospital,+492+Archibald+Brook+Rd,+Middle+Musquodoboit,+NS+B0N+1X0/@45.0404675,-63.1426814,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4054ff8f1ca32787:0xecec2e99882ac916!2m2!1d-63.140478!2d45.040326!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200bOpen from 7:30 a.m. to 7:30 p.m. every day\u00a0 (closed on holidays)",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Musquodoboit Harbour - Twin Oaks Memorial Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Twin+Oaks+Memorial+Hospital,+7704+Hwy+7,+Musquodoboit+Harbour,+NS+B0J+2L0/@44.783052,-63.1606227,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5a34f7757da6f3:0x53687c3c64ed8372!2m2!1d-63.158434!2d44.783052!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200bOpen from 7:30 a.m. to 7:30 p.m. every day\u00a0(closed on holidays)",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Sheet Harbour - Eastern Shore Memorial Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Eastern+Shore+Memorial+Hospital,+22637+Nova+Scotia+Trunk+7,+Sheet+Harbour,+NS+B0J+3B0/@44.9207449,-62.5351434,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5ba1562d18d39f:0x40a5063cdd557b30!2m2!1d-62.532983!2d44.920671!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200bOpen from 7:30 a.m. to 7:30 p.m. every day\u00a0(closed on holidays)",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Eastern Nova Scotia (Cape Breton, Antigonish and Guysborough areas)",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Antigonish - Antigonish Market Square, 149 Church St. Unit 686",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "DIRECTIONS",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200bOpen every day from 9 a.m. to 5 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Baddeck - Victoria County Memorial Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Victoria+County+Memorial+Hospital,+30+Old+Margaree+Rd,+Baddeck,+NS+B0E+1B0/@46.100264,-60.7582177,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5d622c41a7aa33:0x4654708ac04fff78!2m2!1d-60.756029!2d46.100264!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200bOpen from 8 a.m. to 4 p.m. Monday to Friday",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Canso - Eastern Memorial Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Eastern+Memorial+Hospital,+1746+Union+St,+Canso,+NS+B0H+1H0/@45.3329637,-60.9860013,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5cccff87f74351:0xd7c6adc1c5e046bc!2m2!1d-60.9838126!2d45.3329637!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200bOpen from 9 a.m. to 1 p.m. Monday to Friday",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Cheticamp - Sacred Heart Community Health Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Sacred+Heart+Community+Health+Centre,+15102+Cabot+Trail+Rd,+Ch%C3%A9ticamp,+NS+B0E+1H0/@46.6235267,-61.0172517,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b67141bfe06968d:0x6942c2c7565bbc25!2m2!1d-61.015063!2d46.623523!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200bOpen from 8\u00a0a.m. to 12 p.m. Monday, Tuesday, Thursday and Friday and\u00a012\u00a0to 4\u00a0p.m. Wednesday.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Evanston - Strait Richmond Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Strait+Richmond+Hospital,+138+Hospital+Rd,+Cleveland,+NS+B0E+1J0/@45.6164242,-61.23093,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5d1e32361c57df:0xf7290da926a0ca81!2m2!1d-61.222926!2d45.617084!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200b\u200bOpen from 11 a.m. to 7 p.m. Tuesday to Thursday.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Inverness - Inverness Consolidated Memorial Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Inverness+Consolidated+Memorial+Hospital,+39+James+St,+Inverness,+NS+B0E+1N0/@46.2265252,-61.3068176,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5d88a2b8ab0d0d:0x657c2d43a25ffe4f!2m2!1d-61.3048427!2d46.2270232!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200b\u200bOpen from 8 a.m. to 4 p.m. Monday and Tuesday and\u00a012 to 4:00 p.m. Wednesday, Thursday and Friday.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Neil's Harbour - Buchanan Memorial Community Health Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Buchanan+Memorial+Hospital,+32610+Cabot+Trail+Rd,+Neils+Harbour,+NS+B0C+1N0/@46.8099601,-60.3362037,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b66564a23face75:0xf6c6ab3d753f2fbf!2m2!1d-60.334162!2d46.8105004!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200b\u200bOpen from 4 to 8 p.m. Monday to Friday\u00a0and\u00a09 a.m.\u00a0to 1\u00a0p.m. Saturday and Sunday",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "North Sydney - Northside General Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Northside+General+Hospital,+520+Purves+St,+North+Sydney,+NS+B2A+3M4/@46.2181152,-60.237818,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b67ef033cc4082f:0xad14e0452b4c79f8!2m2!1d-60.2356293!2d46.2181152!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200b\u200b\u200bOpen from 8 a.m. to 12\u00a0p.m. Mon and Tues\u00a0and 1\u00a0to 5 p.m. Wednesday, Thursday and Friday",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Sydney - Grand Lake Road Fire Hall",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.com/maps/dir//Grand+Lake+Road+Vol+Fire+Dept,+850+Grand+Lake+Rd,+Sydney,+NS+B1P+5T3/@46.1498587,-60.1388462,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b67e4a18d051945:0xfca65e5aed323bdf!2m2!1d-60.1366575!2d46.1498587!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200bOpen from 9 a.m. to 5 p.m. every day",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Northern Nova Scotia (Colchester, Cumberland, Pictou County, and East Hants areas)",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Amherst - 34 Prince Arthur street",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//34+Prince+Arthur+St,+Amherst,+NS+B4H+1V6/@45.8334207,-64.2120293,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5f4932585b9511:0x8f38350ac0d06a87!2m2!1d-64.2098406!2d45.833417!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200b\u200bOpen from 9 a.m. to 5 p.m. every day",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "New Glasgow - Pictou County Assessment Centre 678 East River Road",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "DIRECTIONS",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200b\u200b\u200bOpen from 9 a.m. to 5 p.m. every day",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Truro - Seniors Clinic (at the Rath Eastlink Community Centre)\u00a0625 Abenaki Rd",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.com/maps/dir/44.6455046,-63.6108667/Rath+Eastlink+Community+Centre,/@44.996046,-64.0175422,9z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x4b594fed30f92281:0x58b804158171311e!2m2!1d-63.305!2d45.3513889"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "(NOTE:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Do not use the main entrance from the upper parking lot. Follow signage to the Seniors Clinic entrance from\u00a0the lower parking lot)",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "\u200bOpen from 9 a.m. to 5 p.m. Tuesday to Sunday",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Truro - Truro\u00a0Farmers Market",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "style": "color:#000000"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "\u200b",
+        "attrs": {
+            "style": "color:#000000"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Open from 9 a.m. to 5 p.m. Monday, Tuesday, Thursday and Friday",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Western Nova Scotia (Annapolis Valley, South West and South Shore areas)",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Berwick - Berwick Fire Hall",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.com/maps/dir/44.6676997,-63.6211163/berwick+fire+hall/@44.8373828,-64.7269641,9z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x4b585cb3397b18c3:0x4fef7c7e02f14532!2m2!1d-64.7383118!2d45.0531897"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "\u200b",
+        "attrs": {
+            "style": "color:rgb(0, 0, 0)"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Open from 8 a.m. to 8 p.m. 7 days a week",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Bridgewater - Gateway Plaza",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.com/maps/dir//215+Dominion+St+%23200,+Bridgewater,+NS+B4V+2G8/@44.3707976,-64.5282068,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5767dbf20df685:0x270a865cd1013f33!2m2!1d-64.5260181!2d44.3707938!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "\u200b",
+        "attrs": {
+            "style": "color:rgb(0, 0, 0)"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Open every day from 9\u00a0a.m. to 9 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Digby - Digby Station",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.com/maps/dir//7+Birch+St,+Digby,+NS+B0V+1A0/@44.626899,-65.7596367,17z/data=!4m17!1m7!3m6!1s0x4ca81d1722878377:0xe420395e5b598017!2s7+Birch+St,+Digby,+NS+B0V+1A0!3b1!8m2!3d44.6268952!4d-65.757448!4m8!1m0!1m5!1m1!1s0x4ca81d1722878377:0xe420395e5b598017!2m2!1d-65.757448!2d44.6268952!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200bOpen from 8\u00a0a.m. to 4\u00a0p.m. Monday to\u00a0Friday and 8\u00a0a.m. to 2\u00a0p.m. Saturday and Sunday",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "\u200bLiverpool - 157 School Street",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.com/maps/dir//157+School+St,+Liverpool,+NS+B0T+1K0/@44.0380305,-64.708727,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b572394e7162b37:0x98a1ce4bdabc5f2c!2m2!1d-64.7065383!2d44.0380267!3e0"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "\u200b",
+        "attrs": {
+            "href": "https://www.google.com/maps/dir//157+School+St,+Liverpool,+NS+B0T+1K0/@44.0380305,-64.708727,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b572394e7162b37:0x98a1ce4bdabc5f2c!2m2!1d-64.7065383!2d44.0380267!3e0"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Open from\u00a09 a.m. to 1 p.m.\u00a0on\u00a0Monday, Wednesday and Friday",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Shelburne - Roseway Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.ca/maps/dir//Roseway+Hospital,+1606+Lake+Rd,+Shelburne,+NS+B0T+1W0/@43.7499938,-65.3117197,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b56929fc12a29e3:0xd8260e7886edc6c5!2m2!1d-65.3103144!2d43.7493061!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200bOpen from 9 a.m. to 1 p.m. Monday,\u00a0Wednesday and\u00a0Friday",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Wolfville - Acadia University Club",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.com/maps/dir//Acadia+University+Club,+17+Westwood+Ave,+Wolfville,+NS+B4P+1Y1/@45.0892872,-64.3694241,15z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5855af6235a989:0x90c5f0b95159c2b1!2m2!1d-64.3694241!2d45.0892872!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b\u200b\u200bOpen every day from\u00a0 8 a.m. to 8p.m. 7 days a week",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Yarmouth - Visitor Information Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "DIRECTIONS",
+        "attrs": {
+            "href": "https://www.google.com/maps/dir//Nova+Scotia+Provincial+Visitor+Information+Centre,+228+Main+St,+Yarmouth,+NS+B5A+1C8/@43.8330248,-66.1227287,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4b5611ac0a59e3bb:0xea4499d5a8fad694!2m2!1d-66.12054!2d43.833021!3e0",
+            "style": "background-color: transparent; color: rgb(34, 34, 34);"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200bOpen every day from\u00a0 9 a.m. to 5 p.m. Monday, Wednesday and\u00a0Friday",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "What if I need help arranging transportation to my testing appointment?",
+        "attrs": {
+            "class": [
+                "jquery-ui-filter-header",
+                "jquery-ui-filter-accordion-header"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "If you have symptoms and are getting tested you can walk, drive or cycle to your testing appointment. Do not take the bus or ferry.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "In some cases Nova Scotia Health can arrange transportation for people who have no other means. If you need help with transportation, please call Nova Scotia Health at 1-844-996-0694 to book your appointment and to arrange transportation. This will allow enhanced cleaning procedures to be put in place by the transportation provider.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "How do I prepare my child for a gargle test?",
+        "attrs": {
+            "class": [
+                "jquery-ui-filter-header",
+                "jquery-ui-filter-accordion-header"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Children or youth between the ages of 4 and 18 years old may be able to have the gargle test if able to:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "swish salty water in the mouth for 5 seconds, then",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "gargle with the salty water for 5 seconds, and repeat both steps 2 more times (total time of 30 seconds), then",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "spit the salty water into a container",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "There are steps they need to complete",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "BEFORE",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "having the test.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Children or youth must not: eat, drink, chew gum, brush teeth, smoke or vape for",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "at least one hour before",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "the test.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Younger children do best when they practice the steps at home with water; just make sure if you do choose to have your child practice that it is done",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "at least two hours before",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "the test.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "For detailed preparation instructions, please view the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "gargle instruction sheet",
+        "attrs": {
+            "href": "http://www.iwk.nshealth.ca/sites/default/files/COVID-19/Covid-Rinse-Gargle-InstructionSheet_8.5x11_v08.pdf"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "(PDF)",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "It is extremely important that children and youth who are using the gargle testing method follow these guidelines, as",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "failure to do so will require them to have their COVID-19 test via swab",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "collection.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "During the procedure, the child and youth must wear their mask while swishing and gargling.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Note that if a child or youth does have difficulty completing the gargle test, the test cannot be repeated that day \u2013 they would have to be tested via swab collection or rebooked for a gargle test at a later date.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "What will happen when I get my standard COVID-19 test?",
+        "attrs": {
+            "class": [
+                "jquery-ui-filter-header",
+                "jquery-ui-filter-accordion-header"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Thanks for doing your part to keep yourself and your fellow Nova Scotians safe and healthy.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "There are a few different types of COVID-19 tests in Nova Scotia: standard PCR* tests, gargle tests and rapid tests. The standard PCR test is the most accurate of these three types of tests. Here\u2019s what you can expect if you have booked a PCR test.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Arrival",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "If you have symptoms or have been exposed to COVID-19, you can walk, drive, cycle or take a taxi to your testing appointment. Do not take the bus or ferry. If you are booked for an",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "asymptomatic test",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": ", you are welcome to take public transit if you wish.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "It is recommended that only the person receiving the COVID-19 test should be in the testing site.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Children and youth (under 19 years old) who are being tested may have one support person.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Pets are not allowed in in any testing site (including drive-through locations). Service dogs are permitted.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Arrive for your booked appointment no more than five minutes early.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "If you have a provincial health card, student ID or military ID, have it ready.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "At all locations (except drive-through locations) you\u2019ll be asked to sanitize your hands when you enter. You\u2019ll also be given a medical mask to wear in place of your non-medical mask.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "A team member will then tell you what to do next.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Registration",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The team member at registration will ask you to confirm your full name, birth date, health card or other ID number, email (if you have one) and phone number. It is important your phone number and email are correct as this will be how you will be reached for your results. Currently, results are only available by email for those with a valid Nova Scotia health card.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "They will then provide directions about what happens next.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Swab Testing",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "When it\u2019s your turn to be tested, you\u2019ll be asked to sanitize your hands again.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The nurse will ask you a few basic questions and will then explain what they are about to do.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "You\u2019ll be asked to slide your mask under your nose, keeping your mouth covered.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The nurse will ask you to turn toward them and tip your head back slightly.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "They will insert the swab into one side of your nose and tell you to take a breath.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "You will feel slight discomfort as the nurse counts for between five to 10 seconds. The nurse will then remove the swab.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Your eye may water a bit at first. Your nostril may be sensitive for a few seconds and you may sneeze or cough.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "That\u2019s it! You\u2019re finished. Staff will direct you to exit the building (or the drive-through).",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Gargle Testing for Children",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Children between the ages of 4 and 18 may be offered a gargle test. There are steps they need to complete BEFORE having the test. For detailed preparation instructions, please view the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "gargle instruction sheet",
+        "attrs": {
+            "href": "https://www.iwk.nshealth.ca/sites/default/files/COVID-19/Covid-Rinse-Gargle-InstructionSheet_8.5x11_v08.pdf"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "(PDF). If for any reason a gargle test isn't suitable for someone, a swab will be provided. Testing centre staff will help advise.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "A nose swab will be used for infants and young children (under 4 years old) or when a child/youth cannot swish and gargle.",
+        "attrs": {}
+    },
+    {
+        "tag": "em",
+        "text": "*PCR stands for polymerase chain reaction \u2013 this type of test looks for trace amounts of the COVID-19 virus to identify positive cases",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "What happens after my COVID-19 test?",
+        "attrs": {
+            "class": [
+                "jquery-ui-filter-header",
+                "jquery-ui-filter-accordion-header"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "For people with symptoms only: Once you have completed your COVID-19 test, you",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "must",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "self-isolate until you have received your result.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Learn more about when you need to get tested and when you need to self-isolate here.",
+        "attrs": {
+            "href": "http://www.nshealth.ca/what-do-i-need-know-about-covid-19-testing-and-self-isolation"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "For instructions on how to self-isolate please see",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "https://novascotia.ca/coronavirus/symptoms-and-testing/#testing",
+        "attrs": {
+            "href": "https://novascotia.ca/coronavirus/symptoms-and-testing/#testing"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "How do I receive my results?",
+        "attrs": {
+            "class": [
+                "jquery-ui-filter-header",
+                "jquery-ui-filter-accordion-header"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "When Nova Scotians come for their testing appointment at a COVID-19 primary assessment centre or mobile testing unit, they will be asked at registration for their email and/or phone number, as well as a health card or identification number.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "E-mail auto-notifications require the person to have a valid Nova Scotia health card (MSI).",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Auto-call notifications can be provided to those with any valid provincial health card, or a student or military identification number.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "In most cases, Nova Scotians will receive their test result within 72 hours.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Nova Scotians who have been tested should have their health card or identification number ready. They will be asked to enter the last four numbers to receive their result. Email results may be received 24 hours a day. Please check your \u201cJunk\u201d and \u201cOther Inbox\u201d folders for your negative test results. Look for an email from",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "noreply@nshealth.ca",
+        "attrs": {
+            "href": "mailto:noreply@nshealth.ca"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Auto-calls may occur daily between noon and 5 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "It\u2019s important that people keep their phones with them and on if they are expecting a test result. The caller ID will indicate unknown name, unknown number; please answer those calls. Please also have your health card or identification ready.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If a patient cannot be reached after receiving an email and two auto-calls, they will contacted by staff from Public Health or Service Nova Scotia. Nova Scotia Health has partnered with Service Nova Scotia to help deliver negative test results.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Staff will also phone those who do not have a valid provincial health card or student/military identification.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Receiving a phone call does not automatically mean your test result was positive.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Public Health will continue to make calls to those who test positive and will provide any additional instruction needed.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Learn more about",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Getting Your Test Results",
+        "attrs": {
+            "href": "http://www.nshealth.ca/files/information-about-testing-covid-19-getting-your-test-results"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "(.pdf)",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Learn more",
+        "attrs": {
+            "class": [
+                "jquery-ui-filter-header",
+                "jquery-ui-filter-accordion-header"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Testing: FAQs",
+        "attrs": {
+            "href": "http://www.nshealth.ca/covid-19-testing-frequently-asked-questions"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Nova Scotia Health\u00a0COVID-19 resources",
+        "attrs": {
+            "href": "http://www.nshealth.ca/coronavirus-home/coronavirus-covid-19-resources"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Information About Testing for COVID-19: Getting your test results",
+        "attrs": {
+            "href": "http://www.nshealth.ca/files/information-about-testing-covid-19-getting-your-test-results"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "(PDF)",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "En fran\u00e7ais",
+        "attrs": {
+            "href": "http://www.nshealth.ca/files/information-sur-le-test-de-depistage-de-la-covid-19"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "(PDF)",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Gargle instruction sheet",
+        "attrs": {
+            "href": "http://www.iwk.nshealth.ca/sites/default/files/COVID-19/Covid-Rinse-Gargle-InstructionSheet_8.5x11_v08.pdf"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "(PDF)",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Coronavirus (COVID-19)\u00a0\u00a0in Nova Scotia",
+        "attrs": {
+            "href": "http://www.novascotia.ca/coronavirus"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Coronavirus (COVID-19) in Canada",
+        "attrs": {
+            "href": "http://www.canada.ca/coronavirus"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Want to help support our COVID-19 vaccine effort?",
+        "attrs": {
+            "class": [
+                "pane-title"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Learn how you can volunteer\u00a0with Nova Scotia Health to support the response to COVID-19.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Learn more",
+        "attrs": {
+            "href": "http://www.nshealth.ca/volunteer"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Potential COVID-19 exposures",
+        "attrs": {
+            "class": [
+                "pane-title"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Find the latest updates about potential COVID-19 exposures\u00a0in Nova Scotia.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "See all",
+        "attrs": {
+            "href": "http://www.nshealth.ca/covid-exposures?title=&field_covid_exposure_zone_value=All&order=field_covid_exposure_zone&sort=asc"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Listen to our podcast",
+        "attrs": {
+            "class": [
+                "pane-title"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Check Up with Dr. Carr",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "is a new podcast hosted by Dr. Brendan Carr, President and CEO of Nova Scotia Health. Join Brendan for conversations with the people that shape health care in Nova Scotia and around the globe.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Listen",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "Temporary Closure Information",
+        "attrs": {
+            "class": [
+                "pane-title"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Find the latest information on unexpected facility and service closures.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Visit the NSHA Temporary Closures Page",
+        "attrs": {
+            "href": "http://www.nshealth.ca/stormclosures"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "end main content",
+        "attrs": {
+            "class": [
+                "l-page",
+                "has-one-sidebar",
+                "has-sidebar"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "footer content",
+        "attrs": {
+            "class": [
+                "l-page",
+                "has-one-sidebar",
+                "has-sidebar"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "About Us",
+        "attrs": {
+            "href": "/about-us",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Accountability",
+        "attrs": {
+            "href": "http://www.nshealth.ca/reports-statistics-and-accountability",
+            "title": "At Nova Scotia Health Authority, we are committed to being transparent in our actions and use of resources and accountability for our decisions."
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Become a Patient Family Advisor",
+        "attrs": {
+            "href": "https://www.nshealth.ca/become-patient-family-advisor",
+            "title": "Learn how you can become a patient family advisor"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "/contact-us",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Corporate Website",
+        "attrs": {
+            "href": "https://www.cdha.nshealth.ca/",
+            "title": "Publicly accessible information for stakeholders and partners"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Donate",
+        "attrs": {
+            "href": "http://www.nshealth.ca/donate",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Engage4Health",
+        "attrs": {
+            "href": "https://www.engage4health.ca/",
+            "title": "Join the conversation about healthcare in Nova Scotia"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Ethics Support",
+        "attrs": {
+            "href": "http://www.nshealth.ca/content/ethics-nsha",
+            "title": "Ethics NSHA provides support to all patients, families, volunteers, staff and health care providers in NSHA when they need help making difficult  choices or when there is disagreement about what is most important."
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health Information Request",
+        "attrs": {
+            "href": "http://www.nshealth.ca/service-details/Health%20Information%20Request%20(Release%20of%20Health%20Information)",
+            "title": "Find out how to request your personal health information from us."
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Medical Assistance in Dying",
+        "attrs": {
+            "href": "http://www.nshealth.ca/about-us/medical-assistance-dying",
+            "title": "Answers to some of the most common questions about medical assistance in dying. "
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Open Board Meetings",
+        "attrs": {
+            "href": "https://www.nshealth.ca/open-board-meetings-0",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Feedback",
+        "attrs": {
+            "href": "http://www.nshealth.ca/contact-us/patient-feedback",
+            "title": "We encourage your feedback."
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Plans and Reports",
+        "attrs": {
+            "href": "http://www.nshealth.ca/reports-statistics-and-accountability",
+            "title": "Here you will find a range of information covering corporate and program-specific strategies, business plans and financial documents, reports on many aspects of our performance, and regularly-updated information on subjects of interest to partners and the public."
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Physician opportunities",
+        "attrs": {
+            "href": "http://www.nshealth.ca/physician",
+            "title": "Physician Opportunities in Nova Scotia"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Policies",
+        "attrs": {
+            "href": "http://www.nshealth.ca/policies-0",
+            "title": "Explore NSHA's policy portal"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Privacy",
+        "attrs": {
+            "href": "http://www.nshealth.ca/your-privacy-nova-scotia-health-authority",
+            "title": "Learn how Nova Scotia Health Authority is committed to protecting the privacy of your personal health information"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Staff Intranet",
+        "attrs": {
+            "href": "http://intra.nshealth.ca/Pages/Welcome.aspx",
+            "title": "NSHA Intranet"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Blood Collection",
+        "attrs": {
+            "href": "http://www.nshealth.ca/blood-collection",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Careers",
+        "attrs": {
+            "href": "http://www.nshealth.ca/careers",
+            "title": "Find a job with Nova Scotia Health Authority"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Courses, Events and Workshops",
+        "attrs": {
+            "href": "http://nshealth.eventbrite.com",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Doing Business With Us",
+        "attrs": {
+            "href": "http://www.nshealth.ca/doing-business-us",
+            "title": "Learn about opportunities to partner with NSHA"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Independent Phlebotomy",
+        "attrs": {
+            "href": "http://www.nshealth.ca/independent-phlebotomy",
+            "title": "Independent phlebotomists are individuals or businesses (including long term care facilities) that are collecting blood specimens for laboratory testing in Nova Scotia and are not doing so in the scope of their employment with NSHA or the IWK."
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Library Services",
+        "attrs": {
+            "href": "http://library.nshealth.ca/",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Need a Family Practice?",
+        "attrs": {
+            "href": "https://needafamilypractice.nshealth.ca/FPSearchReasons/create",
+            "title": "For those who need to find a primary care provider (family doctor or nurse practitioner) in Nova Scotia"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Education",
+        "attrs": {
+            "href": "http://library.nshealth.ca/PatientEducation",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "QEII Simulation Based Learning",
+        "attrs": {
+            "href": "http://www.qe2simulation.com/index.asp",
+            "title": "Simulation-based learning for healthcare providers via the skills centre, simulation centre and sim bay."
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Research",
+        "attrs": {
+            "href": "/research1",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Services en fran\u00e7ais",
+        "attrs": {
+            "href": "http://www.nshealth.ca/les-services-en-francais-la-regie-de-la-sante-de-la-nouvelle-ecosse",
+            "title": "Help accessing our programs and services in French"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Volunteering",
+        "attrs": {
+            "href": "/get-involved/volunteering",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Wait times?",
+        "attrs": {
+            "href": "https://waittimes.novascotia.ca/",
+            "title": "Find out the approximate wait times for some of the various procedures performed in our facilities."
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Your Visit",
+        "attrs": {
+            "href": "http://www.nshealth.ca/your-visit",
+            "title": "Information to help you during your visit at NSHA facilities"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Media Contact",
+        "attrs": {
+            "href": "/media-contact",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News",
+        "attrs": {
+            "href": "/news",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Listen to our podcast",
+        "attrs": {
+            "href": "http://www.nshealth.ca/checkup",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Read our Newsletter",
+        "attrs": {
+            "href": "http://www.nshealth.ca/wave-stories-nova-scotia-health-authority",
+            "title": ""
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Subscribe to our Newsletter",
+        "attrs": {
+            "href": "https://lp.constantcontact.com/su/GhKvlRM/wave",
+            "title": ""
+        }
+    },
+    {
+        "tag": "div",
+        "text": "end footer content",
+        "attrs": {
+            "class": [
+                "l-page",
+                "has-one-sidebar",
+                "has-sidebar"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "partners logos",
+        "attrs": {
+            "class": [
+                "l-page",
+                "has-one-sidebar",
+                "has-sidebar"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "closure content",
+        "attrs": {
+            "class": [
+                "l-page",
+                "has-one-sidebar",
+                "has-sidebar"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "\u00a9 2020\u00a0Nova Scotia",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Health Authority",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "end closure content",
+        "attrs": {
+            "class": [
+                "l-page",
+                "has-one-sidebar",
+                "has-sidebar"
+            ]
+        }
+    }
+]

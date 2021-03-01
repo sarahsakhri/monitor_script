@@ -1,0 +1,1861 @@
+[{
+        "URL": "https://www.gov.mb.ca/covid19/testing/locations.html#map"
+    },
+    {
+        "tag": "[document]",
+        "text": "html",
+        "attrs": {}
+    },
+    {
+        "tag": "title",
+        "text": "Province of Manitoba | Find a Testing Location",
+        "attrs": {}
+    },
+    {
+        "tag": "style",
+        "text": "#coronavirus-alert {\r\nbackground-color: #e5e6e6;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-left-style: solid;\r\nborder-left-color: #326e90;\r\nborder-width: 10px;\r\nfont-size: 1.1em;\r\n}\r\n\r\n#coronavirus-contact {\r\nbackground-color: #e5e6e6;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-left-style: solid;\r\nborder-left-color: #326e90;\r\nborder-width: 15px;\r\nfont-size: 1.3em;\r\n}\r\n\r\n#coronavirus-sa {\r\nbackground-color: #001e61;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-width: 15px;\r\nfont-size: 1.3em;\r\n} \r\n\r\n#coronavirus-sa a {\r\ncolor: #FFFFFF; \r\n}\r\n\r\n\r\n#prs-restricted {\r\nbackground-color: #f99d3e;;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-top-style: solid;\r\nborder-bottom-style: solid;\r\nborder-top-color: #f99d3e;\r\nborder-bottom-color: #f99d3e;\r\nborder-width: 5px;\r\nfont-size: 1.1em;\r\n}\r\n#prs-critical {\r\nbackground-color: #fff;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-top-style: solid;\r\nborder-bottom-style: solid;\r\nborder-top-color: #be1e2d;\r\nborder-bottom-color: #be1e2d;\r\nborder-width: 5px;\r\nfont-size: 1.1em;\r\n} \r\n\r\n\r\n#coronavirus-current {\r\nbackground-color: #e5e6e6;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-top-style: solid;\r\nborder-bottom-style: solid;\r\nborder-top-color: #326e90;\r\nborder-bottom-color: #326e90;\r\nborder-width: 5px;\r\nfont-size: 1.1em;\r\n\r\n}\r\n\r\n#prs-alert-boxes {\r\nbackground-color: #e5e6e6;\r\nheight: 225px;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-radius: 20px;\r\nborder-width: 2px;\r\nfont-size: 1.1em;\r\n\r\n}\r\n\r\n#prs-alert-boxes2 {\r\nbackground-color: #e5e6e6;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-radius: 20px;\r\nborder-width: 2px;\r\nfont-size: 1.1em;\r\n\r\n}\r\n\r\ndiv.prs-map {\r\nfloat: right;\r\nwidth: 30%;\r\n}\r\n\r\n}\r\n\r\n#sidemenu-column .collapse{\r\ndisplay:block;\r\n}\r\n.panel-default1 {\r\n\r\n}\r\n\r\n.panel-default1 > .panel-heading1 {\r\ncolor: #333;\r\nbackground-color: #f6f9fb;\r\n\r\n}\r\n.panel-title1 {\r\nmargin-top: 0;\r\nmargin-bottom: 0;\r\nfont-size: 1.2em;\r\ncolor: #326e90;\r\ntext-decoration: none;\r\npadding:3px 0px;\r\n}\r\n.panel-title1 a{\r\ndisplay:block;\r\ncolor: #326e90;\r\ntext-decoration: underline;\r\n} \r\n\r\n.panel-body {\r\npadding-left:25px; \r\n}\r\n\r\n\r\n\r\n.panel-title1 a::before {\r\ncontent: ' ';\r\ndisplay: inline-block;\r\nborder-top: 5px solid transparent;\r\nborder-bottom: 5px solid transparent;\r\nborder-left: 5px solid currentColor;\r\nvertical-align: middle;\r\nmargin-right: .7rem;\r\nmargin-left:.7rem;\r\ntransform: rotate(90deg) translateX(-3px);\r\ntransition: transform .2s ease-out;\r\n}\r\n.panel-title1 a.collapsed::before {\r\ntransform: rotate(90deg) translateX(-3px);\r\ntransform: translateY(-2px);\r\n}\r\n\r\np\r\n{\r\nfont-size: 1.0em;\r\n}\r\n\r\n.content .columns .col-3-4 ul li, .content .columns .col-3-4 ol li, .content .columns .col-3-4 li ul li\r\n{\r\nfont-size: 1.1em;\r\n}\r\n\r\n.safe-callout {\r\nmargin-top:40px;\r\nbackground:#dbdfad;\r\npadding:0px 20px 20px 20px;\r\nposition:relative;\r\nmargin-left:auto;\r\nmargin-right:auto;\r\nmax-width:90%;\r\nborder-color: #999933;\r\nborder-style: solid;\r\nborder-width: 2px;\r\n}\r\n\r\n.safe-blockquote {\r\n\r\nbackground: #f9f9f9;\r\nborder-left: 10px solid #ccc;\r\nborder-right: 10px solid #ccc;\r\nborder-top: 10px solid #ccc;\r\nborder-bottom: 10px solid #ccc;\r\nmargin: 1.5em 10px;\r\npadding: 0.5em 10px;\r\n}\r\n\r\n.safe-callout .safe-callout-title {\r\nbackground:#999933;\r\ncolor:#fff;\r\npadding:8px;\r\nposition:relative;\r\ntop:-10px;\r\nwidth:70%;\r\nmargin:auto;\r\ntext-align:center;\r\ntext-transform:uppercase;\r\nfont-weight: 900;\r\nfont-size: 1.5em;\r\n}\r\n\r\n.caution-callout {\r\nmargin-top:40px;\r\nbackground:#fddfbb;\r\npadding:0px 20px 20px 20px;\r\nposition:relative;\r\nmargin-left:auto;\r\nmargin-right:auto;\r\nmax-width:90%;\r\nborder-color: #FF9933;\r\nborder-style: solid;\r\nborder-width: 2px;\r\n}\r\n\r\n.caution-blockquote {\r\n\r\nbackground: #FF9933;\r\nborder-left: 10px solid #ccc;\r\nborder-right: 10px solid #ccc;\r\nborder-top: 10px solid #ccc;\r\nborder-bottom: 10px solid #ccc;\r\nmargin: 1.5em 10px;\r\npadding: 0.5em 10px;\r\n}\r\n\r\n.caution-callout .caution-callout-title {\r\nbackground:#FF9933;\r\ncolor:#fff;\r\npadding:8px;\r\nposition:relative;\r\ntop:-10px;\r\nwidth:70%;\r\nmargin:auto;\r\ntext-align:center;\r\ntext-transform:uppercase;\r\nfont-weight: 900;\r\nfont-size: 1.5em;\r\n}\r\n.avoid-callout {\r\nmargin-top:40px;\r\nbackground:#ead4d4;\r\npadding:0px 20px 20px 20px;\r\nposition:relative;\r\nmargin-left:auto;\r\nmargin-right:auto;\r\nmax-width:90%;\r\nborder-color: #993333;\r\nborder-style: solid;\r\nborder-width: 2px;\r\n}\r\n\r\n.avoid-blockquote {\r\n\r\nbackground: #993333;\r\nborder-left: 10px solid #ccc;\r\nborder-right: 10px solid #ccc;\r\nborder-top: 10px solid #ccc;\r\nborder-bottom: 10px solid #ccc;\r\nmargin: 1.5em 10px;\r\npadding: 0.5em 10px;\r\n}\r\n\r\n.avoid-callout .avoid-callout-title {\r\nbackground:#993333;\r\ncolor:#fff;\r\npadding:8px;\r\nposition:relative;\r\ntop:-10px;\r\nwidth:70%;\r\nmargin:auto;\r\ntext-align:center;\r\ntext-transform:uppercase;\r\nfont-weight: 900;\r\nfont-size: 1.5em;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n/* Covid styling... Put into the snippet */\r\n.addthis_sharing_toolbox {\r\ndisplay:none;\r\n}\r\n.covid-header {\r\nmargin-bottom:5px;\r\nline-height:0;\r\n}\r\n.col.col-gray {\r\n}\r\n\r\nhr {\r\nborder-color:#92AAB8;\r\nborder-width:1px;\r\n\r\n}\r\n\r\n/* screening tool */\r\n.col.col-screening-tool {\r\nfont-size:24px;\r\nbackground:#D1E8E8;\r\nmargin-bottom:5px;\r\n}\r\n.col.col-screening-tool p {\r\nmargin:0px;\r\npadding:0px;\r\n}\r\n.col.col-screening-tool .col-2-3 p {\r\nmargin:0px;\r\npadding:0 0 0 0;\r\nposition:relative;\r\ntop:5px;\r\n}\r\n.col.col-screening-tool .col-1-3 p {\r\nfloat:none;\r\ndisplay:block;\r\nwidth:100%;\r\n}\r\n.col.col-screening-tool .col-2-3 {\r\npadding:15px 0px 10px 20px;\r\n}\r\n.col.col-screening-tool .col-1-3 {\r\npadding:10px 20px 10px 0px;\r\ntext-align:right;\r\n}\r\n\r\n.col.col-screening-tool a {\r\nborder-radius:10px;\r\ncolor:#fff;\r\nbackground: #21A749;\r\ntext-decoration:none;\r\npadding:10px;\r\nwidth:100%;\r\ndisplay:block;\r\nfont-weight:bold;\r\ntext-align:center;\r\n}\r\n\r\n\r\n/* Health links info */\r\n.col-health-links {\r\npadding:20px;\r\nfont-size:24px;\r\nmargin-bottom:5px;\r\nbackground:#E7E7E8;\r\n}\r\n.col-health-links p:last-child {\r\npadding-bottom:0px;\r\n}\r\n\r\n/* search form */\r\n.covid19-form > .col {\r\nmargin-bottom:30px;\r\nmargin-bottom: 30px;\r\nmargin-top: 10px; \r\nborder: 1px solid #92AAB8;\r\n}\r\n.covid19-form .col.col-1-3 {\r\npadding:10px 20px 10px 0;\r\n}\r\n.covid19-form .col.col-2-3 {\r\npadding:0px;\r\n}\r\n\r\n/* Cards */\r\n.col.borders {\r\nclear:both;\r\n}\r\n\r\n\r\n\r\n.col.borders .col {\r\n/* padding:0 0 10px 10px; */\r\npadding-bottom: 10px;\r\n}\r\n\r\n.col.borders .col.col-1-2 {\r\n/* padding:0 0 10px 10px; */\r\npadding-bottom: 14px;\r\n}\r\n\r\n.col.borders .col:first-of-type, .col.borders .col-1-2:first-of-type, .col.borders .col-1-3:first-of-type, .col.borders .col-1-4:first-of-type {\r\npadding-left:0px;\r\n}\r\n\r\n.col.borders .card {\r\ndisplay:block;\r\nborder: 1px solid #92AAB8;\r\nborder-radius: 10px;\r\npadding:20px;\r\nmin-height:400px;\r\nfont-size:20px;\r\ntext-align:center;\r\n}\r\n.col.borders .card:hover {\r\ntext-decoration:none;\r\n}\r\n\r\n.col.borders .card span {\r\ndisplay:block;\r\n}\r\n.col.borders .card h1 {\r\nfont-size:24px;\r\ncolor:#295975;\r\nfont-weight:bold;\r\nmin-height:100px;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n.col.borders .card h1.one-line {\r\npadding-top:30px;\r\n}\r\n.col.borders .card h1.two-line {\r\npadding-top:20px;\r\n}\r\n.col.borders .card h1.three-line {\r\npadding-top:10px;\r\n}\r\n.col.borders .card h1.four-line {\r\npadding-top:0px;\r\n}\r\n\r\n.col.borders .card img {\r\nmargin-bottom:10px;\r\n}\r\n\r\n\r\n\r\n.covid19-form input[type=\"search\"]{\r\nwidth:100%;\r\nborder:0;\r\ndisplay:inline-block;\r\nmargin:0;\r\nfont-size:24px;\r\npadding:5px 20px 0px 20px;\r\nheight:auto;\r\ncolor:#58595B;\r\n\r\n}\r\n.covid19-form input[type=\"submit\"]{\r\nheight:auto;\r\n\r\nborder:0;\r\nborder-radius:10px;\r\ncolor:#fff;\r\nbackground: #21A749;\r\ntext-decoration:none;\r\n/* padding:10px;*/\r\nwidth:100%;\r\ndisplay:inline-block;\r\nfont-weight:bold;\r\ntext-align:center;\r\nmargin:0px;\r\nfont-size:24px;\r\n\r\n}\r\n\r\n\r\n/* Resources */\r\n.col.col-resources {\r\nmargin-top:10px;\r\nborder-top: 1px solid #92AAB8;\r\nclear:both;\r\n}\r\n.col.col-resources h2 {\r\npadding:10px 20px;\r\n}\r\n\r\n\r\n@media screen and (max-width: 767px) {\r\n.col.borders .card {\r\nmin-height:auto;\r\n}\r\n.col-screening-tool .col.col-1-3 {\r\npadding-left:20px;\r\n}\r\n\r\n.covid19-form .col.col-1-3{\r\npadding-left:20px;\r\n}\r\n.col.borders .col {\r\npadding-left:0px;\r\n}\r\n}\r\n\r\n#business-button {\r\npadding-top: 10px;\r\npadding-right: 10px;\r\npadding-bottom: 10px;\r\npadding-left: 10px;\r\nmin-height: 230px;\r\nborder-radius: 10px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-width: 1px;\r\ntext-align: center;\r\nfont-size: 1 em;\r\n}\r\n\r\n#cottage-box {\r\nposition: inline-block;\r\npadding-top: 15px;\r\npadding-right: 15px;\r\npadding-bottom: 15px;\r\npadding-left: 15px;\r\n\r\nborder-radius: 10px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-width: 1px;\r\nvertical-align: text-top;\r\nfont-size: 1 em;\r\n}\r\n\r\n\r\n.covid-badge {\r\npadding-top: 10px;\r\npadding-right: 5px;\r\npadding-bottom: 10px;\r\npadding-left: 5px;\r\npadding-bottom: 10px;\r\nmin-height: 150px;\r\nborder-radius: 10px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-width: 1px;\r\ntext-align: center;\r\nfont-size: 0.9em;\r\n}\r\n\r\n.covid-badge span {\r\nfont-weight:bold;\r\ndisplay:block;\r\nmin-height:60px;\r\n}\r\n.covid-badge h1 {\r\nmargin:0px;\r\npadding:10px 0px 10px 0px;\r\nfont-size:36px;\r\ncolor:#000000;\r\nfont-weight:bold;\r\n}\r\n\r\n.prs-top-img {\r\noverflow: auto;\r\n}\r\n\r\n.prs-img1 {\r\nfloat: left;\r\npadding-right: 10px;\r\n}\r\n\r\n#test-button {\r\nbackground-color:#e3e6c7;\r\n}\r\n\r\n#total-button {\r\nbackground-color:#b4d9e9; \r\n}\r\n#active-button {\r\nbackground-color:#f8d1ca; \r\n}\r\n\r\n#recovered-button {\r\nbackground-color:#cee8e7;\r\n}\r\n\r\n#deaths-button {\r\nbackground-color:#eadece;\r\n} \r\n\r\n.col-2-4 {\r\nwidth:46%;\r\n}\r\n\r\n\r\n.business-callout {\r\nmargin-top:40px;\r\nbackground:#e5e6e6;\r\npadding:0px 20px 20px 20px;\r\nposition:relative;\r\nmargin-left:auto;\r\nmargin-right:auto;\r\nmax-width:90%;\r\nborder-color: #326e90;\r\nborder-style: solid;\r\nborder-width: 2px;\r\n}\r\n\r\n.business-blockquote {\r\n\r\nbackground: #326e90;\r\nborder-left: 10px solid #ccc;\r\nborder-right: 10px solid #ccc;\r\nborder-top: 10px solid #ccc;\r\nborder-bottom: 10px solid #ccc;\r\nmargin: 1.5em 10px;\r\npadding: 0.5em 10px;\r\n}\r\n\r\n.business-callout .business-callout-title {\r\nbackground:#326e90;\r\ncolor:#fff;\r\npadding:8px;\r\nposition:relative;\r\ntop:-10px;\r\nwidth:70%;\r\nmargin:auto;\r\ntext-align:center;\r\nfont-weight: 900;\r\nfont-size: 1.5em;\r\n} \r\n\r\n#rha-response {\r\n\r\nbackground-color: #326e90;\r\npadding-top: 15px;\r\npadding-bottom: 5px;\r\npadding-left: 25px;\r\n}\r\n\r\n\r\n\r\n/* Restart MB colours */\r\n.col.borders .card.restartmb h1 {\r\ncolor:#0E2659;\r\n}\r\n.col.borders .card.restartmb span {\r\ncolor:#000000;\r\n} \r\n\r\n\r\n\r\n/* Covid-19 Updates Service Boxes */\r\n.col.boxed .card {\r\ndisplay: table;\r\ncolor:#fff;\r\npadding: 0px 20px;\r\nwidth:80%;\r\nheight: 140px;\r\nfont-size: 20px;\r\ntext-align: center;\r\nmargin: auto;\r\n}\r\n\r\n.col.boxed.boxed-restart .card {\r\nbackground: #39b54a;\r\n\r\n}\r\n\r\n.col.boxed.boxed-testing .card {\r\nbackground: #004185;\r\n\r\n}\r\n\r\n.col.boxed.boxed-covid .card {\r\nbackground: #336e8f;\r\n\r\n}\r\n.col.boxed.boxed-protect .card {\r\nbackground: #335973;\r\n}\r\n\r\n\r\n.col.boxed .card span {\r\nvertical-align:middle;\r\ndisplay:table-cell;\r\nheight:80px;\r\ntext-align: center;\r\nwidth: 100%;\r\n}\r\n\r\n\r\n.col.boxed .col {\r\ntext-align:center;\r\n}\r\n\r\n.col.boxed .col:nth-child(3n+1) {\r\nmargin: unset;\r\n}\r\n.col.boxed .col:nth-child(3n+1) .card {\r\nmargin: unset;\r\n}\r\n\r\n.col.boxed .col:nth-child(3n+2){\r\nmargin:auto;\r\ntext-align:center;\r\n}\r\n.col.boxed .col:nth-child(3n+3) .card {\r\nfloat:right;\r\n}\r\n\r\n\r\n@media screen and (max-width: 767px) {\r\n.col.boxed .col {\r\nwidth:100%;\r\npadding-left:0px;\r\npadding-right:0px;\r\n}\r\n.col.boxed .col .card {\r\nwidth:100%;\r\ntext-align:center;\r\npadding-left:20px;\r\npadding-right:20px;\r\n}\r\n.col.boxed .col:nth-child(3n+2){\r\nmargin:unset;\r\ntext-align:initial;\r\n}\r\n.col.boxed .col:nth-child(3n+3) .card {\r\nfloat:none;\r\n}\r\n.col.hidden-mobile {\r\ndisplay:none;\r\n}\r\n}\r\n\r\n\r\n.col-inside-3 ul li {\r\npadding: 10px 10px 6px;\r\nfont-size: 1.1em;\r\n}\r\n\r\n.col-inside-3 p {\r\nfont-size: 1.0em;\r\n}\r\n\r\n.col-inside-3 h2\r\n{\r\nfont-weight: 700;\r\n}",
+        "attrs": {
+            "type": "text/css"
+        }
+    },
+    {
+        "tag": "style",
+        "text": "#coronavirus-alert {\r\nbackground-color: #e5e6e6;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-left-style: solid;\r\nborder-left-color: #326e90;\r\nborder-width: 10px;\r\nfont-size: 1.1em;\r\n}\r\n\r\n#coronavirus-contact {\r\nbackground-color: #e5e6e6;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-left-style: solid;\r\nborder-left-color: #326e90;\r\nborder-width: 15px;\r\nfont-size: 1.3em;\r\n}\r\n\r\n#coronavirus-sa {\r\nbackground-color: #001e61;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-width: 15px;\r\nfont-size: 1.3em;\r\n} \r\n\r\n#coronavirus-sa a {\r\ncolor: #FFFFFF; \r\n}\r\n\r\n\r\n#prs-restricted {\r\nbackground-color: #f99d3e;;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-top-style: solid;\r\nborder-bottom-style: solid;\r\nborder-top-color: #f99d3e;\r\nborder-bottom-color: #f99d3e;\r\nborder-width: 5px;\r\nfont-size: 1.1em;\r\n}\r\n#prs-critical {\r\nbackground-color: #fff;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-top-style: solid;\r\nborder-bottom-style: solid;\r\nborder-top-color: #be1e2d;\r\nborder-bottom-color: #be1e2d;\r\nborder-width: 5px;\r\nfont-size: 1.1em;\r\n} \r\n\r\n\r\n#coronavirus-current {\r\nbackground-color: #e5e6e6;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-top-style: solid;\r\nborder-bottom-style: solid;\r\nborder-top-color: #326e90;\r\nborder-bottom-color: #326e90;\r\nborder-width: 5px;\r\nfont-size: 1.1em;\r\n\r\n}\r\n\r\n#prs-alert-boxes {\r\nbackground-color: #e5e6e6;\r\nheight: 225px;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-radius: 20px;\r\nborder-width: 2px;\r\nfont-size: 1.1em;\r\n\r\n}\r\n\r\n#prs-alert-boxes2 {\r\nbackground-color: #e5e6e6;\r\npadding-top: 15px;\r\npadding-right: 20px;\r\npadding-bottom: 15px;\r\npadding-left: 20px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-radius: 20px;\r\nborder-width: 2px;\r\nfont-size: 1.1em;\r\n\r\n}\r\n\r\ndiv.prs-map {\r\nfloat: right;\r\nwidth: 30%;\r\n}\r\n\r\n}\r\n\r\n#sidemenu-column .collapse{\r\ndisplay:block;\r\n}\r\n.panel-default1 {\r\n\r\n}\r\n\r\n.panel-default1 > .panel-heading1 {\r\ncolor: #333;\r\nbackground-color: #f6f9fb;\r\n\r\n}\r\n.panel-title1 {\r\nmargin-top: 0;\r\nmargin-bottom: 0;\r\nfont-size: 1.2em;\r\ncolor: #326e90;\r\ntext-decoration: none;\r\npadding:3px 0px;\r\n}\r\n.panel-title1 a{\r\ndisplay:block;\r\ncolor: #326e90;\r\ntext-decoration: underline;\r\n} \r\n\r\n.panel-body {\r\npadding-left:25px; \r\n}\r\n\r\n\r\n\r\n.panel-title1 a::before {\r\ncontent: ' ';\r\ndisplay: inline-block;\r\nborder-top: 5px solid transparent;\r\nborder-bottom: 5px solid transparent;\r\nborder-left: 5px solid currentColor;\r\nvertical-align: middle;\r\nmargin-right: .7rem;\r\nmargin-left:.7rem;\r\ntransform: rotate(90deg) translateX(-3px);\r\ntransition: transform .2s ease-out;\r\n}\r\n.panel-title1 a.collapsed::before {\r\ntransform: rotate(90deg) translateX(-3px);\r\ntransform: translateY(-2px);\r\n}\r\n\r\np\r\n{\r\nfont-size: 1.0em;\r\n}\r\n\r\n.content .columns .col-3-4 ul li, .content .columns .col-3-4 ol li, .content .columns .col-3-4 li ul li\r\n{\r\nfont-size: 1.1em;\r\n}\r\n\r\n.safe-callout {\r\nmargin-top:40px;\r\nbackground:#dbdfad;\r\npadding:0px 20px 20px 20px;\r\nposition:relative;\r\nmargin-left:auto;\r\nmargin-right:auto;\r\nmax-width:90%;\r\nborder-color: #999933;\r\nborder-style: solid;\r\nborder-width: 2px;\r\n}\r\n\r\n.safe-blockquote {\r\n\r\nbackground: #f9f9f9;\r\nborder-left: 10px solid #ccc;\r\nborder-right: 10px solid #ccc;\r\nborder-top: 10px solid #ccc;\r\nborder-bottom: 10px solid #ccc;\r\nmargin: 1.5em 10px;\r\npadding: 0.5em 10px;\r\n}\r\n\r\n.safe-callout .safe-callout-title {\r\nbackground:#999933;\r\ncolor:#fff;\r\npadding:8px;\r\nposition:relative;\r\ntop:-10px;\r\nwidth:70%;\r\nmargin:auto;\r\ntext-align:center;\r\ntext-transform:uppercase;\r\nfont-weight: 900;\r\nfont-size: 1.5em;\r\n}\r\n\r\n.caution-callout {\r\nmargin-top:40px;\r\nbackground:#fddfbb;\r\npadding:0px 20px 20px 20px;\r\nposition:relative;\r\nmargin-left:auto;\r\nmargin-right:auto;\r\nmax-width:90%;\r\nborder-color: #FF9933;\r\nborder-style: solid;\r\nborder-width: 2px;\r\n}\r\n\r\n.caution-blockquote {\r\n\r\nbackground: #FF9933;\r\nborder-left: 10px solid #ccc;\r\nborder-right: 10px solid #ccc;\r\nborder-top: 10px solid #ccc;\r\nborder-bottom: 10px solid #ccc;\r\nmargin: 1.5em 10px;\r\npadding: 0.5em 10px;\r\n}\r\n\r\n.caution-callout .caution-callout-title {\r\nbackground:#FF9933;\r\ncolor:#fff;\r\npadding:8px;\r\nposition:relative;\r\ntop:-10px;\r\nwidth:70%;\r\nmargin:auto;\r\ntext-align:center;\r\ntext-transform:uppercase;\r\nfont-weight: 900;\r\nfont-size: 1.5em;\r\n}\r\n.avoid-callout {\r\nmargin-top:40px;\r\nbackground:#ead4d4;\r\npadding:0px 20px 20px 20px;\r\nposition:relative;\r\nmargin-left:auto;\r\nmargin-right:auto;\r\nmax-width:90%;\r\nborder-color: #993333;\r\nborder-style: solid;\r\nborder-width: 2px;\r\n}\r\n\r\n.avoid-blockquote {\r\n\r\nbackground: #993333;\r\nborder-left: 10px solid #ccc;\r\nborder-right: 10px solid #ccc;\r\nborder-top: 10px solid #ccc;\r\nborder-bottom: 10px solid #ccc;\r\nmargin: 1.5em 10px;\r\npadding: 0.5em 10px;\r\n}\r\n\r\n.avoid-callout .avoid-callout-title {\r\nbackground:#993333;\r\ncolor:#fff;\r\npadding:8px;\r\nposition:relative;\r\ntop:-10px;\r\nwidth:70%;\r\nmargin:auto;\r\ntext-align:center;\r\ntext-transform:uppercase;\r\nfont-weight: 900;\r\nfont-size: 1.5em;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n/* Covid styling... Put into the snippet */\r\n.addthis_sharing_toolbox {\r\ndisplay:none;\r\n}\r\n.covid-header {\r\nmargin-bottom:5px;\r\nline-height:0;\r\n}\r\n.col.col-gray {\r\n}\r\n\r\nhr {\r\nborder-color:#92AAB8;\r\nborder-width:1px;\r\n\r\n}\r\n\r\n/* screening tool */\r\n.col.col-screening-tool {\r\nfont-size:24px;\r\nbackground:#D1E8E8;\r\nmargin-bottom:5px;\r\n}\r\n.col.col-screening-tool p {\r\nmargin:0px;\r\npadding:0px;\r\n}\r\n.col.col-screening-tool .col-2-3 p {\r\nmargin:0px;\r\npadding:0 0 0 0;\r\nposition:relative;\r\ntop:5px;\r\n}\r\n.col.col-screening-tool .col-1-3 p {\r\nfloat:none;\r\ndisplay:block;\r\nwidth:100%;\r\n}\r\n.col.col-screening-tool .col-2-3 {\r\npadding:15px 0px 10px 20px;\r\n}\r\n.col.col-screening-tool .col-1-3 {\r\npadding:10px 20px 10px 0px;\r\ntext-align:right;\r\n}\r\n\r\n.col.col-screening-tool a {\r\nborder-radius:10px;\r\ncolor:#fff;\r\nbackground: #21A749;\r\ntext-decoration:none;\r\npadding:10px;\r\nwidth:100%;\r\ndisplay:block;\r\nfont-weight:bold;\r\ntext-align:center;\r\n}\r\n\r\n\r\n/* Health links info */\r\n.col-health-links {\r\npadding:20px;\r\nfont-size:24px;\r\nmargin-bottom:5px;\r\nbackground:#E7E7E8;\r\n}\r\n.col-health-links p:last-child {\r\npadding-bottom:0px;\r\n}\r\n\r\n/* search form */\r\n.covid19-form > .col {\r\nmargin-bottom:30px;\r\nmargin-bottom: 30px;\r\nmargin-top: 10px; \r\nborder: 1px solid #92AAB8;\r\n}\r\n.covid19-form .col.col-1-3 {\r\npadding:10px 20px 10px 0;\r\n}\r\n.covid19-form .col.col-2-3 {\r\npadding:0px;\r\n}\r\n\r\n/* Cards */\r\n.col.borders {\r\nclear:both;\r\n}\r\n\r\n\r\n\r\n.col.borders .col {\r\n/* padding:0 0 10px 10px; */\r\npadding-bottom: 10px;\r\n}\r\n\r\n.col.borders .col.col-1-2 {\r\n/* padding:0 0 10px 10px; */\r\npadding-bottom: 14px;\r\n}\r\n\r\n.col.borders .col:first-of-type, .col.borders .col-1-2:first-of-type, .col.borders .col-1-3:first-of-type, .col.borders .col-1-4:first-of-type {\r\npadding-left:0px;\r\n}\r\n\r\n.col.borders .card {\r\ndisplay:block;\r\nborder: 1px solid #92AAB8;\r\nborder-radius: 10px;\r\npadding:20px;\r\nmin-height:400px;\r\nfont-size:20px;\r\ntext-align:center;\r\n}\r\n.col.borders .card:hover {\r\ntext-decoration:none;\r\n}\r\n\r\n.col.borders .card span {\r\ndisplay:block;\r\n}\r\n.col.borders .card h1 {\r\nfont-size:24px;\r\ncolor:#295975;\r\nfont-weight:bold;\r\nmin-height:100px;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n.col.borders .card h1.one-line {\r\npadding-top:30px;\r\n}\r\n.col.borders .card h1.two-line {\r\npadding-top:20px;\r\n}\r\n.col.borders .card h1.three-line {\r\npadding-top:10px;\r\n}\r\n.col.borders .card h1.four-line {\r\npadding-top:0px;\r\n}\r\n\r\n.col.borders .card img {\r\nmargin-bottom:10px;\r\n}\r\n\r\n\r\n\r\n.covid19-form input[type=\"search\"]{\r\nwidth:100%;\r\nborder:0;\r\ndisplay:inline-block;\r\nmargin:0;\r\nfont-size:24px;\r\npadding:5px 20px 0px 20px;\r\nheight:auto;\r\ncolor:#58595B;\r\n\r\n}\r\n.covid19-form input[type=\"submit\"]{\r\nheight:auto;\r\n\r\nborder:0;\r\nborder-radius:10px;\r\ncolor:#fff;\r\nbackground: #21A749;\r\ntext-decoration:none;\r\n/* padding:10px;*/\r\nwidth:100%;\r\ndisplay:inline-block;\r\nfont-weight:bold;\r\ntext-align:center;\r\nmargin:0px;\r\nfont-size:24px;\r\n\r\n}\r\n\r\n\r\n/* Resources */\r\n.col.col-resources {\r\nmargin-top:10px;\r\nborder-top: 1px solid #92AAB8;\r\nclear:both;\r\n}\r\n.col.col-resources h2 {\r\npadding:10px 20px;\r\n}\r\n\r\n\r\n@media screen and (max-width: 767px) {\r\n.col.borders .card {\r\nmin-height:auto;\r\n}\r\n.col-screening-tool .col.col-1-3 {\r\npadding-left:20px;\r\n}\r\n\r\n.covid19-form .col.col-1-3{\r\npadding-left:20px;\r\n}\r\n.col.borders .col {\r\npadding-left:0px;\r\n}\r\n}\r\n\r\n#business-button {\r\npadding-top: 10px;\r\npadding-right: 10px;\r\npadding-bottom: 10px;\r\npadding-left: 10px;\r\nmin-height: 230px;\r\nborder-radius: 10px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-width: 1px;\r\ntext-align: center;\r\nfont-size: 1 em;\r\n}\r\n\r\n#cottage-box {\r\nposition: inline-block;\r\npadding-top: 15px;\r\npadding-right: 15px;\r\npadding-bottom: 15px;\r\npadding-left: 15px;\r\n\r\nborder-radius: 10px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-width: 1px;\r\nvertical-align: text-top;\r\nfont-size: 1 em;\r\n}\r\n\r\n\r\n.covid-badge {\r\npadding-top: 10px;\r\npadding-right: 5px;\r\npadding-bottom: 10px;\r\npadding-left: 5px;\r\npadding-bottom: 10px;\r\nmin-height: 150px;\r\nborder-radius: 10px;\r\nborder-style: solid;\r\nborder-color: #326e90;\r\nborder-width: 1px;\r\ntext-align: center;\r\nfont-size: 0.9em;\r\n}\r\n\r\n.covid-badge span {\r\nfont-weight:bold;\r\ndisplay:block;\r\nmin-height:60px;\r\n}\r\n.covid-badge h1 {\r\nmargin:0px;\r\npadding:10px 0px 10px 0px;\r\nfont-size:36px;\r\ncolor:#000000;\r\nfont-weight:bold;\r\n}\r\n\r\n.prs-top-img {\r\noverflow: auto;\r\n}\r\n\r\n.prs-img1 {\r\nfloat: left;\r\npadding-right: 10px;\r\n}\r\n\r\n#test-button {\r\nbackground-color:#e3e6c7;\r\n}\r\n\r\n#total-button {\r\nbackground-color:#b4d9e9; \r\n}\r\n#active-button {\r\nbackground-color:#f8d1ca; \r\n}\r\n\r\n#recovered-button {\r\nbackground-color:#cee8e7;\r\n}\r\n\r\n#deaths-button {\r\nbackground-color:#eadece;\r\n} \r\n\r\n.col-2-4 {\r\nwidth:46%;\r\n}\r\n\r\n\r\n.business-callout {\r\nmargin-top:40px;\r\nbackground:#e5e6e6;\r\npadding:0px 20px 20px 20px;\r\nposition:relative;\r\nmargin-left:auto;\r\nmargin-right:auto;\r\nmax-width:90%;\r\nborder-color: #326e90;\r\nborder-style: solid;\r\nborder-width: 2px;\r\n}\r\n\r\n.business-blockquote {\r\n\r\nbackground: #326e90;\r\nborder-left: 10px solid #ccc;\r\nborder-right: 10px solid #ccc;\r\nborder-top: 10px solid #ccc;\r\nborder-bottom: 10px solid #ccc;\r\nmargin: 1.5em 10px;\r\npadding: 0.5em 10px;\r\n}\r\n\r\n.business-callout .business-callout-title {\r\nbackground:#326e90;\r\ncolor:#fff;\r\npadding:8px;\r\nposition:relative;\r\ntop:-10px;\r\nwidth:70%;\r\nmargin:auto;\r\ntext-align:center;\r\nfont-weight: 900;\r\nfont-size: 1.5em;\r\n} \r\n\r\n#rha-response {\r\n\r\nbackground-color: #326e90;\r\npadding-top: 15px;\r\npadding-bottom: 5px;\r\npadding-left: 25px;\r\n}\r\n\r\n\r\n\r\n/* Restart MB colours */\r\n.col.borders .card.restartmb h1 {\r\ncolor:#0E2659;\r\n}\r\n.col.borders .card.restartmb span {\r\ncolor:#000000;\r\n} \r\n\r\n\r\n\r\n/* Covid-19 Updates Service Boxes */\r\n.col.boxed .card {\r\ndisplay: table;\r\ncolor:#fff;\r\npadding: 0px 20px;\r\nwidth:80%;\r\nheight: 140px;\r\nfont-size: 20px;\r\ntext-align: center;\r\nmargin: auto;\r\n}\r\n\r\n.col.boxed.boxed-restart .card {\r\nbackground: #39b54a;\r\n\r\n}\r\n\r\n.col.boxed.boxed-testing .card {\r\nbackground: #004185;\r\n\r\n}\r\n\r\n.col.boxed.boxed-covid .card {\r\nbackground: #336e8f;\r\n\r\n}\r\n.col.boxed.boxed-protect .card {\r\nbackground: #335973;\r\n}\r\n\r\n\r\n.col.boxed .card span {\r\nvertical-align:middle;\r\ndisplay:table-cell;\r\nheight:80px;\r\ntext-align: center;\r\nwidth: 100%;\r\n}\r\n\r\n\r\n.col.boxed .col {\r\ntext-align:center;\r\n}\r\n\r\n.col.boxed .col:nth-child(3n+1) {\r\nmargin: unset;\r\n}\r\n.col.boxed .col:nth-child(3n+1) .card {\r\nmargin: unset;\r\n}\r\n\r\n.col.boxed .col:nth-child(3n+2){\r\nmargin:auto;\r\ntext-align:center;\r\n}\r\n.col.boxed .col:nth-child(3n+3) .card {\r\nfloat:right;\r\n}\r\n\r\n\r\n@media screen and (max-width: 767px) {\r\n.col.boxed .col {\r\nwidth:100%;\r\npadding-left:0px;\r\npadding-right:0px;\r\n}\r\n.col.boxed .col .card {\r\nwidth:100%;\r\ntext-align:center;\r\npadding-left:20px;\r\npadding-right:20px;\r\n}\r\n.col.boxed .col:nth-child(3n+2){\r\nmargin:unset;\r\ntext-align:initial;\r\n}\r\n.col.boxed .col:nth-child(3n+3) .card {\r\nfloat:none;\r\n}\r\n.col.hidden-mobile {\r\ndisplay:none;\r\n}\r\n}\r\n\r\n\r\n.col-inside-3 ul li {\r\npadding: 10px 10px 6px;\r\nfont-size: 1.1em;\r\n}\r\n\r\n.col-inside-3 p {\r\nfont-size: 1.0em;\r\n}\r\n\r\n.col-inside-3 h2\r\n{\r\nfont-weight: 700;\r\n}",
+        "attrs": {
+            "type": "text/css"
+        }
+    },
+    {
+        "tag": "head",
+        "text": "Google Tag Manager",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&' + 'l='+l:'';j.async=true;j.src=\r\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-PC6FTGC');",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "End Google Tag Manager",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "Global site tag (gtag.js) - Google Analytics",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-11290135-75');",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "var sdkInstance=\"appInsightsSDK\";window[sdkInstance]=\"appInsights\";var aiName=window[sdkInstance],aisdk=window[aiName]||function(e){function n(e){t[e]=function(){var n=arguments;t.queue.push(function(){t[e].apply(t,n)})}}var t={config:e};t.initialize=!0;var i=document,a=window;setTimeout(function(){var n=i.createElement(\"script\");n.src=e.url||\"https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js\",i.getElementsByTagName(\"script\")[0].parentNode.appendChild(n)});try{t.cookie=i.cookie}catch(e){}t.queue=[],t.version=2;for(var r=[\"Event\",\"PageView\",\"Exception\",\"Trace\",\"DependencyData\",\"Metric\",\"PageViewPerformance\"];r.length;)n(\"track\"+r.pop());n(\"startTrackPage\"),n(\"stopTrackPage\");var s=\"Track\"+r[0];if(n(\"start\"+s),n(\"stop\"+s),n(\"setAuthenticatedUserContext\"),n(\"clearAuthenticatedUserContext\"),n(\"flush\"),!(!0===e.disableExceptionTracking||e.extensionConfig&&e.extensionConfig.ApplicationInsightsAnalytics&&!0===e.extensionConfig.ApplicationInsightsAnalytics.disableExceptionTracking)){n(\"_\"+(r=\"onerror\"));var o=a[r];a[r]=function(e,n,i,a,s){var c=o&&o(e,n,i,a,s);return!0!==c&&t[\"_\"+r]({message:e,url:n,lineNumber:i,columnNumber:a,error:s}),c},e.autoExceptionInstrumented=!0}return t}({  instrumentationKey:\"d114fee3-6fcf-49e4-bc9b-8ae9aa271446\"});window[aiName]=aisdk,aisdk.queue&&0===aisdk.queue.length&&aisdk.trackPageView({});",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "style",
+        "text": ".alert-banner {\r\nwidth:100%;\r\ndisplay:block;\r\n\r\nbackground:#fffc00;\r\ncolor:#000000;\r\n}\r\n.alert-banner .wrapper{\r\npadding:20px 0px;\r\n}\r\n.alert-banner .wrapper a {\r\ncolor:#000000;\r\nfont-weight:bold;\r\n}\r\n.alert-banner .wrapper a:hover {\r\ncolor:#000000;\r\n}\r\n\r\n@media screen and (max-width: 1023px) {\r\n.alert-banner .wrapper{\r\npadding:20px 10px;\r\n}\r\n}",
+        "attrs": {
+            "type": "text/css"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Learn about",
+        "attrs": {
+            "class": [
+                "wrapper"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Manitoba's vaccine program",
+        "attrs": {
+            "href": "https://www.manitoba.ca/vaccine"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "to help protect Manitobans.",
+        "attrs": {
+            "class": [
+                "wrapper"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Header",
+        "attrs": {
+            "rel": [
+                "header",
+                "navigation"
+            ],
+            "accesskey": [
+                "1"
+            ],
+            "href": "#navigation"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Side Menu",
+        "attrs": {
+            "rel": [
+                "side",
+                "bar",
+                "navigation"
+            ],
+            "accesskey": [
+                "2"
+            ],
+            "href": "#sidemenu"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Content",
+        "attrs": {
+            "rel": [
+                "main",
+                "body",
+                "navigation"
+            ],
+            "accesskey": [
+                "3"
+            ],
+            "href": "#content"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Footer",
+        "attrs": {
+            "rel": [
+                "footer",
+                "navigation"
+            ],
+            "accesskey": [
+                "4"
+            ],
+            "href": "#footernav"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Search",
+        "attrs": {
+            "rel": [
+                "search"
+            ],
+            "accesskey": [
+                "0"
+            ],
+            "href": "#search"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Printer Friendly",
+        "attrs": {
+            "href": "print,locations.html",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fran\u00e7ais",
+        "attrs": {
+            "href": "../../covid19/testing/locations.fr.html",
+            "class": [
+                "headerlinks"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Site Map",
+        "attrs": {
+            "href": "//www.gov.mb.ca/sitemap.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Government",
+        "attrs": {
+            "href": "//www.gov.mb.ca/contact/"
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Keywords",
+        "attrs": {
+            "style": "display:none",
+            "for": "bsc-head-searchfield"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Resident and online services",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Search Programs and Services",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Forms",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/forms.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Publications",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/publications.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Finding Work",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/findingwork.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Lost Identification",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/lost_id.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Moving to or Around Manitoba",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/moving.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Communities around Manitoba",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/communities.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Maps",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/maps.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Online Services",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/onlineservices.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Social Media Directory",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/socialmedia/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Mobile Applications",
+        "attrs": {
+            "href": "//residents.gov.mb.ca/apps/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Business",
+        "attrs": {
+            "href": "//www.gov.mb.ca/business/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Search for Business Information",
+        "attrs": {
+            "href": "//www.gov.mb.ca/business/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Starting a Business",
+        "attrs": {
+            "href": "//www.gov.mb.ca/business/startingsmart/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Business Research",
+        "attrs": {
+            "href": "//www.gov.mb.ca/business/businessresearch/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Financing a Business",
+        "attrs": {
+            "href": "//www.gov.mb.ca/business/financing/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Registration, Legal and Licencing",
+        "attrs": {
+            "href": "//www.gov.mb.ca/business/registration/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Doing Business with Government",
+        "attrs": {
+            "href": "//www.gov.mb.ca/business/doingbusiness/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "BizPaL",
+        "attrs": {
+            "href": "http://bizpalmanitoba.ca/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Government",
+        "attrs": {
+            "href": "//www.gov.mb.ca/government/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Premier",
+        "attrs": {
+            "href": "//www.gov.mb.ca/minister/premier/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Cabinet Ministers",
+        "attrs": {
+            "href": "//www.gov.mb.ca/minister/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Departments",
+        "attrs": {
+            "href": "//www.gov.mb.ca/government/departments.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Agencies, Boards and Commissions",
+        "attrs": {
+            "href": "//www.gov.mb.ca/government/abc/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "OpenMB/Proactive Disclosure",
+        "attrs": {
+            "href": "//www.gov.mb.ca/openmb/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Legislative Assembly",
+        "attrs": {
+            "href": "//www.gov.mb.ca/legislature/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Manitoba Courts",
+        "attrs": {
+            "href": "//www.manitobacourts.mb.ca/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Manitoba Laws",
+        "attrs": {
+            "href": "//web2.gov.mb.ca/laws/index.php"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Visitors",
+        "attrs": {
+            "href": "//www.travelmanitoba.com/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Things to do",
+        "attrs": {
+            "href": "//www.travelmanitoba.com/things-to-do/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Places to Go",
+        "attrs": {
+            "href": "//www.travelmanitoba.com/places-to-go/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Where to Stay",
+        "attrs": {
+            "href": "//www.travelmanitoba.com/where-to-stay/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Events",
+        "attrs": {
+            "href": "//www.travelmanitoba.com/events/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Trip Essentials",
+        "attrs": {
+            "href": "//www.travelmanitoba.com/trip-essentials/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Visitor Information Center",
+        "attrs": {
+            "href": "//www.travelmanitoba.com/trip-essentials/visitor-information-centres/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Manitoba.ca",
+        "attrs": {
+            "href": "//www.gov.mb.ca/index.html",
+            "class": [
+                "breadcrumb"
+            ]
+        }
+    },
+    {
+        "tag": "li",
+        "text": ">",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19",
+        "attrs": {
+            "href": "../../covid19/index.html",
+            "class": [
+                "breadcrumb"
+            ]
+        }
+    },
+    {
+        "tag": "li",
+        "text": ">",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Testing COVID-19",
+        "attrs": {
+            "href": "../../covid19/testing/index.html",
+            "class": [
+                "breadcrumb"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Find a Testing Location",
+        "attrs": {
+            "class": [
+                "col-inside-3"
+            ]
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "Find a Testing Location",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "On this page:",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "What are the different kinds of test sites?",
+        "attrs": {
+            "href": "#kindsoftest"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Where can I get tested?",
+        "attrs": {
+            "href": "#list"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Map Locations",
+        "attrs": {
+            "href": "#map"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "How can I make an appointment for a COVID-19 test?",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "How can I find my results?",
+        "attrs": {
+            "href": "#results"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "What are the different kinds of test sites?",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "At",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "testing centres",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": ", you will stand in a physically-distanced line to       receive your test for walk-up services. If you have an appointment, you       will enter the site at your appointment time.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "At",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "drive-thru sites",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": ", you will remain in your vehicle at all times, and       you will be tested while in your vehicle.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "At",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "walk-in  sites",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": ", you must make an appointment. You will remain in your  vehicle until your appointment time, and then you will walk into a indoor  staging area to get your test.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "At",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "mobile sites",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": ", you will stand in a physically-distanced line to       receive your test; please note that mobile site locations may change       depending on testing needs, though the locations on this page are always       kept current.",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "Where can I get tested?",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "UPDATED",
+        "attrs": {
+            "style": "color: #ff0004"
+        }
+    },
+    {
+        "tag": "em",
+        "text": "Last updated: February 17, 2021",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Regions:",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Doctors' Clinics in Winnipeg",
+        "attrs": {
+            "href": "#clinics"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Winnipeg Regional Health Authority",
+        "attrs": {
+            "href": "#wrha"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Prairie Mountain Health",
+        "attrs": {
+            "href": "#pmh"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Interlake Eastern Regional Health Authority",
+        "attrs": {
+            "href": "#interlake"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Southern Health-Sant\u00e9 Sud",
+        "attrs": {
+            "href": "#southern"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Northern Regional Health Authority",
+        "attrs": {
+            "href": "#northern"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Doctors' Clinics in Winnipeg",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Testing is now available at select doctors\u2019 clinics. Please note that protocols are in place to separate patient testing from regular medical appointments, including additional daily disinfection and separating testing from regular appointments by offering it after hours or in a different area of the clinic. Physicians and staff will also be wearing appropriate personal protective equipment. These measures will ensure clinics can provide testing separately while also providing safe, ongoing medical care for their existing patients.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Location",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Hours of Operation",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "How to Book",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Additional Information",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Dakota Medical Centre",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "17-845 Dakota St.",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Monday to Friday 6 p.m. to 10 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Saturday 2 p.m. to 6 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Sunday 1 p.m. to 5 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Book appointments online at",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "https://dakotamedical.ca/covid-testing/",
+        "attrs": {
+            "href": "https://dakotamedical.ca/covid-testing/ ",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Walk-in testing also available.",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Testing available for ages 9 and up.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Minor Illness and Injury Clinic Drive-Thru  Testing Site, hosted by Red River College",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "2055 Notre Dame Ave.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Monday to Friday 5 p.m. to 9 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Saturdays and Sundays 12 p.m. to 5 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "By appointment only; book appointments online at",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "www.covidwpg.com",
+        "attrs": {
+            "href": "https://www.covidwpg.com/",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "td",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Testing done in car by physicians.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Winnipeg Regional Health Authority",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Location",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Hours of Operation",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Walk-In Testing Site",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Assiniboine Downs, 3975 Portage Ave.",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Daily 7:00 AM to 7:00  PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Walk in Clinic",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Garrick Centre - \r\n\t\t\t\t330 Garry St.",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Daily 8:00 AM to 4:00 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "MPI Drive-Thru Testing Site",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "1284 Main St.",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Daily 9:00 AM to 4:00 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Testing Centre: Thunderbird House",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "715 Main St.",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Monday to Friday 9:00 AM to 4:00 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Testing Centre",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "604 St. Mary's Rd",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Daily 9:00 AM to 4:00 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Testing Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "2735 Pembina Highway",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Daily 9:00 AM to 4:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "1066 Nairn Ave.",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Daily 7:00 AM to 7:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "MPI Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "125 King Edward St.",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Daily 7:00 AM to 7:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Walk-In Testing Site",
+        "attrs": {
+            "height": "40"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "1 Research Road",
+        "attrs": {
+            "height": "40"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Daily 7:00 AM to 7:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Prairie Mountain Health",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Location",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Hours of Operation",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Dauphin - Testing Centre (Indoor walk-up)",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "301 Main Street North (former Potoski Medical Clinic Building)",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Monday to Friday 9:00 AM to 3:00 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Swan River - Testing Site",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "621 Main  Street (former CMHA Building)",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Monday to Friday 10:00 AM to 1:00 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Brandon - Drive-Thru Testing Site",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Van Horne Location Entrance off of Van Horne Ave. E.",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "p>Monday to Thursday 8:45 AM to 6:00 PM<br />\r\n                \r\n\t\t  Friday to Sunday 8:45 AM to 3:15 PM</p",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "New Hours Beginning Tuesday, February 16",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Mondays  to Thursdays 8:45 am - 4:30 pm",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Fridays  and Saturdays 8:45 am - 3:15 pm",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Sundays 8:45 am - 2:30 pm",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Brandon - Walk-In Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Keystone Centre (1175-18th Street)",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Monday, Wednesday, Friday, Saturday and Sunday - 9:00 AM to 5:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Tuesday and Thursdays - Noon to 8:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Camperville Primary Health Care Center",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Camperville, MB",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Monday and Thursday 10:00 AM to 3:00 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Waterhen Primary Health Care Centre",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Waterhen MB",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Wednesday 1:00 PM to 4:00 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Thursday 9:00 AM to 2:00 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Interlake Eastern Regional Health Authority",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "* Appointments  required where indicated.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Location",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Hours of Operation",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Selkirk - Testing Site",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "100 Easton Drive",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Monday to Saturday 9:00 AM to 4:00 PM",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Eriksdale - Testing Site",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Eriksdale Wellness Centre, 35 Railway Ave.",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Monday  to Friday 9:00 AM to 4:00 PM (closed for lunch from noon until 12:30 PM)",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Powerview-Pine Falls - Testing Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Pine Falls Health Complex, 37 Maple St., Pine-Falls",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Monday to Friday 9:00 AM to 4:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Arborg - Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "MPI Building, 323 Sunset Blvd.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Mondays,  Wednesdays, Fridays, Saturdays and Sundays: 9:00 AM to 5:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Tuesdays and Thursdays: Noon to 8:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Southern Health-Sant\u00e9 Sud",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Location",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Hours of Operation",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Winkler - Testing Centre",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Southland Mall, R10-777 Norquay Drive",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Monday to\r\n\t\t\t\t\tSunday 8:45 AM to 4:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Winkler - Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "485 George Ave.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Mondays,  Wednesdays, Fridays, Saturdays and Sundays from 9:00 AM to 5:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Tuesdays and Thursdays from noon to 8 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Steinbach - Testing Site",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "365 Reimer Ave",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Monday to  Sunday 8:45 AM to 3:40 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Portage la Prairie - Testing Centre",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Portage Ave. and 5th St. SE",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Monday to Friday 8:15 AM to 8:45 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Saturday and Sunday 8:15 AM to 3:30 PM",
+        "attrs": {
+            "width": "25%"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Portage la Prairie - Drive-Thru Testing Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "2007 Saskatchewan Ave.",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Mondays,  Wednesdays, Fridays, Saturdays and Sundays from 9:00 AM to 5:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Tuesdays and Thursdays from 12:00 PM to 8:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Northern Regional Health Authority",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Location",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Hours of Operation",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Flin Flon - Testing Centre",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Flin Flon General Hospital (Main Entrance)",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Monday to Friday 9:00 AM to 4:00 PM - closed 12:00 PM to 1:00 PM",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "The Pas - Testing Centre",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "328 Fischer Avenue",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Monday to Friday 9:00 AM to 4:00 PM - closed 12:00 PM to 1:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Saturday and Sunday 10:00 AM to 2:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Thompson - Thompson Clinic Testing Centre",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Plaza Mall",
+        "attrs": {
+            "width": "33%"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Monday to Friday 9:00 AM to 4:00 PM - closed 12:00 PM to 1:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Saturday and Sunday 11:00 AM to 3:00 PM",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Make an appointment",
+        "attrs": {
+            "href": "#appointment"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Note:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Decisions related to testing for COVID-19 are NOT based on client and/or employer requests. Testing advice and recommendations may change as the outbreak continues to evolve.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Testing for COVID-19 is still not recommended for Manitobans who do not have symptoms associated with the virus. People without symptoms should not seek out testing at this time.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Those who require assessment and/or testing after hours, will still be directed by Health Links - Info Sant\u00e9 to urgent care sites and emergency departments.",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "Map Locations",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "UPDATED",
+        "attrs": {
+            "style": "color: #ff0004"
+        }
+    },
+    {
+        "tag": "em",
+        "text": "Last updated: January 4, 2021",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "How can I make an appointment for a COVID-19 test?",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Please call 1-855-268-4318 or",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "visit the website",
+        "attrs": {
+            "href": "https://patient.petalmd.com/#/login?groupId=5930&locale=en",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "to make appointments for a COVID-19 test.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Appointments are available at testing centres and drive-up sites at:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "604 St. Mary\u2019s Rd., Winnipeg ;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "2735 Pembina Hwy., Winnipeg;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "330 Garry St., Winnipeg;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "1 Research Road. (U  of M), \r\n        \r\n\tWinnipeg;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "301 Main Street North, Dauphin;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Swan Valley Primary Care Centre Parking Lot, 1000 Main Street, Swan River;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Keystone Centre (1175-18th Street), Brandon;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Southland Mall, R10-777 Norquay Drive, Winkler;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "365 Reimer Ave, Steinbach;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Portage Ave. and 5th St. SE, Portage la Prairie;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Flin Flon General Hospital (Main Entrance), Flin Flon",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "100 Easton Drive, Selkirk;",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "328 Fischer Avenue, The Pas ; and",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Plaza Mall, 50 Selkirk Ave., Thompson.",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "How can I find my results?",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "To obtain your results online, visit",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "sharedhealthmb.ca/covid19/test-results",
+        "attrs": {
+            "href": "https://sharedhealthmb.ca/covid19/test-results/",
+            "target": "_Blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ". You will need to provide information from your Manitoba Health Registration Card to verify your identity.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Results by phone",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Negative COVID-19 results are also available by phone seven days a week between 9:00am and 5:00pm. Call the Public Health COVID-19 Contact Centre 1-844-960-1984. You will be asked to provide information from your Manitoba Health Registration Card to verify your identity.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Individuals who test positive for COVID-19 are contacted directly by Public Health. Health-care workers who test positive for COVID-19 will be contacted by Occupational Health.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Get Started",
+        "attrs": {
+            "class": [
+                "narrow-title-green"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Testing",
+        "attrs": {
+            "href": "../../covid19/testing/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Find a Testing Location",
+        "attrs": {
+            "href": "../../covid19/testing/locations.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Check my results",
+        "attrs": {
+            "href": "https://sharedhealthmb.ca/covid19/test-results/",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Symptoms of COVID-19",
+        "attrs": {
+            "href": "http://manitoba.ca/covid19/fundamentals/symptoms.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Asymptomatic Testing",
+        "attrs": {
+            "href": "../../covid19/testing/asymptomatic.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Testing Questions and Answers",
+        "attrs": {
+            "href": "../../covid19/testing/testing-qa.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Rapid Testing",
+        "attrs": {
+            "href": "../../covid19/testing/rapid-testing.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Case and Contact Monitoring",
+        "attrs": {
+            "href": "../../covid19/testing/monitoring/index.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Accessibility",
+        "attrs": {
+            "href": "../../accessibility/index.html",
+            "title": "Accessibility - Government of Manitoba"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Disclaimer",
+        "attrs": {
+            "href": "../../legal/disclaimer.html",
+            "title": "Disclaimer - Government of Manitoba"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Copyright",
+        "attrs": {
+            "href": "../../legal/copyright.html",
+            "title": "Copyright - Government of Manitoba"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Privacy",
+        "attrs": {
+            "href": "../../legal/privacy.html",
+            "title": "Privacy - Government of Manitoba"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Twitter",
+        "attrs": {
+            "href": "http://twitter.com/mbgov",
+            "target": "_blank",
+            "title": "Twitter - Government of Manitoba"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Facebook",
+        "attrs": {
+            "href": "http://www.facebook.com/manitobagovernment",
+            "target": "_blank",
+            "title": "Facebook - Government of Manitoba"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "YouTube",
+        "attrs": {
+            "href": "http://www.youtube.com/user/ManitobaGovernment",
+            "target": "_blank",
+            "title": "YouTube - Government of Manitoba"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Flickr",
+        "attrs": {
+            "href": "http://www.flickr.com/photos/mbgov/",
+            "target": "_blank",
+            "title": "Flickr - Government of Manitoba"
+        }
+    }
+]

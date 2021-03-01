@@ -1,0 +1,757 @@
+[{
+        "URL": "https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/walk-in-covid-19-testing-centres-and-wait-times/"
+    },
+    {
+        "tag": "[document]",
+        "text": "html",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "This website is powered by TYPO3 - inspiring people to share!\n\tTYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.\n\tTYPO3 is copyright 1998-2020 of Kasper Skaarhoj. Extensions are copyright of their respective owners.\n\tInformation and contribution at https://typo3.org/",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "uid:6857",
+        "attrs": {}
+    },
+    {
+        "tag": "title",
+        "text": "Walk-in COVID-19 testing centres and wait times | Gouvernement du Qu\u00e9bec",
+        "attrs": {}
+    },
+    {
+        "tag": "body",
+        "text": "Google Tag Manager (noscript)",
+        "attrs": {}
+    },
+    {
+        "tag": "body",
+        "text": "End Google Tag Manager (noscript)",
+        "attrs": {}
+    },
+    {
+        "tag": "style",
+        "text": "form .powermail_fieldwrap_commentpage,\n            .powermail_fieldwrap_soumettrebaspage input[type='submit'],\n            #formBasPageCommentaire .powermail_submit,\n            .formBasPage .powermail_fieldwrap_zoneinformationjs{\n                display:block;\n            }\n            #main .formBasPage .form-group:first-child.powermail_fieldwrap_servicesquebecform{\n                display:flex;\n            }\n            .tx-powermail .grecaptcha-badge{\n                display:block;\n                visibility: visible;\n             }",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "View content",
+        "attrs": {
+            "href": "/en/health/health-issues/a-z/2019-coronavirus/walk-in-covid-19-testing-centres-and-wait-times/#main",
+            "class": [
+                "visuallyHidden",
+                "passerContenu"
+            ],
+            "tabindex": "1"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Fran\u00e7ais",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Th\u00e8me sant\u00e9",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Contact us",
+        "attrs": {
+            "tabindex": "25",
+            "href": "/en/how-to-reach-us/telephone/?s=38&cHash=57d52f485a47856dbbe4ee739b527189"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Search",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "New health instructions and curfew in force throughout Qu\u00e9bec. Avoid travel and",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "consult the measures that apply in your region",
+        "attrs": {
+            "href": "/en/health/health-issues/a-z/2019-coronavirus/progressive-regional-alert-and-intervention-system/map-of-covid-19-alert-levels-by-region/"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "to learn the details. You can also consult",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "all the information on COVID\u201119",
+        "attrs": {
+            "href": "/en/health/health-issues/a-z/2019-coronavirus/"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/en/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health",
+        "attrs": {
+            "href": "/en/health/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health issues",
+        "attrs": {
+            "href": "/en/health/health-issues/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "A to Z",
+        "attrs": {
+            "href": "/en/health/health-issues/a-z/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Coronavirus disease (COVID-19) in Qu\u00e9bec",
+        "attrs": {
+            "href": "/en/health/health-issues/a-z/2019-coronavirus/"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "TYPO3SEARCH_begin",
+        "attrs": {
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "Walk-in COVID-19 testing centres and wait times",
+        "attrs": {
+            "id": "titreNo1",
+            "class": [
+                "d-block",
+                "themeTitre"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "TYPO3SEARCH_end",
+        "attrs": {
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "TYPO3SEARCH_begin",
+        "attrs": {
+            "class": [
+                "container-fluid"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Tous les autres frames",
+        "attrs": {
+            "class": [
+                "col-12",
+                "col-md-7",
+                "espaceUneColonne"
+            ],
+            "role": "main"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "The wait time to get tested for COVID-19 is shown for each walk-in testing clinic. Wait times are updated hourly between 8\u00a0a.m. and 6\u00a0p.m. Please note that walk-in testing clinics are not available in all regions.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If a clinic's wait time is not available during data collection, \u201cNot available\u201d\u00a0is indicated under wait time.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If the clinic is closed during data collection, \u201cClosed\u201d\u00a0is indicated under wait time.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "To find out if you should get",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "tested",
+        "attrs": {
+            "href": "/en/health/health-issues/a-z/2019-coronavirus/testing-for-covid-19/"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ", use the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Symptom Self-Assessment Tool",
+        "attrs": {
+            "href": "/en/health/health-issues/a-z/2019-coronavirus/covid-19-symptom-self-assessment-tool/"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "var detailCentre = {\r\n    \"CDD La Pocati\u00e8re\": \"https://www.cisss-bsl.gouv.qc.ca/vivre-en-sante/maladies-infectieuses/coronavirus-covid-19/depistage#cliniques\",\r\n    \"CDD Rivi\u00e8re-du-Loup\": \"https://www.cisss-bsl.gouv.qc.ca/vivre-en-sante/maladies-infectieuses/coronavirus-covid-19/depistage#cliniques\",\r\n    \"CDD T\u00e9miscouata\": \"https://www.cisss-bsl.gouv.qc.ca/vivre-en-sante/maladies-infectieuses/coronavirus-covid-19/depistage#cliniques\",\r\n    \"CDD de Rimouski\": \"https://www.cisss-bsl.gouv.qc.ca/vivre-en-sante/maladies-infectieuses/coronavirus-covid-19/depistage#cliniques\",\r\n    \"H\u00f4pital d'Amqui\": \"https://www.cisss-bsl.gouv.qc.ca/vivre-en-sante/maladies-infectieuses/coronavirus-covid-19/depistage#cliniques\",\r\n    \"H\u00f4pital de Matane\": \"https://www.cisss-bsl.gouv.qc.ca/vivre-en-sante/maladies-infectieuses/coronavirus-covid-19/depistage#cliniques\",\r\n    \"CDD SRV Dolbeau\": \"https://santesaglac.gouv.qc.ca/coronavirus-covid-19/pour-la-population/depistage-populationnel/#clinique-de-depistage-de-dolbeau-mistassini\",\r\n    \"CDD SRV Faubourg\": \"https://santesaglac.gouv.qc.ca/coronavirus-covid-19/pour-la-population/depistage-populationnel/#clinique-de-depistage-du-faubourg-sagamie\",\r\n    \"CDD d'Alma\": \"https://santesaglac.gouv.qc.ca/coronavirus-covid-19/pour-la-population/depistage-populationnel/#clinique-de-depistage-dalma\",\r\n    \"CDD de Roberval\": \"https://santesaglac.gouv.qc.ca/coronavirus-covid-19/pour-la-population/depistage-populationnel/#clinique-de-depistage-de-roberval\",\r\n    \"CDD Charlevoix\": \"https://www.ciusss-capitalenationale.gouv.qc.ca/fr/sante-publique/coronavirus/depistage/charlevoix\",\r\n    \"CDD Donnacona\": \"https://www.ciusss-capitalenationale.gouv.qc.ca/fr/sante-publique/coronavirus/depistage/portneuf\",\r\n    \"CDD Fleur de Lys\": \"https://www.ciusss-capitalenationale.gouv.qc.ca/fr/sante-publique/coronavirus/depistage/quebec\",\r\n    \"CDD Parc Colbert\": \"https://www.ciusss-capitalenationale.gouv.qc.ca/fr/sante-publique/coronavirus/depistage/quebec\",\r\n    \"CDD de Bromont\": \"https://www.santeestrie.qc.ca/soins-services/conseils-sante/infections-et-maladies-transmissibles/coronavirus-covid-19/covid-19-population/#c9683\",\r\n    \"Centre communautaire Gerry-Robertson\" : \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c46566\",\r\n    \"CDD de Sherbrooke\": \"https://www.santeestrie.qc.ca/soins-services/conseils-sante/infections-et-maladies-transmissibles/coronavirus-covid-19/covid-19-population/#c9683\",\r\n    \"CDD Beaconsfield\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"CDD H\u00f4tel-Dieu\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"CDD Maurice-Duplessis\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"CDD de Chauveau\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"CDD site Montr\u00e9al-Nord\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"CLSC Parc Extension\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"Cavendish\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"Centre de r\u00e9adaptation de l'Ouest de Montr\u00e9al\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"Clinique temporaire de d\u00e9pistage\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"DLM\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"Institut Universitaire en sant\u00e9 mentale Douglas\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"Outremont\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"Roulotte CHSLD St-Laurent\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"Roulotte Louvain\": \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"CDD Gatineau\": \"https://cisss-outaouais.gouv.qc.ca/covid-19/depistage/\",\r\n    \"CDD de Ville-Marie\": \"https://www.cisss-at.gouv.qc.ca/covid-19-1/\",\r\n    \"CD\u00c9 d'Amos\": \"https://www.cisss-at.gouv.qc.ca/covid-19-1/\",\r\n    \"CD\u00c9 de La Sarre\": \"https://www.cisss-at.gouv.qc.ca/covid-19-1/\",\r\n    \"CD\u00c9 de Rouyn-Noranda\": \"https://www.cisss-at.gouv.qc.ca/covid-19-1/\",\r\n    \"CD\u00c9 de Val-d'Or\": \"https://www.cisss-at.gouv.qc.ca/covid-19-1/\",\r\n    \"Ar\u00e9na Pierre-Creamer\": \"http://www.lavalensante.com/covid19/depistage-et-evaluation/#c16933\",\r\n    \"Autobus Mobile\": \"http://www.lavalensante.com/covid19/depistage-et-evaluation/#c16933\",\r\n    \"CDD Chomedey\": \"http://www.lavalensante.com/covid19/depistage-et-evaluation/#c16933\",\r\n    \"CDD Dagenais\": \"http://www.lavalensante.com/covid19/depistage-et-evaluation/#c16933\",\r\n    \"Pavillon Desrosiers Langlois\": \"http://www.cisss-lanaudiere.gouv.qc.ca/coronavirus/depistage-covid-19/#c14543\",\r\n    \"CDE-CDD Boisbriand\": \"http://www.santelaurentides.gouv.qc.ca/sante-publique/maladies-infectieuses/covid-19-coronavirus/depistage-et-evaluation/\",\r\n    \"CDE-CDD St-J\u00e9r\u00f4me\": \"http://www.santelaurentides.gouv.qc.ca/sante-publique/maladies-infectieuses/covid-19-coronavirus/depistage-et-evaluation/\",\r\n    \"CDE-CDD Ste-Agathe\": \"http://www.santelaurentides.gouv.qc.ca/sante-publique/maladies-infectieuses/covid-19-coronavirus/depistage-et-evaluation/\",\r\n    \"Mont-Laurier\": \"http://www.santelaurentides.gouv.qc.ca/sante-publique/maladies-infectieuses/covid-19-coronavirus/depistage-et-evaluation/\",\r\n    \"CDD Pointe St-Charles\" : \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c41503\",\r\n    \"CDD SRV du Hangar\" : \"https://santesaglac.gouv.qc.ca/coronavirus-covid-19/depistage-covid-19/#clinique-de-depistage-du-hangar-de-la-zone-portuaire-chicoutimi\",\r\n    \"CDD Centre de foires\" : \"https://www.ciusss-capitalenationale.gouv.qc.ca/sante-publique/coronavirus/depistage/quebec\",\r\n    \"CDD CUSM site Glen\" : \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c46575\",\r\n    \"CDD Cavendish\" : \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c46522\",\r\n    \"CDD Ex-H\u00f4pital de Lachine\" : \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c46566\",\r\n    \"CDD Outremont\" : \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c46522\",\r\n    \"CDD de Viau\" : \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c46547\",\r\n    \"CDD Papineau\" : \"https://cisss-outaouais.gouv.qc.ca/covid-19/depistage/\",\r\n    \"CDD Archim\u00e8de\" : \"https://www.cisssca.com/covid-19-population/cliniques-de-depistage/\",\r\n    \"CDD St-Vincent\" : \"http://www.lavalensante.com/covid19/depistage-et-evaluation/#c16933\",\r\n    \"CDD au Gymase du CHDL\" : \"http://www.cisss-lanaudiere.gouv.qc.ca/coronavirus/depistage-covid-19/\",\r\n    \"CDD au Gymnase du CHDL\" : \"http://www.cisss-lanaudiere.gouv.qc.ca/coronavirus/depistage-covid-19/\",\r\n    \"CDD sans RENDEZ-VOUS Mascouche\" : \"http://www.cisss-lanaudiere.gouv.qc.ca/coronavirus/depistage-covid-19/\",\r\n    \"CDD de St-J\u00e9r\u00f4me\" : \"http://www.santelaurentides.gouv.qc.ca/sante-publique/maladies-infectieuses/covid-19-coronavirus/depistage-et-evaluation/\",\r\n    \"CDE-CDD Mont-Laurier\" : \"http://www.santelaurentides.gouv.qc.ca/sante-publique/maladies-infectieuses/covid-19-coronavirus/depistage-et-evaluation/\",\r\n    \"CDD -CCLM\" : \"https://www.santemonteregie.qc.ca/conseils-sante/coronavirus-covid-19\",\r\n    \"CDD Cartier\" : \"http://www.lavalensante.com/covid19/depistage-et-evaluation/#c16933\",\r\n    \"CDD St-Fran\u00e7ois\":\"http://www.lavalensante.com/covid19/depistage-et-evaluation/#c16933\",\r\n    \"CDD Auteuil\":\"http://www.lavalensante.com/covid19/depistage-et-evaluation/#c16933\",\r\n    \"CDD au Gymase du CHDL\": \"http://www.cisss-lanaudiere.gouv.qc.ca/coronavirus/depistage-covid-19/#c14543\",\r\n    \"CDD Archim\u00e8de\":\"https://www.cisssca.com/covid-19-population/cliniques-de-depistage/\",\r\n    \"Centre RioCan Kirkland\":  \"https://santemontreal.qc.ca/population/coronavirus-covid-19/depistage-covid-19-a-montreal/#c46450\",\r\n    \"CDD Argenteuil\" : \"https://www.santelaurentides.gouv.qc.ca/sante-publique/maladies-infectieuses/covid-19-coronavirus/depistage-et-evaluation/#c16022\",\r\n    \"CDD Vall\u00e9e de la Rouge\":  \"https://www.santelaurentides.gouv.qc.ca/sante-publique/maladies-infectieuses/covid-19-coronavirus/depistage-et-evaluation/#c16022\",\r\n}",
+        "attrs": {}
+    },
+    {
+        "tag": "style",
+        "text": "@media (max-width: 426px) {\r\n  /* barre de d\u00e9filement visible en version mobile */\r\n  \r\n    .tableauOverflow {\r\n    height: 350px;\r\n    overflow:scroll;\r\n\r\n    }\r\n  \r\n  ::-webkit-scrollbar {\r\n    -webkit-appearance: none;\r\n}\r\n::-webkit-scrollbar:vertical {\r\n    width: 12px;\r\n}\r\n::-webkit-scrollbar:horizontal {\r\n    height: 12px;\r\n}\r\n::-webkit-scrollbar-thumb {\r\n    background-color: rgba(0, 0, 0, .5);\r\n    border-radius: 10px;\r\n    border: 2px solid #ffffff;\r\n}\r\n::-webkit-scrollbar-track {\r\n    border-radius: 10px;\r\n    background-color: #ffffff;\r\n}\r\n  \r\n  \r\n}\r\n  \r\n#main ul.highcharts-menu li{\r\n  margin:0;\r\n  }\r\n.droite{\r\n  text-align:right;\r\n  }\r\ndiv[id*=\"chart\"],\r\ndiv[id*=\"Chart\"],\r\ntable{\r\n      margin-bottom: 3rem;  \r\n}  \r\ntable th{\r\n  cursor: pointer;\r\n  min-width: 11rem;\r\n}\r\ntable th:nth-child(3){\r\n    cursor:inherit;\r\n  }\r\ntable th span.fleches{\r\n    position:relative;\r\n    margin-left: 0.5rem;\r\n    margin-right: 0.7rem;\r\n\r\n  }\r\ntable th span span{\r\n  border: solid white;\r\n  border-width: 0 3px 3px 0;\r\n  display: inline-block;\r\n  height: 10px;\r\n  width: 10px;\r\n}\r\n.tableauxGraphique{\r\n  margin-top:3rem;\r\n}  \r\ntable th span span:first-child{\r\n  transform: rotate(-135deg);\r\n  -webkit-transform: rotate(-135deg);\r\n    position: absolute;\r\n    top: 0.3rem;\r\n}\r\n table th span span:last-child{\r\n      transform: rotate(45deg);\r\n  -webkit-transform: rotate(45deg);\r\n    position: absolute;\r\n    bottom:0rem;\r\n }\r\n@media (min-width: 1200px){\r\n.col-md-12 h2 {\r\n    padding-right: 0;\r\n }\r\n}\r\n.col-md-12 h2 {\r\n    padding-right: 0;\r\n} \r\n  \r\n table td.visuelTitre {\r\n    background-color: #223654;\r\n    color: #fff;\r\n    border-right: none;\r\n} \r\n  h2.titreTableau{\r\n    font-size: 1.1rem;\r\n    font-weight: 600;\r\n    color: #223654;\r\n        margin-top: 1rem;\r\n    line-height: 1.1;\r\n  }\r\n  .descriptionTableau{\r\n  font-size: .9rem;\r\n    line-height: 1rem;\r\n  }\r\n  p.note-tableau {\r\n    margin-top: -0.5em;\r\n    font-size: 0.85em;\r\n    margin-bottom: 1.5em;\r\n    color: #767676;\r\n}\r\na.region-link {text-decoration:none!important; white-space: nowrap;}\r\n\r\n#csv-centre-depistage-tableau td:last-child { position: relative; }",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "var offset = 1\r\n  function generateDate(lastModified){\r\n  \r\n   var m = moment(lastModified)\r\n \r\n  $(\"#dateFichier\").find(\"p\").find(\"span\").text(m.format('LLLL'));\r\n} \r\n  \r\nfunction getTimestamp() {\r\n  var maintenant = new Date();\r\n  var ms = 1000 * 60 * 5; // ms in 5 minutes.\r\n  dateArrondie = new Date( Math.floor(maintenant / ms) * ms);\r\n  injectTS = new Date(dateArrondie).getTime() / 1000;\r\n  \r\n  return injectTS;\r\n}\r\n  \r\n$(document).ready(function() {\r\n/* Obtenir les donn\u00e9es du CSV */\r\nvar data;\r\n  $.ajax({\r\n    type: \"GET\",\r\n    url: \"https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/csv/delais_cdd.csv?t=\"+getTimestamp(),\r\n    dataType: \"text\",\r\n    success: function(response, textStatus, request)\r\n    {\r\n      /* Choisir le d\u00e9limitateur et appeler la fonction de cr\u00e9ation du tableau */\r\n      var options={\"separator\" : \";\"};\r\n      var lastModified = request.getResponseHeader(\"Last-Modified\");\r\n      data= $.csv.toArrays(response, options);\r\n      generateHtmlTable(data, \"csv-centre-depistage\");\r\n      generateDate(lastModified);\r\n      // \u00e0 l'initialisation, on trie les r\u00e9gions\r\n      sortTable(0)\r\n\r\n    }\r\n  });\r\n  \r\n  \r\n});\r\n\r\n/* Fonction pour cr\u00e9er le tableau selon les donn\u00e9es re\u00e7ues */\r\nfunction generateHtmlTable(data, nomTableau) {\r\n    var html = '<div class=\"tableauOverflow\"><table id=\"csv-centre-depistage-tableau\" class=\"table table-condensed table-hover table-striped\">';\r\n    html += '<thead><tr>';\r\n    html += '<th onclick=\"sortTable(0)\" >Region<span class=\"fleches\"><span></span><span></span></span></th>';\r\n    html += '<th onclick=\"sortTable(1)\"  style=\"text-align:right;\">Testing centre<span class=\"fleches\"><span></span><span></span></span></th>';\r\n    html += '<th style=\"text-align:right;\">Address</th>';\r\n    html += '<th onclick=\"sortTable(3)\"  style=\"text-align:right;\">Wait time<span class=\"fleches\"><span></span><span></span></span></th>';\r\n   html += '<th style=\"text-align:right;\">Additional information</th>';\r\n    html += '</tr></thead>';\r\n    html += '<tbody>';\r\n    /* S'il n'y a pas de donn\u00e9es, on ne fait pas le tableau*/\r\n    if(typeof(data[0]) === 'undefined') {\r\n      return null;\r\n    } else {\r\n      //let linkTpl = '<a href=\"%href\" target=\"_blank\" class=\"region-link\">%link&nbsp;<img class=\"linkExtImg\" src=\"/typo3conf/ext/gabarit_pgu/Resources/Public/Images/Templates/lien-externe.svg\" alt=\"Cet hyperlien s\\'ouvrira dans une nouvelle fen\u00eatre.\"></a>'\r\n      \r\n      /*Sinon, on passe chacune des rang\u00e9es du CSV*/\r\n      $.each(data, function( index, row ) {\r\n        titre=\"\";\r\n        //if(index >= 10){\r\n            html += '<tr>';\r\n            $.each(row, function( index, colData ) {\r\n              if (index < offset) return\r\n                index = index - offset\r\n              /* Cr\u00e9ation de la cellule de donn\u00e9es */\r\n              if(colData != \"\"){\r\n                 if (index > 0) {\r\n                \r\n                    html += '<td style=\"text-align:right;\">';\r\n                    if (index == 2) {\r\n                      arr = colData.split(',')\r\n                      len = arr.length-1\r\n                      arr[len] = arr[len].replace(/ /g,'&nbsp;')\r\n                      colData = arr.join(',')\r\n                    }else{\r\n                    \r\n                      if (index == 1) {titre = colData.trim();}\r\n                    }\r\n                \r\n                    if(colData==\"En cours \" || colData==\"En cours\"){\r\n                      colData =\"Not available\";\r\n                    }\r\n                   if(colData==\"Actuellement ferm\u00e9e\"){\r\n                     colData =\"Closed\";\r\n                   }\r\n                \r\n                    html += colData.replace(/ /g, \" \"); \r\n                \r\n                  } else {\r\n                    \r\n                   /* html += '<td>'; \r\n                    url = urls[colData.split('.')[0]];\r\n                    html += linkTpl.replace('%href', url).replace('%link', colData)*/\r\n                     html += '<td>';\r\n                     html += colData.replace(/ /g, \" \"); \r\n                    \r\n                  }\r\n                  html += '</td>';\r\n                  // Apr\u00e8s la derni\u00e8re colonne de la rang\u00e9e\r\n                  if (index === (row.length - (offset + 1))) {\r\n                    //detailCentre\r\n                    if(detailCentre[titre]){\r\n                      html += '<td><a href=\"'+detailCentre[titre]+'\" class=\"detail-link\" target=\"_blank\">Details about the centre <span class=\"visuallyHidden\">'+titre+'</span> and opening hours <img class=\"linkExtImg\" src=\"/typo3conf/ext/gabarit_pgu/Resources/Public/Images/Templates/lien-externe.svg\" alt=\"This hyperlink will open in a new window.\"></a></td>'; \r\n                    }else{\r\n                      html += '<td></td>'; \r\n                    }\r\n                    \r\n                  }\r\n              }\r\n            });\r\n        \r\n            html += '</tr>';\r\n        });\r\n        \r\n      html += '</tbody>';\r\n      html += '</table></div>';\r\n      /* Ajout au DOM du tableau cr\u00e9\u00e9*/\r\n      $('#' + nomTableau).append(html);\r\n    }\r\n}\r\n  \r\nfunction sortTable(n) {\r\n  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;\r\n  table = document.getElementById(\"csv-centre-depistage-tableau\");\r\n  switching = true;\r\n  // Set the sorting direction to ascending:\r\n  dir = \"asc\";\r\n  /* Make a loop that will continue until\r\n  no switching has been done: */\r\n  while (switching) {\r\n    // Start by saying: no switching is done:\r\n    switching = false;\r\n    rows = table.rows;\r\n    /* Loop through all table rows (except the\r\n    first, which contains table headers): */\r\n    for (i = 1; i < (rows.length - 1); i++) {\r\n      // Start by saying there should be no switching:\r\n      shouldSwitch = false;\r\n      /* Get the two elements you want to compare,\r\n      one from current row and one from the next: */\r\n      x = rows[i].getElementsByTagName(\"TD\")[n];\r\n      y = rows[i + 1].getElementsByTagName(\"TD\")[n];\r\n      /* Check if the two rows should switch place,\r\n      based on the direction, asc or desc: */\r\n      if (dir == \"asc\") {\r\n        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {\r\n          // If so, mark as a switch and break the loop:\r\n          shouldSwitch = true;\r\n          break;\r\n        }\r\n      } else if (dir == \"desc\") {\r\n        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {\r\n          // If so, mark as a switch and break the loop:\r\n          shouldSwitch = true;\r\n          break;\r\n        }\r\n      }\r\n    }\r\n    if (shouldSwitch) {\r\n      /* If a switch has been marked, make the switch\r\n      and mark that a switch has been done: */\r\n      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);\r\n      switching = true;\r\n      // Each time a switch is done, increase this count by 1:\r\n      switchcount ++;\r\n    } else {\r\n      /* If no switching has been done AND the direction is \"asc\",\r\n      set the direction to \"desc\" and run the while loop again. */\r\n      if (switchcount == 0 && dir == \"asc\") {\r\n        dir = \"desc\";\r\n        switching = true;\r\n      }\r\n    }\r\n  }\r\n}  \r\n  \r\n  \r\n /*\r\nfunction generateDate(lastModified){\r\n\r\n\r\n  d = new Date(lastModified);\r\n        part1 = d.toLocaleString(\"en-US\", {timeZone: \"America/Montreal\", day: 'numeric',  month:'long', year:'numeric',hour: '2-digit', minute:'2-digit'  });\r\n\r\n  $(\"#dateFichier\").find(\"p\").find(\"span\").text(part1);\r\n}\r\n  */",
+        "attrs": {
+            "charset": "utf-8"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Last update :",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Download in CSV format (in French only)",
+        "attrs": {
+            "href": "https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/csv/delais_cdd.csv"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "TYPO3SEARCH_end",
+        "attrs": {
+            "class": [
+                "container-fluid",
+                "pleine-largeur"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Tous les autres frames",
+        "attrs": {
+            "class": [
+                "col-12",
+                "col-md-12",
+                "avisBasPage"
+            ]
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Notice",
+        "attrs": {
+            "class": []
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Information on the website in no way replaces the opinion of a health professional. If you have questions concerning your health status, consult a professional.",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "Comments",
+        "attrs": {
+            "class": []
+        }
+    },
+    {
+        "tag": "legend",
+        "text": "Was the information on this page useful to you?",
+        "attrs": {
+            "class": [
+                "control-label"
+            ]
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Yes",
+        "attrs": {
+            "for": "powermail_field_pageutile_1"
+        }
+    },
+    {
+        "tag": "label",
+        "text": "No",
+        "attrs": {
+            "for": "powermail_field_pageutile_2"
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Did you encounter any problems while navigating?",
+        "attrs": {
+            "for": "powermail_field_commentpage",
+            "class": [
+                "control-label"
+            ],
+            "title": ""
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Please send us your observations and help us improve the Qu\u00e9bec.ca website. Please do not enter any personal information in this field. Note that you will not receive a reply.",
+        "attrs": {
+            "id": "commentpage_complement_label",
+            "class": [
+                "complementLabel"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Limit is 500 characters",
+        "attrs": {
+            "id": "infoMaxCaracteres",
+            "class": [
+                "infoSupplJs"
+            ],
+            "aria-hidden": "true"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Please activate JavaScript to fill out the application.",
+        "attrs": {
+            "class": [
+                "alert",
+                "alert-info"
+            ]
+        }
+    },
+    {
+        "tag": "style",
+        "text": ".recaptchaJsMessage div[class*=\"powermail_fieldwrap_type_\"],\n            .formBasPage .recaptchaJsMessage .form-group:first-child,\n            #main .formBasPage .recaptchaJsMessage .form-group:first-child.powermail_fieldwrap_servicesquebecform {\n                display: none;\n            }",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "var submitAmount = 0;\n    window.addEventListener(\"DOMContentLoaded\", function () {\n        $('form.powermail_form').submit(function (event, skipRecaptcha) {\n            if (skipRecaptcha) {\n                return true;\n            }\n            if (typeof grecaptcha == 'object') {\n                if (!grecaptcha.getResponse()) {\n                    event.preventDefault();\n                    grecaptcha.execute();\n                }\n            }\n        });\n        $('form.powermail_form .powermail_submit').mousedown(function (event) {\n            var field = this;\n            if (submitAmount === 0) {\n                submitAmount++;\n                field.disabled = true;\n                setTimeout(function enable() {\n                    submitAmount = 0;\n                    field.disabled = false;\n                }, 6000);\n                $('form.powermail_form').trigger('submit');\n            }\n        });\n    });\n    onCompleted = function () {\n        $('form.powermail_form .powermail_submit').prop(\"disabled\", true);\n        setTimeout(function enable() {\n            submitAmount = 0;\n            $('form.powermail_form .powermail_submit').prop(\"disabled\", false);\n        }, 2000);\n        $('form.powermail_form').trigger('submit', [true]);\n    }",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Tous les autres frames",
+        "attrs": {
+            "class": [
+                "col-sm-offset-2"
+            ]
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "You have questions or require additional information?",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Please contact Services Qu\u00e9bec",
+        "attrs": {
+            "href": "/en/how-to-reach-us/"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Tous les autres frames",
+        "attrs": {
+            "class": [
+                "col-sm-offset-2"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Help us improve Qu\u00e9bec.ca",
+        "attrs": {}
+    },
+    {
+        "tag": "label",
+        "text": "Don't fill this field!",
+        "attrs": {
+            "for": "powermail_hp_3"
+        }
+    },
+    {
+        "tag": "body",
+        "text": "Fat footer",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "Footer navigation | Qu\u00e9bec.ca",
+        "attrs": {
+            "class": [
+                "visuallyHidden"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Information and services",
+        "attrs": {
+            "href": "/en/information-and-services/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Culture",
+        "attrs": {
+            "href": "/en/culture/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Education",
+        "attrs": {
+            "href": "/en/education/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Employment",
+        "attrs": {
+            "href": "/en/employment/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Businesses and self-employed workers",
+        "attrs": {
+            "href": "/en/businesses-and-self-employed-workers/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Agriculture, environment and natural resources",
+        "attrs": {
+            "href": "/en/agriculture-environment-and-natural-resources/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Family and support for individuals",
+        "attrs": {
+            "href": "/en/family-and-support-for-individuals/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Finance, income and other taxes",
+        "attrs": {
+            "href": "/en/finance-income-and-other-taxes/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Homes and housing",
+        "attrs": {
+            "href": "/en/homes-and-housing/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Immigration",
+        "attrs": {
+            "href": "/en/immigration/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Justice and civil status",
+        "attrs": {
+            "href": "/en/justice-and-civil-status/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health",
+        "attrs": {
+            "href": "/en/health/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public safety and Emergencies",
+        "attrs": {
+            "href": "/en/public-safety-emergencies/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Tourism and recreation",
+        "attrs": {
+            "href": "/en/tourism-and-recreation/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Transports",
+        "attrs": {
+            "href": "/en/transports/",
+            "class": [
+                "themeFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Government",
+        "attrs": {
+            "href": "/en/government/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Departments and agencies",
+        "attrs": {
+            "href": "/en/governement/departments-and-agencies/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Careers (in French only)",
+        "attrs": {
+            "href": "/en/governement/careers/",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Open data (in French only)",
+        "attrs": {
+            "href": "/en/governement/open-data/",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Information feed",
+        "attrs": {
+            "href": "/en/governement/information-feed/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Official gazette",
+        "attrs": {
+            "href": "/en/governement/official-gazette/",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Laws and regulations",
+        "attrs": {
+            "href": "/en/governement/laws-and-regulations/",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Publications",
+        "attrs": {
+            "href": "/en/governement/publications/",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "nav",
+        "text": "Th\u00e8me",
+        "attrs": {
+            "aria-labelledby": "titrePiedDePage3"
+        }
+    },
+    {
+        "tag": "nav",
+        "text": "th\u00e8me",
+        "attrs": {
+            "aria-labelledby": "titrePiedDePage3"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "How to reach us",
+        "attrs": {
+            "href": "/en/how-to-reach-us/telephone/?s=38&cHash=57d52f485a47856dbbe4ee739b527189"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Code pour S=38",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Telephone",
+        "attrs": {
+            "href": "/en/how-to-reach-us/telephone/?s=38&cHash=57d52f485a47856dbbe4ee739b527189"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Service offices",
+        "attrs": {
+            "target": "_blank",
+            "href": "/en/service-bureaus/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Email",
+        "attrs": {
+            "href": "/en/how-to-reach-us/email/?s=38&cHash=a4e4fb5619e20d5b13b8733340441acc"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Technical problems",
+        "attrs": {
+            "href": "mailto:info@quebec.ca?subject=Technical%20problems%20on%20Qu\u00e9bec.ca"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Follow us",
+        "attrs": {
+            "id": "titrePiedDePage4"
+        }
+    },
+    {
+        "tag": "body",
+        "text": "footer",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Accessibility",
+        "attrs": {
+            "href": "/en/accessibility/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sitemap",
+        "attrs": {
+            "href": "/en/sitemap/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Access to information",
+        "attrs": {
+            "href": "/en/access-information/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Privacy policy",
+        "attrs": {
+            "href": "/en/privacy-policy/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "\u00a9 Gouvernement du Qu\u00e9bec,\u00a02021",
+        "attrs": {
+            "href": "http://www.droitauteur.gouv.qc.ca/en/copyright.php",
+            "target": "_self"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "/*<![CDATA[*/\n/*TS_inlineJS*/\n\n/* Google Tag Manager */\n\t\t(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n\t\tnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n\t\tj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n\t\t'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n\t\t})(window,document,'script','dataLayer','GTM-TRWV88D');\n\t\t/* End Google Tag Manager */    /* Recaptcha invisible */\n    function onRecaptchaSubmit() {\n        var idForm = $(\".frame-type-form_formframework form\").attr('id');\n        var tousForms =\"infoutile,nousjoindre,listedecourriels,formulairedecontactcourriel,plaintes\";\n        if(tousForms.indexOf(idForm)>= 0){\n            document.getElementById(idForm).submit(); return false;\n        }\n    }\n\n\n/*]]>*/",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "/*<![CDATA[*/\n/*TS_inlineFooter*/\n\t\tjQuery( document ).ready(function() {\n\t\t\tjQuery('.youtubeVideo').each(function() {\n\t\t\t  if (jQuery(this).width() < 600){\n\t\t\t  \tjQuery(this).addClass( 'small' );\n\t\t\t  } else{\n\t\t\t\t\tjQuery(this).removeClass('small')\n\t\t\t\t}\n\t\t\t});\n\t\t});\n\t\tjQuery(window).resize(function(){\n\t\t  jQuery('.youtubeVideo').each(function() {\n\t\t\t  if (jQuery(this).width() < 600){\n\t\t\t  \tjQuery(this).addClass( 'small' );\n\t\t\t  } else{\n\t\t\t\t\tjQuery(this).removeClass('small')\n\t\t\t\t}\n\t\t\t});\n\t\t});\n\n/*]]>*/",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    }
+]

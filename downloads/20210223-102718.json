@@ -1,0 +1,3263 @@
+[{
+        "URL": "https://en.horizonnb.ca/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-community-assessment-centres-by-appointment.aspx"
+    },
+    {
+        "tag": "[document]",
+        "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"",
+        "attrs": {}
+    },
+    {
+        "tag": "title",
+        "text": "COVID-19 Community Assessment Centres by appointment - Horizon Health Network",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if IE]><style type=\"text/css\">li ul li:hover { position: static; }</style><![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if IE 7]><link href=\"/css/ie7styles.css\" rel=\"stylesheet\" type=\"text/css\" /><![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if IE 8]>\r\n      <link href=\"/css/ie8styles.css\" rel=\"stylesheet\" type=\"text/css\" media=\"screen\" />\r\n    <! [endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if lt IE 9]>\r\n      <script src=\"https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>\r\n      <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\r\n    <![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "var _gaq = _gaq || [];\r\n      _gaq.push(['_setAccount', 'UA-19080236-1']);\r\n      _gaq.push(['_trackPageview']);\r\n      (function() {\r\n        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\r\n        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\r\n        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\r\n      })();",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "var appInsights=window.appInsights||function(a){\r\n         function b(a){c[a]=function(){var b=arguments;c.queue.push(function(){c[a].apply(c,b)})}}var c={config:a},d=document,e=window;setTimeout(function(){var b=d.createElement(\"script\");b.src=a.url||\"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\",d.getElementsByTagName(\"script\")[0].parentNode.appendChild(b)});try{c.cookie=d.cookie}catch(a){}c.queue=[];for(var f=[\"Event\",\"Exception\",\"Metric\",\"PageView\",\"Trace\",\"Dependency\"];f.length;)b(\"track\"+f.pop());if(b(\"setAuthenticatedUserContext\"),b(\"clearAuthenticatedUserContext\"),b(\"startTrackEvent\"),b(\"stopTrackEvent\"),b(\"startTrackPage\"),b(\"stopTrackPage\"),b(\"flush\"),!a.disableExceptionTracking){f=\"onerror\",b(\"_\"+f);var g=e[f];e[f]=function(a,b,d,e,h){var i=g&&g(a,b,d,e,h);return!0!==i&&c[\"_\"+f](a,b,d,e,h),i}}return c\r\n     }({\r\n         instrumentationKey: \"28c9b626-7faa-40ea-868d-d51146aa005d\"\r\n     });\r\n\r\n     window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Close Menu",
+        "attrs": {
+            "class": [
+                "menu-btn"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fran\u00c3\u00a7ais",
+        "attrs": {
+            "href": "http://fr.horizonnb.ca/accueil/patients-et-visiteurs/coronavirus-(covid-19)/centres-d\u00e2\u0080\u0099\u00c3\u00a9valuation-en-milieu-communautaire-de-la-covid-19-sur-rendez-vous.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/home.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "About Us",
+        "attrs": {
+            "class": [
+                "subToggle"
+            ],
+            "href": "/home/about-us.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Facilities & Services",
+        "attrs": {
+            "class": [
+                "subToggle"
+            ],
+            "href": "/home/facilities-and-services.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patients & Visitors",
+        "attrs": {
+            "class": [
+                "subToggle"
+            ],
+            "href": "/home/patients-and-visitors.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Careers & Education",
+        "attrs": {
+            "class": [
+                "subToggle"
+            ],
+            "href": "/careers-and-education.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Media Centre",
+        "attrs": {
+            "class": [
+                "subToggle"
+            ],
+            "href": "/home/media-centre.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Research",
+        "attrs": {
+            "class": [
+                "subToggle"
+            ],
+            "href": "/home/research.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Search",
+        "attrs": {
+            "class": [
+                "subToggle"
+            ],
+            "href": "/home/search.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Ways to Give",
+        "attrs": {
+            "href": "/home/ways-to-give.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Subscribe to our e-newsletter!",
+        "attrs": {
+            "id": "mobile-toggle-pop-up",
+            "data-fancybox": "",
+            "data-src": "#subscription-pop-up-content",
+            "href": "#"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Corporate Office",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Horizon Health Network",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Woodbridge Centre",
+        "attrs": {
+            "class": [
+                "address"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "180 Woodbridge St., Fredericton, New Brunswick",
+        "attrs": {
+            "class": [
+                "address"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "E3B 4R3",
+        "attrs": {
+            "class": [
+                "address"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Telephone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "506-623-5500",
+        "attrs": {
+            "class": [
+                "address"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "506-623-5533",
+        "attrs": {
+            "class": [
+                "address"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Click here to email us",
+        "attrs": {
+            "href": "/home/about-us/contact-us-by-email.aspx"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Horizon Health Network",
+        "attrs": {
+            "class": [
+                "hidden"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Ways to Give",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "/home/contact.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fran\u00c3\u00a7ais",
+        "attrs": {
+            "href": "http://fr.horizonnb.ca/accueil/patients-et-visiteurs/coronavirus-(covid-19)/centres-d\u00e2\u0080\u0099\u00c3\u00a9valuation-en-milieu-communautaire-de-la-covid-19-sur-rendez-vous.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Menu",
+        "attrs": {
+            "class": [
+                "menu-btn"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Follow Us",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "<a onclick=\"_gaq.push(['_trackEvent', 'Social', 'Open', 'Pintrest']);\" href=\"https://www.pinterest.com/HorizonHealthNB/\" title=\"Pin us on Pinterest\"><img src=\"/media/810270/pinterest.png\" alt=\"Pinterest Icon\" /></a>",
+        "attrs": {
+            "id": "socialConnect"
+        }
+    },
+    {
+        "tag": "button",
+        "text": "Search",
+        "attrs": {
+            "class": [
+                "submit"
+            ],
+            "title": "Search",
+            "id": "searchButton"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "topNav",
+        "attrs": {
+            "id": "header"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "header",
+        "attrs": {
+            "id": "container"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/home.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "About Us",
+        "attrs": {
+            "href": "/home/about-us.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Board",
+        "attrs": {
+            "href": "/home/about-us/board-of-directors"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Communities",
+        "attrs": {
+            "href": "http://news.horizonnb.ca/community/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Corporate Profile",
+        "attrs": {
+            "href": "/home/about-us.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Leadership",
+        "attrs": {
+            "href": "/home/about-us/leadership.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Senior Medical Leadership Team",
+        "attrs": {
+            "href": "/home/about-us/senior-medical-leadership-team.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Official Languages",
+        "attrs": {
+            "href": "/home/about-us/official-languages.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Performance Indicators",
+        "attrs": {
+            "href": "/home/about-us/performance-indicators.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient and Family Centred Care",
+        "attrs": {
+            "href": "/home/about-us/patient-and-family-centred-care.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Engagement",
+        "attrs": {
+            "href": "/home/about-us/engagement.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Quality",
+        "attrs": {
+            "href": "/home/about-us/quality.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Redevelopment Projects",
+        "attrs": {
+            "href": "/home/about-us/redevelopment.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Awards and Recognition at Horizon",
+        "attrs": {
+            "href": "/home/about-us/awards-and-recognition-at-horizon.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Facilities &amp; Services",
+        "attrs": {
+            "href": "/home/facilities-and-services.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "List Facilities A-Z",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "A",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=A"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "B",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=B"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "C",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=C"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "D",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=D"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "E",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=E"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "F",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=F"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "G",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=G"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "H",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=H"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "I",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "J",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "K",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=K"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "L",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=L"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "M",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=M"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "N",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=N"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "O",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=O"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "P",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=P"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Q",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=Q"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "R",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=R"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "S",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=S"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "T",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=T"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "U",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=U"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "V",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=V"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "W",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?AZ=1&filter=W"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "X",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Y",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Z",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "List by Location",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?geo=1"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fredericton",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?geo=1&r=fred"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Miramichi",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?geo=1&r=mira"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Moncton",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?geo=1&r=monc"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Saint John",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?geo=1&r=sain"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Upper River Valley",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?geo=1&r=uppe"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "List Hospitals",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?cat=1&type=hospital"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "List Health Centres",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities.aspx?cat=1&type=health"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "List Public Health Programs",
+        "attrs": {
+            "href": "/home/facilities-and-services/services/public-health.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "List Addiction and Mental Health Services",
+        "attrs": {
+            "href": "/home/facilities-and-services/services/addiction-and-mental-health-services.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Provincial Programs",
+        "attrs": {
+            "href": "/home/facilities-and-services/provincial-programs.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "List Services A-Z",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "A",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=A"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "B",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=B"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "C",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=C"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "D",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=D"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "E",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=E"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "F",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=F"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "G",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=G"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "H",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=H"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "I",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=I"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "J",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "K",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "L",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=L"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "M",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=M"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "N",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=N"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "O",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=O"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "P",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=P"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Q",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "R",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=R"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "S",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=S"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "T",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=T"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "U",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=U"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "V",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=V"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "W",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=W"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "X",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=X"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Y",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?AZ=1&filter=Y"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Z",
+        "attrs": {}
+    },
+    {
+        "tag": "h5",
+        "text": "List by Category",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Addiction and Mental Health",
+        "attrs": {
+            "href": "/home/facilities-and-services/services/addiction-and-mental-health-services.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Clinical Services",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?cat=1103"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Support and Therapy",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?cat=1110"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Diagnostics and Testing",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?cat=1111"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Clinics",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?cat=1301"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Health Programs",
+        "attrs": {
+            "href": "http://en.horizonnb.ca/home/facilities-and-services/services/public-health.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Chronic Disease Prevention and Management",
+        "attrs": {
+            "href": "http://en.horizonnb.ca/home/facilities-and-services/services/chronic-disease-prevention-and-management.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Veterans Health Services",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?cat=1351"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Other Services",
+        "attrs": {
+            "href": "/home/facilities-and-services/services.aspx?cat=1304"
+        }
+    },
+    {
+        "tag": "h5",
+        "text": "Find by Location",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Patients &amp; Visitors",
+        "attrs": {
+            "href": "/home/patients-and-visitors.aspx"
+        }
+    },
+    {
+        "tag": "h5",
+        "text": "Preparing for...",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Your Hospital Stay",
+        "attrs": {
+            "href": "/home/patients-and-visitors/preparing-for/your-hospital-stay.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Going Home",
+        "attrs": {
+            "href": "/home/patients-and-visitors/preparing-for/going-home.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Giving Birth",
+        "attrs": {
+            "href": "/home/patients-and-visitors/preparing-for/giving-birth.aspx"
+        }
+    },
+    {
+        "tag": "h5",
+        "text": "Visitor Information",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Accommodations",
+        "attrs": {
+            "href": "/home/patients-and-visitors/visitor-information/accommodations.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "ATM Machines",
+        "attrs": {
+            "href": "/home/patients-and-visitors/visitor-information/atm-machines.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Beauty Shop",
+        "attrs": {
+            "href": "/home/patients-and-visitors/visitor-information/beauty-shop.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Gift Shop",
+        "attrs": {
+            "href": "/home/patients-and-visitors/visitor-information/gift-shop.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Flower Delivery",
+        "attrs": {
+            "href": "/home/patients-and-visitors/visitor-information/flower-delivery.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Food Service",
+        "attrs": {
+            "href": "/home/patients-and-visitors/visitor-information/food-service.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Send a message to a patient",
+        "attrs": {
+            "href": "/home/patients-and-visitors/visitor-information/send-a-message-to-a-patient.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Parking",
+        "attrs": {
+            "href": "/home/patients-and-visitors/visitor-information/parking.aspx"
+        }
+    },
+    {
+        "tag": "h5",
+        "text": "Billing",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "How do I pay my bill?",
+        "attrs": {
+            "href": "/home/patients-and-visitors/billing/how-do-i-pay-my-bill.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Who pays for my health care?",
+        "attrs": {
+            "href": "/home/patients-and-visitors/billing/who-pays-for-my-health-care.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "FAQs",
+        "attrs": {
+            "href": "/home/patients-and-visitors/billing/faqs.aspx"
+        }
+    },
+    {
+        "tag": "h5",
+        "text": "Support & Therapy",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Spiritual and Religious Care",
+        "attrs": {
+            "href": "/home/patients-and-visitors/support-therapy/spiritual-and-religious-care.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Telehealth",
+        "attrs": {
+            "href": "/home/patients-and-visitors/support-therapy/telehealth.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Representative",
+        "attrs": {
+            "href": "/home/patients-and-visitors/support-therapy/patient-representative.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Deaf and hard of hearing service",
+        "attrs": {
+            "href": "/home/patients-and-visitors/support-therapy/deaf-and-hard-of-hearing-service.aspx"
+        }
+    },
+    {
+        "tag": "h5",
+        "text": "Patient Amenities",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Telephone Hook-up",
+        "attrs": {
+            "href": "/home/patients-and-visitors/patient-amenities/telephone-hook-up.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Television Hook-up",
+        "attrs": {
+            "href": "/home/patients-and-visitors/patient-amenities/television-hook-up.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Personal Health Records",
+        "attrs": {
+            "href": "/home/facilities-and-services/services/other-services/personal-health-records.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Access Release Form",
+        "attrs": {
+            "href": " https://en.horizonnb.ca/media/1049728/2020_authorization_for_release_of_personal_health_information.pdf"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "WiFi",
+        "attrs": {
+            "href": "http://horizonnb.ca/wifi"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Coronavirus (COVID-19)",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19).aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Infection Prevention and Control",
+        "attrs": {
+            "href": "/home/patients-and-visitors/infection-prevention-and-control.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Information Requests",
+        "attrs": {
+            "href": "/home/patients-and-visitors/information-requests.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Information Resources",
+        "attrs": {
+            "href": "/home/patients-and-visitors/patient-information-resources.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Representative",
+        "attrs": {
+            "href": "/home/patients-and-visitors/patient-representative.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Privacy",
+        "attrs": {
+            "href": "/home/patients-and-visitors/privacy.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Smoke-Free Together",
+        "attrs": {
+            "href": "/home/media-centre/smoke-free-together.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Cannabis",
+        "attrs": {
+            "href": "/home/patients-and-visitors/cannabis.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Crystal Methamphetamine",
+        "attrs": {
+            "href": "/home/patients-and-visitors/crystal-methamphetamine-(crystal-meth).aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Careers &amp; Education",
+        "attrs": {
+            "href": "/home/careers-and-education.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Horizon Careers",
+        "attrs": {
+            "href": "https://myhorizoncareer.ca/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Physicians",
+        "attrs": {
+            "href": "/home/careers-and-education/physicians.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Medical Education",
+        "attrs": {
+            "href": "/home/careers-and-education/medical-education.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Educational Programs",
+        "attrs": {
+            "href": "/home/careers-and-education/educational-programs.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "New Hires",
+        "attrs": {
+            "href": "https://learning.horizonnb.ca/cares/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Learning",
+        "attrs": {
+            "href": "/home/careers-and-education/learning.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Antimicrobial Use",
+        "attrs": {
+            "href": "/home/careers-and-education/learning/antimicrobial-use.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Conferences",
+        "attrs": {
+            "href": "/home/careers-and-education/conferences.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Volunteers",
+        "attrs": {
+            "href": "/home/careers-and-education/volunteers.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Media Centre",
+        "attrs": {
+            "href": "/home/media-centre.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Horizon News",
+        "attrs": {
+            "href": "/home/media-centre/horizon-news.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fredericton Area News",
+        "attrs": {
+            "href": "/home/media-centre/horizon-news.aspx?cat=fred"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Moncton Area News",
+        "attrs": {
+            "href": "/home/media-centre/horizon-news.aspx?cat=mon"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Miramichi Area News",
+        "attrs": {
+            "href": "/home/media-centre/horizon-news.aspx?cat=mir"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Saint John Area News",
+        "attrs": {
+            "href": "/home/media-centre/horizon-news.aspx?cat=stj"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Upper River Valley News",
+        "attrs": {
+            "href": "/home/media-centre/horizon-news.aspx?cat=urv"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Horizon's Community News Channel",
+        "attrs": {
+            "href": "https://news.horizonnb.ca/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patients and Visitors",
+        "attrs": {
+            "href": "/home/patients-and-visitors.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Around Horizon",
+        "attrs": {
+            "href": "/home/media-centre/horizon-news.aspx?type=rnd"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Publications",
+        "attrs": {
+            "href": "/home/media-centre/publications.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Community Health Needs Assessment Reports",
+        "attrs": {
+            "href": "https://en.horizonnb.ca/community-health-needs-assessments-map.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Horizon Star",
+        "attrs": {
+            "href": "/home/media-centre/horizon-star.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "OL Reports",
+        "attrs": {
+            "href": "/home/media-centre/publications/official-languages-report.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Report to the Community",
+        "attrs": {
+            "href": "/home/media-centre/publications/report-to-the-community.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Strategic Plan",
+        "attrs": {
+            "href": "/home/media-centre/publications/strategic-plan.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Other Publications",
+        "attrs": {
+            "href": "/home/media-centre/publications.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Media",
+        "attrs": {
+            "href": "/home/media-centre/media.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Awareness Initiatives",
+        "attrs": {
+            "href": "/home/media-centre/awareness-initiatives.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Research",
+        "attrs": {
+            "href": "/home/research.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Research Ethics Board",
+        "attrs": {
+            "href": "/home/research/research-ethics-board.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Research Services Team",
+        "attrs": {
+            "href": "/home/research/research-services-team.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Funding Opportunities",
+        "attrs": {
+            "href": "/home/research/funding-opportunities.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Policies and Documents",
+        "attrs": {
+            "href": "/home/research/services-for-researchers/policies-and-documents.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Research Updates",
+        "attrs": {
+            "href": "/home/research/research-at-horizon/research-updates.aspx"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "You have printed or saved this information from www.HorizonNB.ca, the website for the Horizon Health Network",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "$(document).ready(function() {\n        $('.slideshow')\n        .after('<div id=\"slideshowNav\">')\n        .cycle({\n            fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...\n            speed:    5000, // defines the number of milliseconds it will take to transition from one slide to the next.\n            timeout:  3500, // specifies how many milliseconds will elapse between the start of each transition\n            pause: 1, // so that pauses when user hovers over a slide\n            delay:  3000, // set a delay before 1st slide starts transitioning\n            pager: '#slideshowNav' //instructs the plugin to create navigation elements, one for each slide, and add them to the container identified by the value of the pager option.\n        });\n    });",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Section Menu",
+        "attrs": {
+            "class": [
+                "mobileSubSection"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patients and Visitors",
+        "attrs": {
+            "href": "/home/patients-and-visitors.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Preparing for",
+        "attrs": {
+            "href": "/home/patients-and-visitors/preparing-for.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Billing",
+        "attrs": {
+            "href": "/home/patients-and-visitors/billing.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Representative Services",
+        "attrs": {
+            "href": "/home/patients-and-visitors/patient-representative-services.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Infection Prevention and Control",
+        "attrs": {
+            "href": "/home/patients-and-visitors/infection-prevention-and-control.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Visitor Information",
+        "attrs": {
+            "href": "/home/patients-and-visitors/visitor-information.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Support & Therapy",
+        "attrs": {
+            "href": "/home/patients-and-visitors/support-therapy.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Amenities",
+        "attrs": {
+            "href": "/home/patients-and-visitors/patient-amenities.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Privacy",
+        "attrs": {
+            "href": "/home/patients-and-visitors/privacy.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Information Resources",
+        "attrs": {
+            "href": "/home/patients-and-visitors/patient-information-resources.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Information Requests",
+        "attrs": {
+            "href": "/home/patients-and-visitors/information-requests.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Cannabis",
+        "attrs": {
+            "href": "/home/patients-and-visitors/cannabis.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Coronavirus (COVID-19)",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19).aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Visitor Restrictions at Hospitals and Health Care Facilities",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-visitor-restrictions-at-hospitals-and-health-care-facilities.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Patient and Visitor Information",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-patient-and-visitor-information.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Assessment Centres by appointment",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-community-assessment-centres-by-appointment.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Resuming priority elective surgeries",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-resuming-priority-elective-surgeries.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Horizon\u00e2\u0080\u0099s Health Centres",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-horizon\u00e2\u0080\u0099s-health-centres.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: When to Seek Help",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-when-to-seek-help.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Protect Yourself and Others from COVID-19",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/protect-yourself-and-others-from-covid-19.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Frequently Asked Questions",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-frequently-asked-questions.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: News and Updates",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-news-and-updates.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Helpful Family Resources for Dealing with Coronavirus (COVID-19)",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-helpful-family-resources-for-dealing-with-coronavirus-(covid-19).aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Respecting the privacy of our patients and staff",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-respecting-the-privacy-of-our-patients-and-staff.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Donations",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-donations.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Debit/Credit Card Payment for Cafeteria and Parking Services",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-debitcredit-card-payment-for-cafeteria-and-parking-services.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19: Vaccinations",
+        "attrs": {
+            "href": "/home/patients-and-visitors/coronavirus-(covid-19)/covid-19-vaccinations.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Crystal Methamphetamine (Crystal Meth)",
+        "attrs": {
+            "href": "/home/patients-and-visitors/crystal-methamphetamine-(crystal-meth).aspx"
+        }
+    },
+    {
+        "tag": "link",
+        "text": "leftColumn",
+        "attrs": {
+            "href": "/css/jquery.fancybox.min.css",
+            "rel": [
+                "stylesheet"
+            ],
+            "type": "text/css"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "var addthis_config = {\n            data_ga_property: 'UA-19080236-1',\n            ui_language: 'en'\n          };",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Home",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Patients and Visitors",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Coronavirus (COVID-19)",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "breadCrumbs",
+        "attrs": {
+            "id": "midColumn"
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "COVID-19 Assessment Centres by appointment",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you are unable to attend your\nCOVID-19 test at one of Horizon's COVID-19 Assessment Centres due\nto weather, please resubmit your request by visiting",
+        "attrs": {
+            "style": "text-align: center;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "www.gnb.ca/coronavirus",
+        "attrs": {
+            "href": "http://www.gnb.ca/coronavirus"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "or\ncall Tele-Care 811. Once you resubmit, you will be contacted with a\nnew appointment time.",
+        "attrs": {
+            "style": "text-align: center;"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "COVID-19 Assessment Centres across Horizon offer appointments\nfor patients exhibiting mild to moderate symptoms of Coronavirus\n(COVID-19).",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Appointments",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "are provided following a triage\ncompleted by Tele-Care 811.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Assessment centres will help to reduce visits to emergency\ndepartments and minimize the risk of transmission.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "These are",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "not",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "walk-in clinics. They will\ncomplete COVID-19 screening and testing by appointment only.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Assessment centres are set up in Moncton, Saint John, Miramichi,\nFredericton and Upper River Valley.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you are displaying mild or moderate symptoms of COVID-19,\ncomplete the self-assessment by visiting",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "www.gnb.ca/coronavirus",
+        "attrs": {
+            "href": "http://www.gnb.ca/coronavirus",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "or call Tele-Care\n811.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "In an emergency, or if you are experiencing severe symptoms,\nplease call 911 or call ahead to your local Emergency Department so\nthey can prepare for your arrival.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Assessment Centre Information",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Moncton",
+        "attrs": {
+            "href": "#Moncton"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Miramichi",
+        "attrs": {
+            "href": "#Miramichi"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fredericton",
+        "attrs": {
+            "href": "#Fredericton"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Saint John",
+        "attrs": {
+            "href": "#Saint John"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Upper River Valley",
+        "attrs": {
+            "href": "#URV"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Assessment Centres:\nMicrosites",
+        "attrs": {
+            "href": "#microsites"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Frequently Asked Questions",
+        "attrs": {
+            "href": "#FAQ"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "If you've been directed to one of these sites\nby Tele-Care 811, have a look at this virtual tour so you know what\nto expect.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "[if !IE]><!",
+        "attrs": {
+            "id": "contentHolder"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "<![endif]",
+        "attrs": {
+            "id": "contentHolder"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "[if IE]><div class=\"YoutubeEmbedCrossBrowserIsIe\" style=\"width: 688px; height: 546px;\"><iframe width=\"688\" height=\"546\" src=\"https://www.youtube.com/embed/2KTVh3xPPD0?hd=1\" frameborder=\"0\" allowfullscreen></iframe></div><![endif]",
+        "attrs": {
+            "id": "contentHolder"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Download this video here.",
+        "attrs": {
+            "class": [
+                "YoutubeEmbedCrossBrowserDownloadLink"
+            ],
+            "href": "",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "COVID-19 Assessment Centre Information",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Moncton",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Moncton Coliseum",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "377 Killam Dr.",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Bay 6",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Behind the Agriculture, Aquaculture and Fisheries building",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Hours of Operation: by appointment only",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "*New* Sackville",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Tantramar Civic\nCentre",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "182 Main St.",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Sackville",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Follow the signs to the front entrance of the Civic Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Hours of Operation: by appointment only",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Miramichi",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Former Kerr's Construction Site in Chatham",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "365 Wellington St.",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Miramichi",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Please drive up to the garage door with the Horizon logo,\nand a staff member will direct you.",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Hours of Operation: by appointment only",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fredericton",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Capital Exhibit\nCentre",
+        "attrs": {
+            "style": "font-size: 1em;"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "361 Smythe St.",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Fredericton",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "The drive through entrance is located directly behind\nWilliam's Seafood Restaurant, on the side of the\nbuilding.",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Hours of Operation: by appointment only",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Brookside Mall",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "435 Brookside Dr.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Located in the rear of the building, adjacent to Surplus Furniture\n& Mattress Warehouse.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Hours of Operation: by appointment only",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Saint\nJohn",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Ropewalk Road (behind the Saint John Regional\nYMCA)",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "84 Ropewalk Rd.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Saint John",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Hours of Operation: by appointment only",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "St. James the Less\nChurch",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "1760 Rothesay Rd.",
+        "attrs": {
+            "class": [
+                "MsoNormal"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Rothesay",
+        "attrs": {
+            "class": [
+                "MsoNormal"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Hours of Operation: by appointment only",
+        "attrs": {
+            "class": [
+                "MsoNormal"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "*New* Sussex",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Gateway Mall",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "138 Main St.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Sussex",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Located in rear mall parking lot. Follow wayfinding signs and\ncheck-in with on-site security.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Hours of Operation: by appointment only",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Upper River\nValley",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Hartland Town Hall",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "31 Orser St.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Hartland",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Hours of Operation: by appointment only",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "*NEW*\nPerth-Andover Baptist Church",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "194 Barrett St.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Perth-Andover",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Drop-ins accepted. Testing is performed with or without an\nappointment.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Hours of Operation: Monday to Friday, 1 to 4 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "COVID-19 Assessment\nCentres: Microsites",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Testing at microsite locations is limited and by appointment\nonly. More information will be provided upon booking.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Zone 1 (Moncton area)",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Rogersville Community Health Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-rogersville-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Port Elgin and Region Health Centre",
+        "attrs": {
+            "href": "/facilities-and-services/facilities/port-elgin-and-region-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Albert County Community Health Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/albert-county-community-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "- Riverside-Albert",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Zone 2 (Saint John area)",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Fundy Health Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/fundy-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "- Blacks Harbour",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Campobello Island Health Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/campobello-island-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Charlotte County Collaborative Wellness Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-charlotte-county-collaborative-wellness-centre-(cccwc).aspx"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "- St.\nStephen",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Zone 3 (Fredericton and Upper River Valley\narea)",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Queens North Community Health Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/queens-north-community-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "- Minto",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Fredericton Downtown Community Health Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/fredericton-downtown-community-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Central Miramichi Community Health Centre",
+        "attrs": {
+            "href": "/facilities-and-services/facilities/central-miramichi-community-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "- Doaktown",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Tobique Valley Community Health Centre",
+        "attrs": {
+            "href": "/facilities-and-services/facilities/tobique-valley-community-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "- Plaster Rock",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Zone 7 (Miramichi area)",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Baie-Sainte-Anne Health Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-baie-sainte-anne-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "N\u00c3\u00a9guac Health Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-neguac-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Blackville Health Centre",
+        "attrs": {
+            "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-blackville-health-centre.aspx"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Frequently Asked Questions",
+        "attrs": {}
+    },
+    {
+        "tag": "h4",
+        "text": "How do I access the assessment centre?",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Individuals can access the assessment centre by contacting\nTele-Care 811.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Following an assessment by Tele-Care, if/when the client\nrequires an in-person assessment a referral will be sent to a\nCOVID-19 Assessment Centre; the staff at the assessment centre will\ncontact the individual to schedule an appointment, this should be\ncompleted within 24 hours, but it will depend on the number of\nreferrals.",
+        "attrs": {}
+    },
+    {
+        "tag": "h4",
+        "text": "What are the hours of operation?",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Every effort will be made to screen as many individuals as\npossible each day. The hours may vary as it will be dependent on\nthe volume of referrals received. These assessment centres are not\nwalk-in clinics, they",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "are accessed by appointment through\n811 only",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please check in regularly for updates on our",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "website",
+        "attrs": {
+            "href": "http://www.horizonnb.ca"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "and social media\nchannels.",
+        "attrs": {}
+    },
+    {
+        "tag": "h4",
+        "text": "What health care services are provided?",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Individuals will receive access to screening, be directed to\nfurther care if/when needed as well as provided with evidence-based\nresources and information about COVID-19.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Are there drive-throughs?",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Drive throughs have been set up in Moncton, Fredericton and\nMiramichi for initial screening. If/when a client requires more\nintensive screening they will be asked to enter the assessment\ncentre. We are looking at this option for the other assessment\nsites.",
+        "attrs": {}
+    },
+    {
+        "tag": "h4",
+        "text": "How is it staffed?",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "There will be a health care provider that is able to do an\nassessment, provide medical advice and guidance, and complete the\nscreening test. The health care team may include a physician, nurse\npractitioner, Registered Nurse or a Licensed Practical Nurse.",
+        "attrs": {}
+    },
+    {
+        "tag": "h4",
+        "text": "What's the difference between self-isolation and\nself-monitoring related to Coronavirus (COVID-19)?",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "You self-monitor when you:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Have no symptoms",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Have had a possible exposure to COVID-19 in the last 14\ndays",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Click",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "here",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "for a poster on self-monitoring, which\nyou can download and post on social media to and share with your\nfamily and friends",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "You self-isolate when you:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Have no symptoms",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Have travelled outside of New Brunswick or have had close\ncontact with someone diagnosed with COVID-19",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Click",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "here",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "for a poster on self-isolating, which you\ncan download and post on social media to share with your family and\nfriends.",
+        "attrs": {}
+    },
+    {
+        "tag": "h4",
+        "text": "How do you self-monitor?",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Monitor yourself for 14 days for one or more symptoms of\nCOVID-19:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Fever above 38 degrees Celsius",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "A new cough, or worsening chronic cough",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Sore throat",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Runny nose",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Headache",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "A new onset of fatigue",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "A new onset of muscle pain",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Diarrhea",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Loss of sense of taste",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Loss of sense of smell",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "In children, purple markings on the fingers and toes",
+        "attrs": {
+            "style": "background: url('/media/1637/bullet-arrow.png') 0px 3px no-repeat scroll transparent; margin: 0px; padding: 0px 0px 2px 17px; font-size: 1em;"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Go about your day but remember to follow provincial guidelines\nrelated to the State of Emergency.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you need to go in public, maintain a two metre (six foot)\ndistance between yourself and others.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you develop symptoms, isolate yourself from others (including\nyour household) immediately.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you are displaying mild or moderate symptoms of COVID-19,\ncomplete the self-assessment by visiting",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "www.gnb.ca/coronavirus",
+        "attrs": {
+            "href": "http://www.gnb.ca/coronavirus",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "or call Tele-Care 811.\nThey may refer you to one of the Community Assessment Centres for\ntesting.",
+        "attrs": {}
+    },
+    {
+        "tag": "h4",
+        "text": "How do you self-isolate?",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Stay home and monitor your symptoms, even if mild, for 14\ndays.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Avoid contact with others (including your household) to prevent\nthe spread of disease in your home.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Here are some helpful items to have on hand during\nself-isolation:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "One-time use masks",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Disposable gloves (do not re-use)",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Paper towel and tissues",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Waste basket with disposable, plastic liner",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Thermometer",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Medication to reduce fever (ibuprofen or acetaminophen)",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Alcohol-based sanitizer",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Arrange to have groceries delivered",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Keep other members of your household safe and healthy by\ncleaning and disinfecting surfaces that you touch often, such as\ntoilets, bedside tables, doorknobs, phones and television\nremotes.",
+        "attrs": {}
+    },
+    {
+        "tag": "h4",
+        "text": "Why is Perth-Andover the only location accepting clients\nwithout an appointment?",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Drop-in service at the Perth-Andover location is a temporary\nmeasure to encourage testing at for residents in the area at the\nnew, temporary COVID-19 Assessment Centre.",
+        "attrs": {}
+    },
+    {
+        "tag": "h4",
+        "text": "What do I do when I arrive for a drop-in appointment at the\nPerth-Andover Assessment Centre?",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "First, you arrive at the Perth-Andover Baptist Church at 194\nBarrett St. with your New Brunswick Medicare card. \u00a0Once you\narrive, drive towards the Horizon signage and staff will direct you\nwhere to go. You'll remain in your vehicle for the entire\nprocess.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "[if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:AllowPNG/>\n </o:OfficeDocumentSettings>\n</xml><![endif]",
+        "attrs": {
+            "id": "contentHolder"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "[if gte mso 9]><xml>\n <w:WordDocument>\n  <w:View>Normal</w:View>\n  <w:Zoom>0</w:Zoom>\n  <w:TrackMoves/>\n  <w:TrackFormatting/>\n  <w:DoNotShowRevisions/>\n  <w:DoNotPrintRevisions/>\n  <w:DoNotShowComments/>\n  <w:DoNotShowInsertionsAndDeletions/>\n  <w:DoNotShowPropertyChanges/>\n  <w:PunctuationKerning/>\n  <w:ValidateAgainstSchemas/>\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\n  <w:DoNotPromoteQF/>\n  <w:LidThemeOther>EN-CA</w:LidThemeOther>\n  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>\n  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>\n  <w:Compatibility>\n   <w:BreakWrappedTables/>\n   <w:SnapToGridInCell/>\n   <w:WrapTextWithPunct/>\n   <w:UseAsianBreakRules/>\n   <w:DontGrowAutofit/>\n   <w:SplitPgBreakAndParaMark/>\n   <w:EnableOpenTypeKerning/>\n   <w:DontFlipMirrorIndents/>\n   <w:OverrideTableStyleHps/>\n  </w:Compatibility>\n  <m:mathPr>\n   <m:mathFont m:val=\"Cambria Math\"/>\n   <m:brkBin m:val=\"before\"/>\n   <m:brkBinSub m:val=\"&#45;-\"/>\n   <m:smallFrac m:val=\"off\"/>\n   <m:dispDef/>\n   <m:lMargin m:val=\"0\"/>\n   <m:rMargin m:val=\"0\"/>\n   <m:defJc m:val=\"centerGroup\"/>\n   <m:wrapIndent m:val=\"1440\"/>\n   <m:intLim m:val=\"subSup\"/>\n   <m:naryLim m:val=\"undOvr\"/>\n  </m:mathPr></w:WordDocument>\n</xml><![endif]",
+        "attrs": {
+            "id": "contentHolder"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "[if gte mso 9]><xml>\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"false\"\n  DefSemiHidden=\"false\" DefQFormat=\"false\" DefPriority=\"99\"\n  LatentStyleCount=\"375\">\n  <w:LsdException Locked=\"false\" Priority=\"0\" QFormat=\"true\" Name=\"Normal\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 7\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 8\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 9\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index 4\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index 5\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index 6\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index 7\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index 8\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index 9\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"toc 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"toc 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"toc 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"toc 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"toc 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"toc 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"toc 7\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"toc 8\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"toc 9\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Normal Indent\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"footnote text\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"annotation text\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"header\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"footer\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"index heading\"/>\n  <w:LsdException Locked=\"false\" Priority=\"35\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"caption\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"table of figures\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"envelope address\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"envelope return\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"footnote reference\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"annotation reference\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"line number\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"page number\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"endnote reference\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"endnote text\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"table of authorities\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"macro\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"toa heading\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Bullet\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Number\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List 4\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List 5\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Bullet 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Bullet 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Bullet 4\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Bullet 5\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Number 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Number 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Number 4\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Number 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"10\" QFormat=\"true\" Name=\"Title\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Closing\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Signature\"/>\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"Default Paragraph Font\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Body Text\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Body Text Indent\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Continue\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Continue 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Continue 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Continue 4\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"List Continue 5\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Message Header\"/>\n  <w:LsdException Locked=\"false\" Priority=\"11\" QFormat=\"true\" Name=\"Subtitle\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Salutation\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Date\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Body Text First Indent\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Body Text First Indent 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Note Heading\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Body Text 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Body Text 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Body Text Indent 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Body Text Indent 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Block Text\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Hyperlink\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"FollowedHyperlink\"/>\n  <w:LsdException Locked=\"false\" Priority=\"22\" QFormat=\"true\" Name=\"Strong\"/>\n  <w:LsdException Locked=\"false\" Priority=\"20\" QFormat=\"true\" Name=\"Emphasis\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Document Map\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Plain Text\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"E-mail Signature\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Top of Form\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Bottom of Form\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Normal (Web)\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Acronym\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Address\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Cite\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Code\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Definition\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Keyboard\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Preformatted\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Sample\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Typewriter\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"HTML Variable\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Normal Table\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"annotation subject\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"No List\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Outline List 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Outline List 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Outline List 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Simple 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Simple 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Simple 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Classic 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Classic 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Classic 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Classic 4\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Colorful 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Colorful 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Colorful 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Columns 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Columns 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Columns 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Columns 4\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Columns 5\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Grid 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Grid 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Grid 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Grid 4\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Grid 5\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Grid 6\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Grid 7\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Grid 8\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table List 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table List 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table List 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table List 4\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table List 5\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table List 6\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table List 7\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table List 8\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table 3D effects 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table 3D effects 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table 3D effects 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Contemporary\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Elegant\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Professional\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Subtle 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Subtle 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Web 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Web 2\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Web 3\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Balloon Text\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"Table Grid\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Table Theme\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Placeholder Text\"/>\n  <w:LsdException Locked=\"false\" Priority=\"1\" QFormat=\"true\" Name=\"No Spacing\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 1\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Revision\"/>\n  <w:LsdException Locked=\"false\" Priority=\"34\" QFormat=\"true\"\n   Name=\"List Paragraph\"/>\n  <w:LsdException Locked=\"false\" Priority=\"29\" QFormat=\"true\" Name=\"Quote\"/>\n  <w:LsdException Locked=\"false\" Priority=\"30\" QFormat=\"true\"\n   Name=\"Intense Quote\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"19\" QFormat=\"true\"\n   Name=\"Subtle Emphasis\"/>\n  <w:LsdException Locked=\"false\" Priority=\"21\" QFormat=\"true\"\n   Name=\"Intense Emphasis\"/>\n  <w:LsdException Locked=\"false\" Priority=\"31\" QFormat=\"true\"\n   Name=\"Subtle Reference\"/>\n  <w:LsdException Locked=\"false\" Priority=\"32\" QFormat=\"true\"\n   Name=\"Intense Reference\"/>\n  <w:LsdException Locked=\"false\" Priority=\"33\" QFormat=\"true\" Name=\"Book Title\"/>\n  <w:LsdException Locked=\"false\" Priority=\"37\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" Name=\"Bibliography\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"TOC Heading\"/>\n  <w:LsdException Locked=\"false\" Priority=\"41\" Name=\"Plain Table 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"42\" Name=\"Plain Table 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"43\" Name=\"Plain Table 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"44\" Name=\"Plain Table 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"45\" Name=\"Plain Table 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"40\" Name=\"Grid Table Light\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"Grid Table 1 Light\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"Grid Table 6 Colorful\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"Grid Table 7 Colorful\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"Grid Table 1 Light Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"Grid Table 6 Colorful Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"Grid Table 7 Colorful Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"Grid Table 1 Light Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"Grid Table 6 Colorful Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"Grid Table 7 Colorful Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"Grid Table 1 Light Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"Grid Table 6 Colorful Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"Grid Table 7 Colorful Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"Grid Table 1 Light Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"Grid Table 6 Colorful Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"Grid Table 7 Colorful Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"Grid Table 1 Light Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"Grid Table 6 Colorful Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"Grid Table 7 Colorful Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"Grid Table 1 Light Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"Grid Table 6 Colorful Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"Grid Table 7 Colorful Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"List Table 1 Light\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"List Table 6 Colorful\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"List Table 7 Colorful\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"List Table 1 Light Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"List Table 6 Colorful Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"List Table 7 Colorful Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"List Table 1 Light Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"List Table 6 Colorful Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"List Table 7 Colorful Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"List Table 1 Light Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"List Table 6 Colorful Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"List Table 7 Colorful Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"List Table 1 Light Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"List Table 6 Colorful Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"List Table 7 Colorful Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"List Table 1 Light Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"List Table 6 Colorful Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"List Table 7 Colorful Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"46\"\n   Name=\"List Table 1 Light Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"51\"\n   Name=\"List Table 6 Colorful Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"52\"\n   Name=\"List Table 7 Colorful Accent 6\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Mention\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Smart Hyperlink\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Hashtag\"/>\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\n   Name=\"Unresolved Mention\"/>\n </w:LatentStyles>\n</xml><![endif]",
+        "attrs": {
+            "id": "contentHolder"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "[if gte mso 10]>\n<style>\n /* Style Definitions */\n table.MsoNormalTable\n    {mso-style-name:\"Table Normal\";\n    mso-tstyle-rowband-size:0;\n    mso-tstyle-colband-size:0;\n    mso-style-noshow:yes;\n    mso-style-priority:99;\n    mso-style-parent:\"\";\n    mso-padding-alt:0cm 5.4pt 0cm 5.4pt;\n    mso-para-margin-top:0cm;\n    mso-para-margin-right:0cm;\n    mso-para-margin-bottom:8.0pt;\n    mso-para-margin-left:0cm;\n    line-height:107%;\n    mso-pagination:widow-orphan;\n    font-size:11.0pt;\n    font-family:\"Calibri\",sans-serif;\n    mso-ascii-font-family:Calibri;\n    mso-ascii-theme-font:minor-latin;\n    mso-hansi-font-family:Calibri;\n    mso-hansi-theme-font:minor-latin;\n    mso-bidi-font-family:\"Times New Roman\";\n    mso-bidi-theme-font:minor-bidi;\n    mso-fareast-language:EN-US;}\n</style>\n<![endif]",
+        "attrs": {
+            "id": "contentHolder"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "$(document).ready(function(){\n          var url = window.location.href;\n          \n          //if(url.indexOf('test=testing')!= -1) { // for testing purposes only; comment out when setting live\n           \n            \n            if (document.cookie.indexOf(\"prenatalSurveyCompleted=\") >= 0) {\n              // They've filled survey, dont toggle popup\n            }\n            else {\n            \n              setTimeout(function(){\n                if( $('#prenatal-popup-survey').length > 0 ) {\n                  $('#toggle-prenatal-survey').click();\n                  \n                  // set a new cookie\n                  expiry = new Date();\n                  expiry.setTime(expiry.getTime()+(8760*60*1000)); // 1 Year\n                \n                  // Date()'s toGMTSting() method will format the date correctly for a cookie\n                  document.cookie = \"prenatalSurveyCompleted=yes; expires=\" + expiry.toGMTString();\n                }\n              }, 60000);\n            }\n\n          //}\n          \n        });",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "mainContent",
+        "attrs": {
+            "id": "midColumn"
+        }
+    },
+    {
+        "tag": "link",
+        "text": "midColumn",
+        "attrs": {
+            "href": "/css/jquery.fancybox.min.css",
+            "rel": [
+                "stylesheet"
+            ],
+            "type": "text/css"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "var addthis_config = {\n              data_ga_property: 'UA-19080236-1',\n              ui_language: 'en'\n            };",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Text Size:",
+        "attrs": {
+            "class": [
+                "textChangeText"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "A",
+        "attrs": {
+            "href": "javascript:ArticleBodyFontSize_OnClick(\"0\")"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "A",
+        "attrs": {
+            "href": "javascript:ArticleBodyFontSize_OnClick(\"1\")"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "A",
+        "attrs": {
+            "href": "javascript:ArticleBodyFontSize_OnClick(\"2\")"
+        }
+    },
+    {
+        "tag": "h4",
+        "text": "Related Links",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "If you\u00e2\u0080\u0099ve been directed to one of these sites by Tele-Care 811, have a look at this virtual tour so you know what to expect.",
+        "attrs": {
+            "href": "https://www.youtube.com/watch?v=vJfP24xViRw"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Video: Moncton Medical Director Dr. Jody Enright explains the process at our COVID-19 assessment centres",
+        "attrs": {
+            "href": "https://www.youtube.com/watch?v=0gnw_Wkg9N4&t=6s"
+        }
+    },
+    {
+        "tag": "h4",
+        "text": "Helpful Links",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Office of the Chief Medical Officer of Health (Public Health): Coronavirus",
+        "attrs": {
+            "target": "_blank",
+            "href": "https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Office of the Chief Medical Officer of Health (Public Health): Frequently Asked Questions",
+        "attrs": {
+            "target": "_blank",
+            "href": "https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19.html#faq"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Health Agency of Canada: Being Prepared",
+        "attrs": {
+            "target": "_blank",
+            "href": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Health Agency of Canada: Active travel health notices",
+        "attrs": {
+            "target": "_blank",
+            "href": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Infection Prevention and Control",
+        "attrs": {
+            "href": "/home/patients-and-visitors/infection-prevention-and-control.aspx"
+        }
+    },
+    {
+        "tag": "link",
+        "text": "rightColumn",
+        "attrs": {
+            "href": "/css/jquery.fancybox.min.css",
+            "rel": [
+                "stylesheet"
+            ],
+            "type": "text/css"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "innerContainer",
+        "attrs": {
+            "id": "container"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "container",
+        "attrs": {
+            "id": "wrap"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Horizon Health Network",
+        "attrs": {}
+    },
+    {
+        "tag": "button",
+        "text": "Desktop View",
+        "attrs": {
+            "id": "desktop",
+            "data-theme": "ie8styles.css"
+        }
+    },
+    {
+        "tag": "button",
+        "text": "Mobile View",
+        "attrs": {
+            "id": "mobile",
+            "data-theme": "horizonStyles.css"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sitemap",
+        "attrs": {
+            "href": "/home/sitemap.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Brand Standards",
+        "attrs": {
+            "href": "/home/media-centre/brand-standards.aspx"
+        }
+    },
+    {
+        "tag": "ul",
+        "text": "li></li",
+        "attrs": {
+            "class": [
+                "mobileFooter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Terms of Use",
+        "attrs": {
+            "href": "/home/terms-of-use.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Social Media Principles",
+        "attrs": {
+            "href": "/home/terms-of-use/social-media-principles.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Representative",
+        "attrs": {
+            "href": "/home/patients-and-visitors/support-therapy/patient-representative.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Employee Access",
+        "attrs": {
+            "href": "/home/phycians-(roam).aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Board Member Login",
+        "attrs": {
+            "id": "boardLogin",
+            "href": "https://en.horizonnb.ca/home/board-member-login.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "\u00a92021 Horizon Health Network",
+        "attrs": {
+            "class": [
+                "mobileCopyright"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sitemap",
+        "attrs": {
+            "href": "/home/sitemap.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Brand Standards",
+        "attrs": {
+            "href": "/home/media-centre/brand-standards.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "E-Learning",
+        "attrs": {
+            "href": "/home/careers-and-education/learning.aspx"
+        }
+    },
+    {
+        "tag": "ul",
+        "text": "li></li",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "\u00a92021 Horizon Health Network",
+        "attrs": {
+            "class": [
+                "copyRight"
+            ]
+        }
+    },
+    {
+        "tag": "ul",
+        "text": "<li><a href=\"\">Privacy Policy</a></li>",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Terms of Use",
+        "attrs": {
+            "href": "/home/terms-of-use.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Social Media Principles",
+        "attrs": {
+            "href": "/home/terms-of-use/social-media-principles.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Representative",
+        "attrs": {
+            "href": "/home/patients-and-visitors/support-therapy/patient-representative.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Employee Access",
+        "attrs": {
+            "href": "/home/phycians-(roam).aspx"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Corporate Office",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Horizon Health Network",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Woodbridge Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "180 Woodbridge Street",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Fredericton, New Brunswick",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "E3B 4R3",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Telephone:",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "506-623-5500",
+        "attrs": {
+            "href": "tel:5066235500"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Click here to email us",
+        "attrs": {
+            "href": "/home/contact/contact-us-by-email.aspx"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Fredericton Area",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "506-452-5400",
+        "attrs": {
+            "href": "tel:5064525400"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Miramichi Area",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "506-623-3000",
+        "attrs": {
+            "href": "tel:5066233000"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Moncton Area",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "506-857-5111",
+        "attrs": {
+            "href": "tel:5068575111"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Saint John Area",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "506-648-6000",
+        "attrs": {
+            "href": "tel:5066486000"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Upper River Valley Area",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "506-375-5900",
+        "attrs": {
+            "href": "tel:5063755900"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Subscribe to our e-newsletter!",
+        "attrs": {
+            "id": "toggle-pop-up",
+            "data-fancybox": "",
+            "data-src": "#subscription-pop-up-content",
+            "href": "#"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "footerWrap",
+        "attrs": {
+            "class": [
+                "footerArc"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "footerArc",
+        "attrs": {
+            "id": "footer",
+            "class": [
+                "gradient"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "footer",
+        "attrs": {
+            "id": "wrap"
+        }
+    },
+    {
+        "tag": "body",
+        "text": "wrap",
+        "attrs": {
+            "class": [
+                "gradient",
+                "pageid-18403",
+                "1061"
+            ]
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "Do you want to learn more about your Horizon Health Network?",
+        "attrs": {
+            "style": "line-height: 1em; max-width:100%;background: none;color: #02AADA;"
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "Voulez-vous \u00c3\u00aatre au courant de ce qui se passe au R\u00c3\u00a9seau de sant\u00c3\u00a9 Horizon?",
+        "attrs": {
+            "style": "line-height: 1em; max-width:100%;background: none;color: #02AADA;"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Sign-up to be added to our distribution list where we will share information and updates with you, about our facilities and our work within your community.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Inscrivez-vous \u00c3\u00a0 notre liste de distribution pour recevoir des renseignements et des mises \u00c3\u00a0 jour au sujet des \u00c3\u00a9tablissements d\u00e2\u0080\u0099Horizon et du travail accompli dans votre collectivit\u00c3\u00a9.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Begin MailChimp Signup Form",
+        "attrs": {
+            "class": [
+                "newsBlock"
+            ],
+            "id": "subscription-pop-up-content",
+            "style": "max-width:550px;"
+        }
+    },
+    {
+        "tag": "style",
+        "text": "#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }\n              /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.\n                 We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */",
+        "attrs": {
+            "type": "text/css"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "*",
+        "attrs": {
+            "class": [
+                "asterisk"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "indicates required / champ obligatoire",
+        "attrs": {
+            "class": [
+                "indicates-required"
+            ]
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Email Address / Courriel",
+        "attrs": {
+            "for": "mce-EMAIL"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "*",
+        "attrs": {
+            "class": [
+                "asterisk"
+            ]
+        }
+    },
+    {
+        "tag": "label",
+        "text": "First Name / Pr\u00c3\u00a9nom",
+        "attrs": {
+            "for": "mce-FNAME"
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Last Name / Nom de famille",
+        "attrs": {
+            "for": "mce-LNAME"
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Area / R\u00c3\u00a9gion",
+        "attrs": {
+            "for": "mce-AREA"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "real people should not fill this in and expect good things - do not remove this or risk form bot signups",
+        "attrs": {
+            "id": "mc_embed_signup_scroll"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='BIRTHDAY';ftypes[3]='birthday';fnames[4]='AREA';ftypes[4]='text';}(jQuery));var $mcj = jQuery.noConflict(true);",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "End mc_embed_signup",
+        "attrs": {
+            "class": [
+                "newsBlock"
+            ],
+            "id": "subscription-pop-up-content",
+            "style": "max-width:550px;"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "$(function() {\r\n\r\n    var $allVideos = $(\"iframe[src^='//player.vimeo.com'], iframe[src^='//www.youtube.com'], object, embed, .YoutubeEmbedCrossBrowserNotIe\"),\r\n    $fluidEl = $(\"#mainContent\");\r\n      \r\n      //console.log($allVideos);\r\n\r\n  $allVideos.each(function() {\r\n    console.log('we got one!');\r\n    $(this)\r\n      // jQuery .data does not work on object/embed elements\r\n      .attr('data-aspectRatio', this.height / this.width)\r\n      .removeAttr('height')\r\n      .removeAttr('width');\r\n\r\n  });\r\n\r\n  $(window).resize(function() {\r\n\r\n    var newWidth = $fluidEl.width();\r\n    $allVideos.each(function() {\r\n\r\n      var $el = $(this);\r\n      $el\r\n          .width(newWidth)\r\n          .height(newWidth * $el.attr('data-aspectRatio'));\r\n\r\n    });\r\n\r\n  }).resize();\r\n\r\n});",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    }
+]

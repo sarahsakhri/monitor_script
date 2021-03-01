@@ -1,0 +1,2349 @@
+{
+  "values_changed": {
+    "root[8996]['text']": {
+      "new_value": "Declaration of emergency in effect. Stay at home except for essential travel and follow the",
+      "old_value": "N4K 6M0"
+    },
+    "root[7]['attrs']['href']": {
+      "new_value": "https://covid-19.ontario.ca/zones-and-restrictions",
+      "old_value": "https://www.ontario.ca/page/covid-19-provincewide-shutdown"
+    },
+    "root[9]['text']": {
+      "new_value": "fran\u00e7ais",
+      "old_value": "fran\u00c3\u00a7ais"
+    },
+    "root[11]['text']": {
+      "new_value": "Last updated: January 29, 2021",
+      "old_value": "Last updated: January 08, 2021"
+    },
+    "root[13]['text']": {
+      "new_value": "Find your closest Ontario testing location to get a COVID\u201119 test.",
+      "old_value": "Find your closest Ontario testing location to get a COVID\u00e2\u0080\u009119 test."
+    },
+    "root[15]['text']": {
+      "new_value": "Learn about the testing process and what to expect.",
+      "old_value": "Check if you should be tested for COVID-19"
+    },
+    "root[3964]['text']": {
+      "new_value": "191 locations found.",
+      "old_value": "402 locations found."
+    },
+    "root[11733]['text']": {
+      "new_value": "Michael Garron Hospital COVID-19 Assessment Centre",
+      "old_value": "333 Dundas\u00c2\u00a0St. - Shoppers Drug Mart"
+    },
+    "root[11269]['text']": {
+      "new_value": "Please see the information on North York General Hospital\u2019s website for booking appointments online. Or call 416-635-2509 from 8 a.m. to 4 p.m. to book your appointment over the phone.",
+      "old_value": "Residents who require testing must preregister for next day appointments via an online form at https://covid19.smgh.ca:4433/. Booking begins daily at 7:00 a.m.. For assistance, or if you can\u00e2\u0080\u0099t book online, call 519-885-9517. Appointments are booked for those who \u00e2\u0080\u00a2 Are showing COVID-19 symptoms; \u00e2\u0080\u00a2 Have been exposed to a confirmed case of the virus, as informed by your public health unit or your COVID Alert app; \u00e2\u0080\u00a2 Live or work in a setting that has a COVID-19 outbreak, as identified and informed by your local public health unit; and \u00e2\u0080\u00a2 Are eligible for testing as part of a targeted testing initiative directed by the Ministry of Health or the Ministry of Long-Term Care. \r\n\u00e2\u0080\u00a2\tNext day appointment by pre-registration \r\n\u00e2\u0080\u00a2\tBook only one appointment per person per day\r\n\u00e2\u0080\u00a2\tCall 226-989-4966 to cancel",
+      "diff": "--- \n+++ \n@@ -1,4 +1 @@\n-Residents who require testing must preregister for next day appointments via an online form at https://covid19.smgh.ca:4433/. Booking begins daily at 7:00 a.m.. For assistance, or if you can\u00e2\u0080\u0099t book online, call 519-885-9517. Appointments are booked for those who \u00e2\u0080\u00a2 Are showing COVID-19 symptoms; \u00e2\u0080\u00a2 Have been exposed to a confirmed case of the virus, as informed by your public health unit or your COVID Alert app; \u00e2\u0080\u00a2 Live or work in a setting that has a COVID-19 outbreak, as identified and informed by your local public health unit; and \u00e2\u0080\u00a2 Are eligible for testing as part of a targeted testing initiative directed by the Ministry of Health or the Ministry of Long-Term Care. \n-\u00e2\u0080\u00a2\tNext day appointment by pre-registration \n-\u00e2\u0080\u00a2\tBook only one appointment per person per day\n-\u00e2\u0080\u00a2\tCall 226-989-4966 to cancel\n+Please see the information on North York General Hospital\u2019s website for booking appointments online. Or call 416-635-2509 from 8 a.m. to 4 p.m. to book your appointment over the phone."
+    },
+    "root[11598]['text']": {
+      "new_value": "Sunday: 1 p.m. to 7 p.m.",
+      "old_value": "Monday - Friday: 7 a.m. to 3 p.m."
+    },
+    "root[11811]['text']": {
+      "new_value": "Note: Mobile or temporary locations may not be listed here. Call your",
+      "old_value": "Note: Mobile or pop-up locations may not be listed here."
+    },
+    "root[11829]['text']": {
+      "new_value": "\u00a9 Queen\u2019s Printer for Ontario, 2012\u201320",
+      "old_value": "\u00c2\u00a9 Queen\u00e2\u0080\u0099s Printer for Ontario, 2012\u00e2\u0080\u009320"
+    },
+    "root[11832]['text']": {
+      "new_value": "/*<![CDATA[*/window.___chunkMapping={\"app\":[\"/app-e5abd949f847b8cdce4b.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-77b8a41fdce3322d952b.js\"],\"component---src-pages-assessment-centre-locations-index-js\":[\"/component---src-pages-assessment-centre-locations-index-js-60bcd69d3d82c534dc2e.js\"],\"component---src-pages-centres-depistage-index-js\":[\"/component---src-pages-centres-depistage-index-js-24fcf040b1aa0d6f7e2b.js\"]};/*]]>*/",
+      "old_value": "/*<![CDATA[*/window.___chunkMapping={\"app\":[\"/app-e5abd949f847b8cdce4b.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-77b8a41fdce3322d952b.js\"],\"component---src-pages-assessment-centre-locations-index-js\":[\"/component---src-pages-assessment-centre-locations-index-js-c8dbc28f27b985ea47f7.js\"],\"component---src-pages-centres-depistage-index-js\":[\"/component---src-pages-centres-depistage-index-js-423d9be6f90172562042.js\"]};/*]]>*/"
+    },
+    "root[2744]": {
+      "new_value": {
+        "tag": "li",
+        "text": "Friday: 1:30 p.m. to 4:30 p.m.",
+        "attrs": {}
+      },
+      "old_value": {
+        "text": "Wednesday: 1 p.m. to 6:30 p.m.",
+        "tag": "li",
+        "attrs": {}
+      }
+    },
+    "root[27]": {
+      "new_value": {
+        "tag": "label",
+        "text": "(tests people with symptoms, exposure, or those in certain groups)",
+        "attrs": {
+          "class": [
+            "ontario-checkboxes__label",
+            "ontario-checkboxes__labelundefined"
+          ],
+          "for": "communityLab"
+        }
+      },
+      "old_value": {
+        "text": "180 locations found.",
+        "tag": "span",
+        "attrs": {
+          "class": [
+            "ontario-text-raleway",
+            "ontario-margin-right-32-!"
+          ]
+        }
+      }
+    },
+    "root[2743]": {
+      "new_value": {
+        "tag": "li",
+        "text": "Thursday: 10 a.m. to 7 p.m.",
+        "attrs": {}
+      },
+      "old_value": {
+        "text": "Tuesday: 1 p.m. to 6:30 p.m.",
+        "tag": "li",
+        "attrs": {}
+      }
+    }
+  },
+  "iterable_item_added": {
+    "root[22]": {
+      "tag": "div",
+      "text": "Filter locations",
+      "attrs": {
+        "class": [
+          "accordion__button"
+        ],
+        "style": "background:#CFEDED",
+        "id": "accordion__heading-raa-0",
+        "aria-disabled": "false",
+        "aria-expanded": "false",
+        "aria-controls": "accordion__panel-raa-0",
+        "role": "button",
+        "tabindex": "0",
+        "data-accordion-component": "AccordionItemButton"
+      }
+    },
+    "root[23]": {
+      "tag": "strong",
+      "text": "Location type",
+      "attrs": {}
+    },
+    "root[24]": {
+      "tag": "strong",
+      "text": "Assessment centre",
+      "attrs": {}
+    },
+    "root[25]": {
+      "tag": "label",
+      "text": "(tests people with symptoms, exposure, or those in certain groups)",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "assessmentCentre"
+      }
+    },
+    "root[26]": {
+      "tag": "strong",
+      "text": "Community lab",
+      "attrs": {}
+    },
+    "root[28]": {
+      "tag": "strong",
+      "text": "Pharmacy",
+      "attrs": {}
+    },
+    "root[29]": {
+      "tag": "label",
+      "text": "(tests certain people without symptoms or exposure)",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "pharma"
+      }
+    },
+    "root[30]": {
+      "tag": "strong",
+      "text": "Operating hours",
+      "attrs": {}
+    },
+    "root[31]": {
+      "tag": "label",
+      "text": "Open now",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "openNow"
+      }
+    },
+    "root[32]": {
+      "tag": "label",
+      "text": "Open weekdays after 5 p.m.",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "openAfter5pm"
+      }
+    },
+    "root[33]": {
+      "tag": "label",
+      "text": "Open on weekends",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "openOnWeekends"
+      }
+    },
+    "root[34]": {
+      "tag": "strong",
+      "text": "Appointment booking",
+      "attrs": {}
+    },
+    "root[35]": {
+      "tag": "label",
+      "text": "Online",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "onlineBooking"
+      }
+    },
+    "root[36]": {
+      "tag": "label",
+      "text": "Phone",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "phoneBooking"
+      }
+    },
+    "root[37]": {
+      "tag": "strong",
+      "text": "Testing offered to",
+      "attrs": {}
+    },
+    "root[38]": {
+      "tag": "label",
+      "text": "Newborns",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "testsNewborns"
+      }
+    },
+    "root[39]": {
+      "tag": "label",
+      "text": "Children",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "testsYoungChildren"
+      }
+    },
+    "root[40]": {
+      "tag": "label",
+      "text": "Only children with disabilities",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "testsChildrenWithDisabilities"
+      }
+    },
+    "root[41]": {
+      "tag": "label",
+      "text": "Only Indigenous people",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "testsIndigenousPeople"
+      }
+    },
+    "root[42]": {
+      "tag": "strong",
+      "text": "Accommodations",
+      "attrs": {}
+    },
+    "root[43]": {
+      "tag": "label",
+      "text": "Drive-through testing",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "driveThroughTesting"
+      }
+    },
+    "root[44]": {
+      "tag": "label",
+      "text": "Wheelchair and mobility device accessible",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "wheelchairAndMobilityDeviceAccessible"
+      }
+    },
+    "root[45]": {
+      "tag": "label",
+      "text": "French language",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "frenchLanguage"
+      }
+    },
+    "root[46]": {
+      "tag": "label",
+      "text": "American Sign Language interpretation",
+      "attrs": {
+        "class": [
+          "ontario-checkboxes__label",
+          "ontario-checkboxes__labelundefined"
+        ],
+        "for": "americanSignLanguageInterpretation"
+      }
+    },
+    "root[50]": {
+      "tag": "p",
+      "text": "Tests people with symptoms, exposure, or those in",
+      "attrs": {
+        "class": [
+          "ontario-margin-bottom-0-!",
+          "ontario-margin-top-4-!",
+          "ontario-callout--label--text"
+        ]
+      }
+    },
+    "root[51]": {
+      "tag": "a",
+      "text": "certain groups",
+      "attrs": {
+        "href": "https://covid-19.ontario.ca/covid-19-test-and-testing-location-information#centres",
+        "target": "_blank",
+        "rel": [
+          "noopener"
+        ]
+      }
+    },
+    "root[164]": {
+      "tag": "p",
+      "text": "Vaughan Estate on Sunnybrook\u2019s Bayview Campus",
+      "attrs": {}
+    },
+    "root[165]": {
+      "tag": "p",
+      "text": "80 Armistice Drive",
+      "attrs": {}
+    },
+    "root[167]": {
+      "tag": "p",
+      "text": "M4N 1J8",
+      "attrs": {}
+    },
+    "root[759]": {
+      "tag": "p",
+      "text": "For local residents of all ages. \u2022 December 12-24 and 27\u201331 and January 2\u201331 from 1:00 p.m. to 7:00 p.m. Last test at 6:45 p.m. Testing may finish earlier depending on client volumes. \u2022 Drop-ins available at this temporary testing site. Appointments can also be booked by calling 647-477-1640.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[773]": {
+      "tag": "p",
+      "text": "2206 Lake Shore Boulevard.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[827]": {
+      "tag": "p",
+      "text": "390 Queen's Quay West\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[845]": {
+      "tag": "p",
+      "text": "388 King St. West\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[863]": {
+      "tag": "p",
+      "text": "279 Yonge St.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[881]": {
+      "tag": "p",
+      "text": "951 Bay St.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[917]": {
+      "tag": "p",
+      "text": "593 Dundas St. East\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1248]": {
+      "tag": "p",
+      "text": "Comprehensive First Nations, Inuit and M\u00e9tis specific COVID-19 response program",
+      "attrs": {}
+    },
+    "root[1252]": {
+      "tag": "p",
+      "text": "This centre tests Indigenous; First Nations, Inuit, or Metis people and those who live and/or work closely with them by appointment only. Call 416-654-4184 or email appointments@healthybreathing.co to make an appointment.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1289]": {
+      "tag": "p",
+      "text": "East York Temporary Testing Site",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1290]": {
+      "tag": "p",
+      "text": "East York Community Centre",
+      "attrs": {}
+    },
+    "root[1291]": {
+      "tag": "p",
+      "text": "1081 \u00bd Pape Avenue",
+      "attrs": {}
+    },
+    "root[1293]": {
+      "tag": "p",
+      "text": "M4K 3W4",
+      "attrs": {}
+    },
+    "root[1294]": {
+      "tag": "p",
+      "text": "For local residents of all ages.\r\n\u2022\tJanuary 3\u20136, 10\u201313, 17\u201320, 24\u201327 and 31 (every Sunday to Wednesday) from 1\u20137 p.m. Testing may finish earlier depending on client volumes.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1301]": {
+      "tag": "li",
+      "text": "Monday: 1 p.m. to 7 p.m.",
+      "attrs": {}
+    },
+    "root[1302]": {
+      "tag": "li",
+      "text": "Tuesday: 1 p.m. to 7 p.m.",
+      "attrs": {}
+    },
+    "root[1303]": {
+      "tag": "li",
+      "text": "Wednesday: 1 p.m. to 7 p.m.",
+      "attrs": {}
+    },
+    "root[1308]": {
+      "tag": "p",
+      "text": "Flemingdon Park temporary testing site #1",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1309]": {
+      "tag": "p",
+      "text": "Dennis R. Timbrell Resource Centre",
+      "attrs": {}
+    },
+    "root[1310]": {
+      "tag": "p",
+      "text": "29 St. Dennis Drive",
+      "attrs": {}
+    },
+    "root[1312]": {
+      "tag": "p",
+      "text": "M3C 3J3",
+      "attrs": {}
+    },
+    "root[1313]": {
+      "tag": "p",
+      "text": "For local residents of all ages.\r\n\u2022\tJanuary 2\u20133, 8\u201310, 15\u201317, 22\u201324 and 29\u201331 (every Friday to Sunday) from 1\u20137 p.m. Testing may finish earlier depending on client volumes.Appointments can also be booked at this location by calling 647-477-1640.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1320]": {
+      "tag": "li",
+      "text": "Friday: 1 p.m. to 7 p.m.",
+      "attrs": {}
+    },
+    "root[1321]": {
+      "tag": "li",
+      "text": "Saturday: 1 p.m. to 7 p.m.",
+      "attrs": {}
+    },
+    "root[1328]": {
+      "tag": "p",
+      "text": "South Riverdale temporary testing site",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1329]": {
+      "tag": "p",
+      "text": "South Riverdale Community Health Centre",
+      "attrs": {}
+    },
+    "root[1330]": {
+      "tag": "p",
+      "text": "955 Queen Street East",
+      "attrs": {}
+    },
+    "root[1332]": {
+      "tag": "p",
+      "text": "M4M 3P3",
+      "attrs": {}
+    },
+    "root[1333]": {
+      "tag": "p",
+      "text": "For local residents of all ages. \r\n\u2022\tJanuary 4 from 10:30 a.m.\u201312:30 p.m.\r\n\u2022\tJanuary 12 from 4\u20136 p.m.\r\n\u2022\tJanuary 18 from 10:30 a.m.\u201312:30 p.m.\r\n\u2022\tJanuary 23 from 10:30 a.m.\u20131:30 p.m.\r\n\u2022\tJanuary 26 from 4\u20136 p.m.Testing may finish earlier depending on client volumes.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1339]": {
+      "tag": "li",
+      "text": "Monday: 10:30 a.m. to 12:30 p.m.",
+      "attrs": {}
+    },
+    "root[1341]": {
+      "tag": "a",
+      "text": "416-461-1925",
+      "attrs": {
+        "href": "tel:+14164611925"
+      }
+    },
+    "root[1346]": {
+      "tag": "p",
+      "text": "Warden Woods (Scarborough) temporary testing site",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1347]": {
+      "tag": "p",
+      "text": "The Hub at Warden Woods Community Centre",
+      "attrs": {}
+    },
+    "root[1348]": {
+      "tag": "p",
+      "text": "76 Firvalley Court",
+      "attrs": {}
+    },
+    "root[1350]": {
+      "tag": "p",
+      "text": "M1L 1N9",
+      "attrs": {}
+    },
+    "root[1351]": {
+      "tag": "p",
+      "text": "For local residents of all ages.\r\n\u2022\tJanuary 2, 7\u20139 (every Thursday to Saturday) from 1\u20137 p.m.\r\n\u2022\tJanuary 14\u201317, 21\u201324 and 28-31 (every Thursday to Sunday) from 1\u20137 p.m. Last test at 6:45 p.m. Testing may finish earlier depending on client volumes.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1358]": {
+      "tag": "li",
+      "text": "Thursday: 1 p.m. to 7 p.m.",
+      "attrs": {}
+    },
+    "root[1480]": {
+      "tag": "p",
+      "text": "Children may be tested at this specialized assessment centre if they have:\r\n\u2022 Highly challenging behaviours due to neurodevelopmental disorders (e.g., autism, developmental delay)\r\n\u2022 Active use of medical technology due to medical complexity, including aerosol generating medical procedures (e.g., tracheostomy)\r\n\u2022 Severe immunocompromise or bleeding disorders due to haematological or other conditions (e.g., childhood cancer, anticoagulation therapy)\r\n\u2022 Extreme procedural anxiety due to mental health disorders (e.g., panic attacks)\r\n\u2022 Upper airway anomalies or open wound in the area of the nose or mouth, congenital or other (e.g., nasal stents/tumours, mucositis)",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1519]": {
+      "tag": "p",
+      "text": "For local residents of all ages. Appointments can also be booked at this location by calling 647-477-1640.\r\n\u2022\tJanuary 4\u20138, 11\u201315, 18\u201322 and 25\u201329 (every Monday to Friday) from 1\u20137 p.m. Testing may finish earlier depending on client volumes.\r\n\r\nTesting entrance located at the back of the building with stairs. Accessible entrance located at front of building. Limited parking available.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1532]": {
+      "tag": "p",
+      "text": "Oakridge (Scarborough) Temporary Testing Site",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1533]": {
+      "tag": "p",
+      "text": "Oakridge Community Recreation Centre",
+      "attrs": {}
+    },
+    "root[1534]": {
+      "tag": "p",
+      "text": "63 Pharmacy Avenue",
+      "attrs": {}
+    },
+    "root[1536]": {
+      "tag": "p",
+      "text": "M1L 3E7",
+      "attrs": {}
+    },
+    "root[1537]": {
+      "tag": "p",
+      "text": "For local residents of all ages. January 2\u20133, 7\u201310, 14\u201317, 21\u201324 and 28\u201331 (every Thursday to Sunday) from 1\u20137 p.m.. Testing may finish earlier depending on client volumes.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1584]": {
+      "tag": "p",
+      "text": "Carefirst Community Testing Site",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1585]": {
+      "tag": "p",
+      "text": "Carefirst",
+      "attrs": {}
+    },
+    "root[1586]": {
+      "tag": "p",
+      "text": "300 Silver Star Boulevard",
+      "attrs": {}
+    },
+    "root[1588]": {
+      "tag": "p",
+      "text": "M1V 0G2",
+      "attrs": {}
+    },
+    "root[1594]": {
+      "tag": "li",
+      "text": "Thursday: 2 p.m. to 6:30 p.m.",
+      "attrs": {}
+    },
+    "root[1597]": {
+      "tag": "a",
+      "text": "416-646-5108",
+      "attrs": {
+        "href": "tel:+14166465108"
+      }
+    },
+    "root[1602]": {
+      "tag": "p",
+      "text": "Black Creek Community Health Centre",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1603]": {
+      "tag": "p",
+      "text": "Black Creek CHC",
+      "attrs": {}
+    },
+    "root[1604]": {
+      "tag": "p",
+      "text": "1 Yorkgate Boulevard, Unit 202",
+      "attrs": {}
+    },
+    "root[1606]": {
+      "tag": "p",
+      "text": "M3N 3A1",
+      "attrs": {}
+    },
+    "root[1614]": {
+      "tag": "a",
+      "text": "416-246-2388",
+      "attrs": {
+        "href": "tel:+14162462388"
+      }
+    },
+    "root[1619]": {
+      "tag": "p",
+      "text": "Rexdale CHC - Pop-Up Sites",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1621]": {
+      "tag": "p",
+      "text": "10 Rampart Road",
+      "attrs": {}
+    },
+    "root[1623]": {
+      "tag": "p",
+      "text": "M9V 4L9",
+      "attrs": {}
+    },
+    "root[1624]": {
+      "tag": "p",
+      "text": "Name of Affiliated AC: William Osler Health System - Humber",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1652]": {
+      "tag": "p",
+      "text": "Credit Valley \u2013 Drive-Thru",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2182]": {
+      "tag": "p",
+      "text": "Credit Ridge Remedy\u2019s Rx Pharmacy",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2676]": {
+      "tag": "p",
+      "text": "Booking Monday - Friday 8:00 - 4:00 pm Open Date: 10/22/2020 \r\nAnticipated Close Date: 11/06/2020\r\nName of Affiliated Assessment Centre: William Osler - South Fletcher's Sportsplex Brampton",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[2702]": {
+      "tag": "li",
+      "text": "Tuesday: 10 a.m. to 4 p.m.",
+      "attrs": {}
+    },
+    "root[2752]": {
+      "tag": "p",
+      "text": "MyHealth Community Testing Site",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2753]": {
+      "tag": "p",
+      "text": "MyHealth",
+      "attrs": {}
+    },
+    "root[2754]": {
+      "tag": "p",
+      "text": "2260 Bovaird Drive East, Suite 105B",
+      "attrs": {}
+    },
+    "root[2756]": {
+      "tag": "p",
+      "text": "L6R 1Z1",
+      "attrs": {}
+    },
+    "root[2764]": {
+      "tag": "a",
+      "text": "1-888-503-1086",
+      "attrs": {
+        "href": "tel:+18885031086"
+      }
+    },
+    "root[2769]": {
+      "tag": "p",
+      "text": "Embassy Grand Convention Centre",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2770]": {
+      "tag": "p",
+      "text": "Imandari Health",
+      "attrs": {}
+    },
+    "root[2771]": {
+      "tag": "p",
+      "text": "8800 The Gore Road",
+      "attrs": {}
+    },
+    "root[2773]": {
+      "tag": "p",
+      "text": "L6P 0B1",
+      "attrs": {}
+    },
+    "root[2779]": {
+      "tag": "li",
+      "text": "Sunday: 10 a.m. to 8 p.m.",
+      "attrs": {}
+    },
+    "root[2780]": {
+      "tag": "li",
+      "text": "Tuesday: 10 a.m. to 8 p.m.",
+      "attrs": {}
+    },
+    "root[2781]": {
+      "tag": "li",
+      "text": "Wednesday: 10 a.m. to 8 p.m.",
+      "attrs": {}
+    },
+    "root[2782]": {
+      "tag": "li",
+      "text": "Thursday: 10 a.m. to 8 p.m.",
+      "attrs": {}
+    },
+    "root[2783]": {
+      "tag": "li",
+      "text": "Friday: 10 a.m. to 8 p.m.",
+      "attrs": {}
+    },
+    "root[2784]": {
+      "tag": "li",
+      "text": "Saturday: 10 a.m. to 8 p.m.",
+      "attrs": {}
+    },
+    "root[2786]": {
+      "tag": "a",
+      "text": "905-366-7374",
+      "attrs": {
+        "href": "tel:+19053667374"
+      }
+    },
+    "root[2836]": {
+      "tag": "p",
+      "text": "Georgetown Hospital",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2838]": {
+      "tag": "p",
+      "text": "1 Princess Anne Drive",
+      "attrs": {}
+    },
+    "root[2839]": {
+      "tag": "p",
+      "text": "Georgetown, ON",
+      "attrs": {}
+    },
+    "root[2840]": {
+      "tag": "p",
+      "text": "L7G 2B8",
+      "attrs": {}
+    },
+    "root[2841]": {
+      "tag": "p",
+      "text": "Arrive at scheduled time (no more than 5 minutes early) to the mobile testing centre located at rear of Georgetown Hospital. Further specific details are provided when appointment is booked.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[2891]": {
+      "tag": "p",
+      "text": "2501 Third Line\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2927]": {
+      "tag": "p",
+      "text": "550 Kerr St.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3025]": {
+      "tag": "p",
+      "text": "The assessment centre is located in the Town of Newmarket\u2019s Seniors\u2019 Meeting place. Park at the rear of the building follow signs to entrance.  Call 289-803-2199 to book an appointment.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[3102]": {
+      "tag": "p",
+      "text": "5100 Rutherford Road\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3120]": {
+      "tag": "p",
+      "text": "8000 Bathurst St.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3477]": {
+      "tag": "p",
+      "text": "784 Taunton Road East\u00a0 - Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3495]": {
+      "tag": "p",
+      "text": "95 Williamson Drive West\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3515]": {
+      "tag": "p",
+      "text": "910 Dundas St. West\u00a0 - Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3551]": {
+      "tag": "p",
+      "text": "Whitby COVID19 \u2013 Assessment Centre",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3751]": {
+      "tag": "p",
+      "text": "Durham Manor - Pickering CAC",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3753]": {
+      "tag": "p",
+      "text": "1970 Brock Road",
+      "attrs": {}
+    },
+    "root[3755]": {
+      "tag": "p",
+      "text": "L1V 1Y3",
+      "attrs": {}
+    },
+    "root[3756]": {
+      "tag": "p",
+      "text": "North West Corner of Brock and Kingston Rd. Swiss Chalet Plaza. Heritage building with yellow door",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[3849]": {
+      "tag": "p",
+      "text": "COVID-19 Care and Testing Centre \u2013 Heron",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3850]": {
+      "tag": "p",
+      "text": "H\u00f4pital Montfort",
+      "attrs": {}
+    },
+    "root[3871]": {
+      "tag": "p",
+      "text": "COVID-19 Care and Testing Centre \u2013  Moodie",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[4251]": {
+      "tag": "p",
+      "text": "COVID-19 Care and Testing Centre \u2013  Ray Friel",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[4308]": {
+      "tag": "span",
+      "text": "415 locations found.",
+      "attrs": {
+        "class": [
+          "ontario-text-raleway",
+          "ontario-margin-right-32-!"
+        ]
+      }
+    },
+    "root[4613]": {
+      "tag": "p",
+      "text": "Royal Victoria Regional Health Centre - COVID-19 Testing Centre",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[4638]": {
+      "tag": "p",
+      "text": "831 Big Bay Point Road\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[5454]": {
+      "tag": "p",
+      "text": "320 Colborne St. West\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[5704]": {
+      "tag": "p",
+      "text": "416 St. Clair St.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[5899]": {
+      "tag": "p",
+      "text": "101 Osler Drive\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[5927]": {
+      "tag": "li",
+      "text": "Monday: 9 a.m. to 11 a.m. and 12 p.m. (noon) to 2 p.m.",
+      "attrs": {}
+    },
+    "root[5928]": {
+      "tag": "li",
+      "text": "Wednesday: 9 a.m. to 11 a.m. and 12 p.m. (noon) to 2 p.m.",
+      "attrs": {}
+    },
+    "root[5929]": {
+      "tag": "li",
+      "text": "Friday: 9 a.m. to 11 a.m. and 12 p.m. (noon) to 2 p.m.",
+      "attrs": {}
+    },
+    "root[6388]": {
+      "tag": "p",
+      "text": "Not open during holidays. \r\n\r\nDrive up with appointment to the back parking lot.  You will be met by a parking attendant and further instructions will be provided\r\nInterpretive services available (limited)\r\nAppointment only \u2013 book on-line at gbachc.ca/covid-19\r\nDrive up only \u2013 the test will be completed while you are sitting in your car",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[6409]": {
+      "tag": "p",
+      "text": "511 Muskoka Road South\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6433]": {
+      "tag": "p",
+      "text": "How to make an appointment (phone-in only)\r\r\n\u2022\tCall 1-226-773-1922 from Monday to Friday, 9:00 a.m. to 5:00 p.m Saturday, Sunday and holidays from 10:00 a.m. to 3:00 p.m.\r\r\n\u2022\tYou be asked some screening questions then provided an appointment time for the same day or next day.\r\r\n\u2022\tIf the two-day capacity is reached, you will be asked to call back the next day.\r\r\n\r\r\nHoliday hours: 09:00-16:00",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[6448]": {
+      "tag": "p",
+      "text": "7 Clair\u00a0Road West\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6577]": {
+      "tag": "p",
+      "text": "St. Joseph\u2019s Healthcare Hamilton\u2019s Mountain COVID-19 Testing Centre",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6596]": {
+      "tag": "p",
+      "text": "2110 Rymal Road East\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6783]": {
+      "tag": "p",
+      "text": "Huntsville Active Living Centre\r\nWalk in or pre-book your appointments by calling 1-888-383-7009. Phone booking lines are open Monday to Friday between 9am and 4pm \r\nSelect \u201cHuntsville \u201c option as the phone line serves both the Bracebridge and Huntsville centres\r\n\r\nBEFORE visiting our site\r\n1) If you are an adult, please  visit www.ontario.ca/covidtest to ensure you meet the criteria for a test.  \r\n2) Children should complete the screening at ontario.ca/schoolscreening to ensure he/she meets the criteria for a test.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[6842]": {
+      "tag": "p",
+      "text": "Appointment only.  To book an appointment online visit www.rvh.on.ca and select \u201cInnisfil\u201d location. Enter using the door to the left of the Main entrance and follow signage once inside the building.  Clinic will take place in the current RVH clinic space.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[7033]": {
+      "tag": "p",
+      "text": "Website: https://www.crfht.ca/en/our-clinic/covid-19-updates",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[7132]": {
+      "tag": "p",
+      "text": "Residents who require testing must preregister via an online form for the following day - if they need assistance call 226-747-5049.\r\nWe are also now directing that residents should only seek testing if:\r\n\u2022\tShowing COVID-19 symptoms; \r\n\u2022\tHave been exposed to a confirmed case of the virus, as informed by your public health unit or exposure notification through the COVID Alert app; \r\n\u2022\tA resident or work in a setting that has a COVID-19 outbreak, as identified and informed by your local public health unit; and \r\n\u2022\tEligible for testing as part of a targeted testing initiative directed by the Ministry of Health or the Ministry of Long-Term Care.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[7200]": {
+      "tag": "p",
+      "text": "Monday - Sunday: 8:30 a.m. to 6 p.m.",
+      "attrs": {}
+    },
+    "root[7210]": {
+      "tag": "p",
+      "text": "269 Erie St. South\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[7233]": {
+      "tag": "p",
+      "text": "Testing at Ross Memorial Hospital will take place inside, in the former Admitting area on the south side of the hospital. The Admitting department is now located inside the main entrance. \r\r\n\r\r\nHow to book an appointment\r\r\n\u2022\tFirst, visit the provincial COVID-19 website to learn if you qualify for testing under the current Provincial guidelines\r\r\n\u2022\tCall 705-328-6217 or request an appointment online at www.rmh.org \r\r\n\u2022\tDo not leave multiple messages or submit multiple forms\r\r\n\u2022\tAppointments are available Monday to Friday, 9:30-5:15pm\r\r\n\u2022\tYou will receive a call back within 1-2 business days\r\r\n\r\r\nWhen arriving for your appointment\r\r\n\u2022\tArrive to the hospital at your appointment time. \r\r\n\u2022\tPark in the short-term parking lot at the south side of the hospital, entering from Kent St. (There is no charge for parking for those visiting the assessment centre. All other patients should use short or long term parking on the North side of the hospital.)\r\r\n\u2022\tWear a mask\r\r\n\u2022\tBring your health card and identification\r\r\n\u2022\tProceed to the South Entrance (follow signage for COVID-19 Assessment Centre)\r\r\n\u2022\tMaintain physical distancing from others awaiting testing\r\r\n\r\r\nFor children under the age of 1, use the Emergency Department.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[7352]": {
+      "tag": "p",
+      "text": "395 Southdale Road\u00a0East - Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[7354]": {
+      "tag": "p",
+      "text": "395 Southdale Road\u00a0East",
+      "attrs": {}
+    },
+    "root[7370]": {
+      "tag": "p",
+      "text": "3090 Colonel Talbot Road\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[7388]": {
+      "tag": "p",
+      "text": "603 Fanshawe\u00a0Park Road\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[7406]": {
+      "tag": "p",
+      "text": "1155 Commissioners Road\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[7471]": {
+      "tag": "p",
+      "text": "N6A 3N7",
+      "attrs": {}
+    },
+    "root[7574]": {
+      "tag": "p",
+      "text": "Sant\u00e9 Manitouwadge Health",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[7809]": {
+      "tag": "p",
+      "text": "Please call to schedule an appointment. After hours, please call the hospital in advance for instructions. No walk-ins at the Emergency Department please. Call to schedule apt 1 888 962 8718. May close earlier based on bookings.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[7848]": {
+      "tag": "h4",
+      "text": "Melbourne",
+      "attrs": {
+        "class": [
+          "accordion__button__title"
+        ]
+      }
+    },
+    "root[7851]": {
+      "tag": "p",
+      "text": "SOAHAC Chippewa Assessment Centre",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[7852]": {
+      "tag": "p",
+      "text": "SOAHAC",
+      "attrs": {}
+    },
+    "root[7853]": {
+      "tag": "p",
+      "text": "6609 Switzer Drive",
+      "attrs": {}
+    },
+    "root[7854]": {
+      "tag": "p",
+      "text": "Melbourne, ON",
+      "attrs": {}
+    },
+    "root[7855]": {
+      "tag": "p",
+      "text": "N0L1Y0",
+      "attrs": {}
+    },
+    "root[7863]": {
+      "tag": "a",
+      "text": "1-877-289-0381",
+      "attrs": {
+        "href": "tel:+18772890381"
+      }
+    },
+    "root[8600]": {
+      "tag": "h4",
+      "text": "New Hamburg",
+      "attrs": {
+        "class": [
+          "accordion__button__title"
+        ]
+      }
+    },
+    "root[8604]": {
+      "tag": "p",
+      "text": "Town Square Pharmacy",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[8606]": {
+      "tag": "p",
+      "text": "100 Mill Street, Unit D",
+      "attrs": {}
+    },
+    "root[8607]": {
+      "tag": "p",
+      "text": "New Hamburg, ON",
+      "attrs": {}
+    },
+    "root[8608]": {
+      "tag": "p",
+      "text": "N3A 1R1",
+      "attrs": {}
+    },
+    "root[8617]": {
+      "tag": "a",
+      "text": "519-662-9995",
+      "attrs": {
+        "href": "tel:+15196629995"
+      }
+    },
+    "root[8687]": {
+      "tag": "p",
+      "text": "5175 Victoria Ave\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[9723]": {
+      "tag": "p",
+      "text": "1100 16th Avenue East, Unit C",
+      "attrs": {}
+    },
+    "root[9725]": {
+      "tag": "p",
+      "text": "N4K 6C1",
+      "attrs": {}
+    },
+    "root[9726]": {
+      "tag": "p",
+      "text": "The Sun Life building north of the hospital. Online booking system. For general information please call 519-378-1466",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[9828]": {
+      "tag": "p",
+      "text": "On-site physician assessment and testing for people with symptoms, available by appointment only. Contact PRHC\u2019s COVID-19 Assessment Centre directly by phone at 705-876-5086 to determine whether an appointment is required. This phone line is staffed from 8:00 a.m. to 4:00 p.m. seven days a week. Located in a mobile unit on the west side of the hospital. To address accessibility, we have community paramedics available to perform in-home testing.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[9844]": {
+      "tag": "p",
+      "text": "741 Lansdowne St. West\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[10099]": {
+      "tag": "p",
+      "text": "Testing available for all age groups",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[10166]": {
+      "tag": "p",
+      "text": "2600 Lakeshore Road\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[10221]": {
+      "tag": "p",
+      "text": "260 Indian Road\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[10582]": {
+      "tag": "p",
+      "text": "Located next to the Emergency Entrance of the hospital. Please call to schedule an appointment. No walk-ins at the Emergency Department please. Designated parking is located close to the Assessment Centre entrance.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[10695]": {
+      "tag": "p",
+      "text": "286 Bunting Road\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[10733]": {
+      "tag": "p",
+      "text": "107\u00a0Edward St.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[10798]": {
+      "tag": "p",
+      "text": "511 Huron St.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[11152]": {
+      "tag": "li",
+      "text": "Monday - Friday: 8:30 a.m. to 12 p.m. (noon) and 1:15 p.m. to 4 p.m.",
+      "attrs": {}
+    },
+    "root[12221]": {
+      "tag": "p",
+      "text": "Residents who require testing must preregister for same or next day appointments via an online form at https://covid19.smgh.ca:4433/. Booking begins daily at 7:00 a.m.. For assistance, or if you can\u2019t book online, call 519-885-9517. Appointments are booked for those who \u2022 Are showing COVID-19 symptoms; \u2022 Have been exposed to a confirmed case of the virus, as informed by your public health unit or your COVID Alert app; \u2022 Live or work in a setting that has a COVID-19 outbreak, as identified and informed by your local public health unit; and \u2022 Are eligible for testing as part of a targeted testing initiative directed by the Ministry of Health or the Ministry of Long-Term Care. \r\n\u2022\tSame or next day appointment by pre-registration  \r\n\u2022\tBook only one appointment per person per day\r\n\u2022\tCall 226-989-4966 to cancel",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[12239]": {
+      "tag": "p",
+      "text": "550 King St. North\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[12475]": {
+      "tag": "p",
+      "text": "3100 Howard Ave.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[12499]": {
+      "tag": "p",
+      "text": "7720 Tecumseh Road\u00a0East - Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[12517]": {
+      "tag": "p",
+      "text": "1760 Huron Church Road\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[12535]": {
+      "tag": "p",
+      "text": "600 Ouellette Ave.\u00a0- Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[12698]": {
+      "tag": "p",
+      "text": "333 Dundas\u00a0St. - Shoppers Drug Mart",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[12782]": {
+      "tag": "p",
+      "text": "if you have questions or cannot find a location near you.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-40-!"
+        ]
+      }
+    }
+  },
+  "iterable_item_removed": {
+    "root[6]": {
+      "text": "A provincewide shutdown is in effect as of Saturday, December 26, 2020 at 12:01 a.m. Learn about the",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[8]": {
+      "text": "that are in place.",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[18]": {
+      "text": "Call the location or your",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[20]": {
+      "text": "if you have questions or cannot find one near you.",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[70]": {
+      "text": "Michael Garron Hospital (MGH)",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[114]": {
+      "text": "Please see the information on North York General Hospital\u00e2\u0080\u0099s website for booking appointments online. Or call 416-635-2509 from 8 a.m. to 4 p.m. to book your appointment over the phone.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[131]": {
+      "text": "2075 Bayview Avenue",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[133]": {
+      "text": "M4N 3M5",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[134]": {
+      "text": "Use the U-Wing entrance only. The assessment centre can be accessed by the south driveway of Sunnybrook, past the Emergency department and located at U Wing. Please see the information on Sunnybrook\u00e2\u0080\u0099s website for booking appointments.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[715]": {
+      "text": "For local residents of all ages. \u00e2\u0080\u00a2 December 12-24 and 27\u00e2\u0080\u009331 and January 2\u00e2\u0080\u009331 from 1:00 p.m. to 7:00 p.m. Last test at 6:45 p.m. Testing may finish earlier depending on client volumes. \u00e2\u0080\u00a2 Drop-ins available at this temporary testing site. Appointments can also be booked by calling 647-477-1640.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[729]": {
+      "text": "2206 Lake Shore Boulevard.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[781]": {
+      "text": "390 Queen's Quay West\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[799]": {
+      "text": "388 King St. West\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[817]": {
+      "text": "279 Yonge St.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[835]": {
+      "text": "951 Bay St.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[871]": {
+      "text": "593 Dundas St. East\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1201]": {
+      "text": "Comprehensive First Nations, Inuit and M\u00c3\u00a9tis specific COVID-19 response program",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[1205]": {
+      "text": "Appointment only. Call 416-654-4184 or email appointments@healthybreathing.co to make an appointment.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1353]": {
+      "text": "Children may be tested at this specialized assessment centre if they have:\r\n\u00e2\u0080\u00a2 Highly challenging behaviours due to neurodevelopmental disorders (e.g., autism, developmental delay)\r\n\u00e2\u0080\u00a2 Active use of medical technology due to medical complexity, including aerosol generating medical procedures (e.g., tracheostomy)\r\n\u00e2\u0080\u00a2 Severe immunocompromise or bleeding disorders due to haematological or other conditions (e.g., childhood cancer, anticoagulation therapy)\r\n\u00e2\u0080\u00a2 Extreme procedural anxiety due to mental health disorders (e.g., panic attacks)\r\n\u00e2\u0080\u00a2 Upper airway anomalies or open wound in the area of the nose or mouth, congenital or other (e.g., nasal stents/tumours, mucositis)",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1388]": {
+      "text": "For local residents of all ages. \r\nDecember 14\u00e2\u0080\u009318, 21\u00e2\u0080\u009324 and 28\u00e2\u0080\u009331 from 1:00 p.m. to 7 p.m. Testing may finish earlier depending on client volumes.\r\nCLOSEDDecember 25, 26 and January 1.\r\nTesting entrance located at the back of the building with stairs. Accessible entrance located at front of building. Limited parking available.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[1444]": {
+      "text": "Credit Valley \u00e2\u0080\u0093 Drive-Thru",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[1972]": {
+      "text": "Credit Ridge Remedy\u00e2\u0080\u0099s Rx Pharmacy",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2454]": {
+      "text": "Booking Monday - Friday 8:00 - 4:00 pm",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[2508]": {
+      "text": "Tuesday: 2 p.m. to 7 p.m.",
+      "tag": "li",
+      "attrs": {}
+    },
+    "root[2587]": {
+      "text": "2501 Third Line\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2623]": {
+      "text": "550 Kerr St.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2715]": {
+      "text": "The assessment centre is located in the Town of Newmarket\u00e2\u0080\u0099s Seniors\u00e2\u0080\u0099 Meeting place. Park at the rear of the building follow signs to entrance.  Call 289-803-2199 to book an appointment.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[2731]": {
+      "text": "Taylor-Massey (Crescent Town) Temporary Testing Site",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2732]": {
+      "text": "Crescent Town Health Centre",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[2733]": {
+      "text": "4 The Market Place",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[2735]": {
+      "text": "M4C 5M1",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[2736]": {
+      "text": "For local residents of all ages. December 28\u00e2\u0080\u009330 and January 4\u00e2\u0080\u00936, 11\u00e2\u0080\u009313, 18\u00e2\u0080\u009320 and 25\u00e2\u0080\u009327 (every Monday to Wednesday) from 1\u00e2\u0080\u00936:30 p.m. Last test at 6:15 p.m. Testing may finish earlier depending on client volumes.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[2742]": {
+      "text": "Monday: 1 p.m. to 6:30 p.m.",
+      "tag": "li",
+      "attrs": {}
+    },
+    "root[2808]": {
+      "text": "5100 Rutherford Road\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[2826]": {
+      "text": "8000 Bathurst St.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3177]": {
+      "text": "784 Taunton Road East\u00c2\u00a0 - Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3195]": {
+      "text": "95 Williamson Drive West\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3215]": {
+      "text": "910 Dundas St. West\u00c2\u00a0 - Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3247]": {
+      "text": "Whitby COVID19 \u00e2\u0080\u0093 Assessment Centre",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3513]": {
+      "text": "COVID-19 Care and Testing Centre \u00e2\u0080\u0093 Heron",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3514]": {
+      "text": "H\u00c3\u00b4pital Montfort",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[3533]": {
+      "text": "COVID-19 Care and Testing Centre \u00e2\u0080\u0093  Moodie",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[3909]": {
+      "text": "COVID-19 Care and Testing Centre \u00e2\u0080\u0093  Ray Friel",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[4249]": {
+      "text": "dd",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[4274]": {
+      "text": "831 Big Bay Point Road\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[5017]": {
+      "text": "320 Colborne St. West\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[5253]": {
+      "text": "416 St. Clair St.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[5436]": {
+      "text": "101 Osler Drive\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[5463]": {
+      "text": "Monday: 9 a.m. to 11 a.m.",
+      "tag": "li",
+      "attrs": {}
+    },
+    "root[5464]": {
+      "text": "Wednesday: 9 a.m. to 11 a.m.",
+      "tag": "li",
+      "attrs": {}
+    },
+    "root[5859]": {
+      "text": "Not open during holidays. \r\n\r\nDrive up with appointment to the back parking lot.  You will be met by a parking attendant and further instructions will be provided\r\nInterpretive services available (limited)\r\nAppointment only \u00e2\u0080\u0093 book on-line at gbachc.ca/covid-19\r\nDrive up only \u00e2\u0080\u0093 the test will be completed while you are sitting in your car",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[5880]": {
+      "text": "511 Muskoka Road South\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[5902]": {
+      "text": "How to make an appointment (phone-in only)\r\r\n\u00e2\u0080\u00a2\tCall 1-226-773-1922 from Monday to Friday, 9:00 a.m. to 5:00 p.m Saturday, Sunday and holidays from 10:00 a.m. to 3:00 p.m.\r\r\n\u00e2\u0080\u00a2\tYou be asked some screening questions then provided an appointment time for the same day or next day.\r\r\n\u00e2\u0080\u00a2\tIf the two-day capacity is reached, you will be asked to call back the next day.\r\r\n\r\r\nHoliday hours: 09:00-16:00",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[5917]": {
+      "text": "7 Clair\u00c2\u00a0Road West\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6036]": {
+      "text": "St. Joseph\u00e2\u0080\u0099s Healthcare Hamilton\u00e2\u0080\u0099s Mountain COVID-19 Testing Centre",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6055]": {
+      "text": "2110 Rymal Road East\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6230]": {
+      "text": "Huntsville Active Living Centre\r\nBEFORE visiting our site\r\n1) If you are an adult, please  visit www.ontario.ca/covidtest to ensure you meet the criteria for a test.  \r\n2) Children should complete the screening at ontario.ca/schoolscreening to ensure he/she meets the criteria for a test. \r\n\r\nIf you arrive at the COVID centre and do not meet the testing criteria you will be turned away.   Please check the ontario health resources above prior to coming. \r\n \r\nIf you are eligible for testing  ,please come to our COVID centre and we will book you a convenient, same day appointment.  We do not have a call centre to book appointments prior to your arrival.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[6235]": {
+      "text": "Monday: 10 a.m. to 4 p.m.",
+      "tag": "li",
+      "attrs": {}
+    },
+    "root[6285]": {
+      "text": "Appointment only.  To book an appointment online visit www.rvh.on.ca and select \u00e2\u0080\u009cInnisfil\u00e2\u0080\u009d location. Enter using the door to the left of the Main entrance and follow signage once inside the building.  Clinic will take place in the current RVH clinic space.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[6352]": {
+      "text": "Wednesday: 8:30 a.m. to 12 p.m. (noon)",
+      "tag": "li",
+      "attrs": {}
+    },
+    "root[6461]": {
+      "text": "To book an appointment by telephone please call 613-548-2376 (between 930 a.m. and 3:30 p.m.)\r\nThe Beechgrove Complex: Enter by turning south at the King St W and Portsmouth Ave intersection and follow the signage for walk in.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[6556]": {
+      "text": "Residents who require testing must preregister via an online form for the following day - if they need assistance call 226-747-5049.\r\nWe are also now directing that residents should only seek testing if:\r\n\u00e2\u0080\u00a2\tShowing COVID-19 symptoms; \r\n\u00e2\u0080\u00a2\tHave been exposed to a confirmed case of the virus, as informed by your public health unit or exposure notification through the COVID Alert app; \r\n\u00e2\u0080\u00a2\tA resident or work in a setting that has a COVID-19 outbreak, as identified and informed by your local public health unit; and \r\n\u00e2\u0080\u00a2\tEligible for testing as part of a targeted testing initiative directed by the Ministry of Health or the Ministry of Long-Term Care.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[6632]": {
+      "text": "269 Erie St. South\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6653]": {
+      "text": "Testing at Ross Memorial Hospital will take place inside, in the former Admitting area on the south side of the hospital. The Admitting department is now located inside the main entrance. \r\r\n\r\r\nHow to book an appointment\r\r\n\u00e2\u0080\u00a2\tFirst, visit the provincial COVID-19 website to learn if you qualify for testing under the current Provincial guidelines\r\r\n\u00e2\u0080\u00a2\tCall 705-328-6217 or request an appointment online at www.rmh.org \r\r\n\u00e2\u0080\u00a2\tDo not leave multiple messages or submit multiple forms\r\r\n\u00e2\u0080\u00a2\tAppointments are available Monday to Friday, 9:30-5:15pm\r\r\n\u00e2\u0080\u00a2\tYou will receive a call back within 1-2 business days\r\r\n\r\r\nWhen arriving for your appointment\r\r\n\u00e2\u0080\u00a2\tArrive to the hospital at your appointment time. \r\r\n\u00e2\u0080\u00a2\tPark in the short-term parking lot at the south side of the hospital, entering from Kent St. (There is no charge for parking for those visiting the assessment centre. All other patients should use short or long term parking on the North side of the hospital.)\r\r\n\u00e2\u0080\u00a2\tWear a mask\r\r\n\u00e2\u0080\u00a2\tBring your health card and identification\r\r\n\u00e2\u0080\u00a2\tProceed to the South Entrance (follow signage for COVID-19 Assessment Centre)\r\r\n\u00e2\u0080\u00a2\tMaintain physical distancing from others awaiting testing\r\r\n\r\r\nFor children under the age of 1, use the Emergency Department.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[6762]": {
+      "text": "395 Southdale Road\u00c2\u00a0East - Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6764]": {
+      "text": "395 Southdale Road\u00c2\u00a0East",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[6780]": {
+      "text": "3090 Colonel Talbot Road\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6798]": {
+      "text": "603 Fanshawe\u00c2\u00a0Park Road\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6816]": {
+      "text": "1155 Commissioners Road\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[6881]": {
+      "text": "N6A 3N7\u00c2",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[6976]": {
+      "text": "Sant\u00c3\u00a9 Manitouwadge Health",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[7194]": {
+      "text": "Sunday: NaN a.m. (midnight) to undefined",
+      "tag": "li",
+      "attrs": {}
+    },
+    "root[7202]": {
+      "text": "Please call to schedule an appointment. After hours, please call the hospital in advance for instructions. No walk-ins at the Emergency Department please. Call to schedule apt 1-888-962 8718",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[8014]": {
+      "text": "5175 Victoria Ave\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[8994]": {
+      "text": "1800 8th Street East",
+      "tag": "p",
+      "attrs": {}
+    },
+    "root[8997]": {
+      "text": "Located in the portable facility outside the entrance of the Owen Sound Hospital Emergency Department.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[9089]": {
+      "text": "On-site physician assessment and testing for people with symptoms, available by appointment only. Contact PRHC\u00e2\u0080\u0099s COVID-19 Assessment Centre directly by phone at 705-876-5086 to determine whether an appointment is required. This phone line is staffed from 8:00 a.m. to 4:00 p.m. seven days a week. Located in a mobile unit on the west side of the hospital. To address accessibility, we have community paramedics available to perform in-home testing.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[9105]": {
+      "text": "741 Lansdowne St. West\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[9388]": {
+      "text": "2600 Lakeshore Road\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[9441]": {
+      "text": "260 Indian Road\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[9738]": {
+      "text": "Located in the front parking lot of the hospital. \r\n\r\nPlease call to schedule an appointment. No walk-ins at the Emergency Department please.\r\n\r\nLocated in the front parking lot of the hospital. A nurse will come outside to provide instructions. Stay in your car at all times.",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[9845]": {
+      "text": "286 Bunting Road\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[9881]": {
+      "text": "107\u00c2\u00a0Edward St.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[9944]": {
+      "text": "511 Huron St.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[11287]": {
+      "text": "550 King St. North\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[11505]": {
+      "text": "Monday - Friday: 8 a.m. to 7 p.m.",
+      "tag": "li",
+      "attrs": {}
+    },
+    "root[11514]": {
+      "text": "3100 Howard Ave.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[11538]": {
+      "text": "7720 Tecumseh Road\u00c2\u00a0East - Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[11556]": {
+      "text": "1760 Huron Church Road\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[11574]": {
+      "text": "600 Ouellette Ave.\u00c2\u00a0- Shoppers Drug Mart",
+      "tag": "p",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    }
+  }
+}

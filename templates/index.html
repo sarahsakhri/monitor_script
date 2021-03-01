@@ -1,0 +1,47 @@
+{% extends 'base.html' %} {% block head %}
+<title>Web Monitor</title>
+{% endblock %} {% block body %}
+<div class="container-sm content">
+    <div class="row h-100 align-items-center">
+        <div class="col-12 text-center">
+            <h1 class="display-2" style="text-align: center">Check for Updates</h1>
+        </div>
+    </div>
+
+    <div class="form">
+        <form action="/" method="POST">
+            <div class="form-group">
+                <!-- <label id="content">URL</label> -->
+                <br>
+                <input type="text" name="content" id="content" class="form-control" placeholder="paste url here">
+            </div>
+            <br>
+
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+
+
+    {% if filediff|length
+    < 1 %} <br>
+        <h4 style="text-align: left">There are no updates, sorry come again</h4>
+        {% else %}
+        <br>
+        <table class="table table-bordered table-hover table-striped">
+            <tr>
+                <th scope="col-6">#</th>
+                <th scope="col-6">
+                    <h4>Provider</h4>
+                </th>
+            </tr>
+            {% for provider in filediff %}
+            <tr>
+                <td scope="row"> </td>
+                <td>{{ provider }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        {% endif %}
+
+</div>
+{% endblock %}

@@ -1,0 +1,41 @@
+{
+  "values_changed": {
+    "root[54]['text']": {
+      "new_value": "form .powermail_fieldwrap_commentpage,\n            .powermail_fieldwrap_soumettrebaspage input[type='submit'],\n            #formBasPageCommentaire .powermail_submit,\n            .formBasPage .powermail_fieldwrap_zoneinformationjs{\n                display:block;\n            }\n            #main .formBasPage .form-group:first-child.powermail_fieldwrap_servicesquebecform{\n                display:flex;\n            }\n            .tx-powermail .grecaptcha-badge{\n                display:block;\n                visibility: visible;\n             }",
+      "old_value": ".recaptchaJsMessage div[class*=\"powermail_fieldwrap_type_\"],\n            .formBasPage .recaptchaJsMessage .form-group:first-child,\n            #main .formBasPage .recaptchaJsMessage .form-group:first-child.powermail_fieldwrap_servicesquebecform {\n                display:none;\n            }",
+      "diff": "--- \n+++ \n@@ -1,5 +1,13 @@\n-.recaptchaJsMessage div[class*=\"powermail_fieldwrap_type_\"],\n-            .formBasPage .recaptchaJsMessage .form-group:first-child,\n-            #main .formBasPage .recaptchaJsMessage .form-group:first-child.powermail_fieldwrap_servicesquebecform {\n-                display:none;\n+form .powermail_fieldwrap_commentpage,\n+            .powermail_fieldwrap_soumettrebaspage input[type='submit'],\n+            #formBasPageCommentaire .powermail_submit,\n+            .formBasPage .powermail_fieldwrap_zoneinformationjs{\n+                display:block;\n             }\n+            #main .formBasPage .form-group:first-child.powermail_fieldwrap_servicesquebecform{\n+                display:flex;\n+            }\n+            .tx-powermail .grecaptcha-badge{\n+                display:block;\n+                visibility: visible;\n+             }"
+    },
+    "root[52]['text']": {
+      "new_value": "var submitAmount = 0;\n    window.addEventListener(\"DOMContentLoaded\", function () {\n        $('form.powermail_form').submit(function (event, skipRecaptcha) {\n            if (skipRecaptcha) {\n                return true;\n            }\n            if (typeof grecaptcha == 'object') {\n                if (!grecaptcha.getResponse()) {\n                    event.preventDefault();\n                    grecaptcha.execute();\n                }\n            }\n        });\n        $('form.powermail_form .powermail_submit').mousedown(function (event) {\n            var field = this;\n            if (submitAmount === 0) {\n                submitAmount++;\n                field.disabled = true;\n                setTimeout(function enable() {\n                    submitAmount = 0;\n                    field.disabled = false;\n                }, 6000);\n                $('form.powermail_form').trigger('submit');\n            }\n        });\n    });\n    onCompleted = function () {\n        $('form.powermail_form .powermail_submit').prop(\"disabled\", true);\n        setTimeout(function enable() {\n            submitAmount = 0;\n            $('form.powermail_form .powermail_submit').prop(\"disabled\", false);\n        }, 2000);\n        $('form.powermail_form').trigger('submit', [true]);\n    }",
+      "old_value": "function onScriptLoad() {\n        var htmlEl = document.querySelector('.g-recaptcha');\n\n        var captchaOptions = {\n            sitekey: '6LfBkFUUAAAAAL3jTg74taA_tdgFdXHojMYIOcey',\n            size: 'invisible',\n            callback: function (token) {\n                $('.powermail_form').submit();\n            }\n        };\n\n        recaptchaId = window.grecaptcha.render(htmlEl, captchaOptions, false);\n\n        $('.powermail_submit').click(function(e){\n            e.preventDefault();\n            $(\".grecaptcha-badge\").addClass(\"displayBlock\");\n            if(grecaptcha.getResponse() != ''){\n                grecaptcha.reset();\n            }\n            grecaptcha.execute();\n        });\n    }\n    var submitAmount = 0;",
+      "diff": "--- \n+++ \n@@ -1,23 +1,34 @@\n-function onScriptLoad() {\n-        var htmlEl = document.querySelector('.g-recaptcha');\n-\n-        var captchaOptions = {\n-            sitekey: '6LfBkFUUAAAAAL3jTg74taA_tdgFdXHojMYIOcey',\n-            size: 'invisible',\n-            callback: function (token) {\n-                $('.powermail_form').submit();\n+var submitAmount = 0;\n+    window.addEventListener(\"DOMContentLoaded\", function () {\n+        $('form.powermail_form').submit(function (event, skipRecaptcha) {\n+            if (skipRecaptcha) {\n+                return true;\n             }\n-        };\n-\n-        recaptchaId = window.grecaptcha.render(htmlEl, captchaOptions, false);\n-\n-        $('.powermail_submit').click(function(e){\n-            e.preventDefault();\n-            $(\".grecaptcha-badge\").addClass(\"displayBlock\");\n-            if(grecaptcha.getResponse() != ''){\n-                grecaptcha.reset();\n+            if (typeof grecaptcha == 'object') {\n+                if (!grecaptcha.getResponse()) {\n+                    event.preventDefault();\n+                    grecaptcha.execute();\n+                }\n             }\n-            grecaptcha.execute();\n         });\n+        $('form.powermail_form .powermail_submit').mousedown(function (event) {\n+            var field = this;\n+            if (submitAmount === 0) {\n+                submitAmount++;\n+                field.disabled = true;\n+                setTimeout(function enable() {\n+                    submitAmount = 0;\n+                    field.disabled = false;\n+                }, 6000);\n+                $('form.powermail_form').trigger('submit');\n+            }\n+        });\n+    });\n+    onCompleted = function () {\n+        $('form.powermail_form .powermail_submit').prop(\"disabled\", true);\n+        setTimeout(function enable() {\n+            submitAmount = 0;\n+            $('form.powermail_form .powermail_submit').prop(\"disabled\", false);\n+        }, 2000);\n+        $('form.powermail_form').trigger('submit', [true]);\n     }\n-    var submitAmount = 0;"
+    }
+  },
+  "iterable_item_added": {
+    "root[53]": {
+      "tag": "style",
+      "text": ".recaptchaJsMessage div[class*=\"powermail_fieldwrap_type_\"],\n            .formBasPage .recaptchaJsMessage .form-group:first-child,\n            #main .formBasPage .recaptchaJsMessage .form-group:first-child.powermail_fieldwrap_servicesquebecform {\n                display: none;\n            }",
+      "attrs": {}
+    }
+  },
+  "iterable_item_removed": {
+    "root[7]": {
+      "tag": "style",
+      "text": "form .powermail_fieldwrap_commentpage,\n            .powermail_fieldwrap_soumettrebaspage input[type='submit'],\n            #formBasPageCommentaire .g-recaptcha,\n            .formBasPage .powermail_fieldwrap_zoneinformationjs{\n                display:block;\n            }\n            #main .formBasPage .form-group:first-child.powermail_fieldwrap_servicesquebecform{\n                display:flex;\n            }\n            .tx-powermail .grecaptcha-badge{\n                display:block;\n                visibility: visible;\n             }",
+      "attrs": {}
+    },
+    "root[55]": {
+      "tag": "button",
+      "text": "Send",
+      "attrs": {
+        "onmousedown": "submitAmount++;var field=this;if(submitAmount>1)field.disabled=true;setTimeout(function enable(){submitAmount=0;field.disabled=false;}, 6000);",
+        "class": [
+          "powermail_submit",
+          "btn",
+          "btn-primary",
+          "g-recaptcha"
+        ]
+      }
+    }
+  }
+}

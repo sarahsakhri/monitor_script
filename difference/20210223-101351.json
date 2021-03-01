@@ -1,0 +1,98 @@
+{
+  "values_changed": {
+    "root[11]['text']": {
+      "new_value": "Last updated: February 19, 2021",
+      "old_value": "Last updated: February 09, 2021"
+    },
+    "root[10073]['text']": {
+      "new_value": "The entrance to the COVID-19 Assessment Centre at Mount Sinai Hospital is located just north of the main entrance at 600 University Avenue.",
+      "old_value": "\"Use the D-wing entrance point. Drive thru testing is ONLY available at this location on Saturdays from 9-2. Walk-in appointments are available at all hours of operation.\r\nAppointments are available for frail elderly or those too ill to wait in line only.\"",
+      "diff": "--- \n+++ \n@@ -1,2 +1 @@\n-\"Use the D-wing entrance point. Drive thru testing is ONLY available at this location on Saturdays from 9-2. Walk-in appointments are available at all hours of operation.\n-Appointments are available for frail elderly or those too ill to wait in line only.\"\n+The entrance to the COVID-19 Assessment Centre at Mount Sinai Hospital is located just north of the main entrance at 600 University Avenue."
+    },
+    "root[4275]['text']": {
+      "new_value": "417 locations found.",
+      "old_value": "416 locations found."
+    },
+    "root[6321]['text']": {
+      "new_value": "180 McDonald Street",
+      "old_value": "N7A 3N4"
+    },
+    "root[10069]['text']": {
+      "new_value": "MyHealth Centre Covid Response",
+      "old_value": "Twin Bridges Nurse Practitioner Clinic"
+    }
+  },
+  "iterable_item_added": {
+    "root[6325]": {
+      "tag": "p",
+      "text": "N7A 3N5",
+      "attrs": {}
+    },
+    "root[7485]": {
+      "tag": "p",
+      "text": "MyHealth Centre",
+      "attrs": {}
+    },
+    "root[7486]": {
+      "tag": "p",
+      "text": "1835 Dundas Street East",
+      "attrs": {}
+    },
+    "root[7488]": {
+      "tag": "p",
+      "text": "N5W 3E7",
+      "attrs": {}
+    },
+    "root[7489]": {
+      "tag": "p",
+      "text": "Close to Argye Mall across from Pizza Pizza",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[10090]": {
+      "tag": "p",
+      "text": "Bluewater Health Sarnia",
+      "attrs": {
+        "class": [
+          "ontario-assessment-centre__title"
+        ]
+      }
+    },
+    "root[10091]": {
+      "tag": "p",
+      "text": "Twin Bridges Nurse Practitioner Clinic",
+      "attrs": {}
+    },
+    "root[10095]": {
+      "tag": "p",
+      "text": "On-line booking for appointments: www.tbnplc.com. All visits are by appointment only.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    }
+  },
+  "iterable_item_removed": {
+    "root[122]": {
+      "tag": "p",
+      "text": "The entrance to the COVID-19 Assessment Centre at Mount Sinai Hospital is located just north of the main entrance at 600 University Avenue. CLOSED on Family Day, Feb 15th, 2021.",
+      "attrs": {
+        "class": [
+          "ontario-margin-top-32-!",
+          "additional-info"
+        ]
+      }
+    },
+    "root[6319]": {
+      "tag": "p",
+      "text": "185 Keays Street",
+      "attrs": {}
+    }
+  }
+}

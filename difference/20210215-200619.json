@@ -1,0 +1,220 @@
+{
+    "values_changed": {
+        "root[188]['address_fr']": {
+            "new_value": "5602 Tenth Line O #101",
+            "old_value": "5602 Tenth Line\u00a0O #101"
+        },
+        "root[212]['symptomatic']": {
+            "new_value": " ",
+            "old_value": "\u00a0"
+        },
+        "root[212]['additional_information_fr']": {
+            "new_value": " ",
+            "old_value": "\u00a0"
+        },
+        "root[214]['symptomatic']": {
+            "new_value": " ",
+            "old_value": "\u00a0"
+        },
+        "root[214]['additional_information_fr']": {
+            "new_value": " ",
+            "old_value": "\u00a0"
+        },
+        "root[224]['location_name']": {
+            "new_value": "286 Bunting Road - Shoppers Drug Mart",
+            "old_value": "286 Bunting Road\u00a0- Shoppers Drug Mart"
+        },
+        "root[225]['location_name']": {
+            "new_value": "5175 Victoria Ave - Shoppers Drug Mart",
+            "old_value": "5175 Victoria Ave\u00a0- Shoppers Drug Mart"
+        },
+        "root[226]['location_name']": {
+            "new_value": "395 Southdale Road East - Shoppers Drug Mart",
+            "old_value": "395 Southdale Road\u00a0East - Shoppers Drug Mart"
+        },
+        "root[226]['address_fr']": {
+            "new_value": "395 Southdale Rd E",
+            "old_value": "395 Southdale Rd\u00a0E"
+        },
+        "root[226]['address']": {
+            "new_value": "395 Southdale Road East",
+            "old_value": "395 Southdale Road\u00a0East"
+        },
+        "root[227]['location_name']": {
+            "new_value": "3090 Colonel Talbot Road - Shoppers Drug Mart",
+            "old_value": "3090 Colonel Talbot Road\u00a0- Shoppers Drug Mart"
+        },
+        "root[228]['location_name']": {
+            "new_value": "603 Fanshawe Park Road - Shoppers Drug Mart",
+            "old_value": "603 Fanshawe\u00a0Park Road\u00a0- Shoppers Drug Mart"
+        },
+        "root[230]['location_name']": {
+            "new_value": "550 King St. North - Shoppers Drug Mart",
+            "old_value": "550 King St. North\u00a0- Shoppers Drug Mart"
+        },
+        "root[231]['location_name']": {
+            "new_value": "3100 Howard Ave. - Shoppers Drug Mart",
+            "old_value": "3100 Howard Ave.\u00a0- Shoppers Drug Mart"
+        },
+        "root[232]['location_name']": {
+            "new_value": "7720 Tecumseh Road East - Shoppers Drug Mart",
+            "old_value": "7720 Tecumseh Road\u00a0East - Shoppers Drug Mart"
+        },
+        "root[233]['location_name']": {
+            "new_value": "1760 Huron Church Road - Shoppers Drug Mart",
+            "old_value": "1760 Huron Church Road\u00a0- Shoppers Drug Mart"
+        },
+        "root[235]['location_name']": {
+            "new_value": "416 St. Clair St. - Shoppers Drug Mart",
+            "old_value": "416 St. Clair St.\u00a0- Shoppers Drug Mart"
+        },
+        "root[236]['location_name']": {
+            "new_value": "2600 Lakeshore Road - Shoppers Drug Mart",
+            "old_value": "2600 Lakeshore Road\u00a0- Shoppers Drug Mart"
+        },
+        "root[238]['location_name']": {
+            "new_value": "107 Edward St. - Shoppers Drug Mart",
+            "old_value": "107\u00a0Edward St.\u00a0- Shoppers Drug Mart"
+        },
+        "root[239]['location_name']": {
+            "new_value": "320 Colborne St. West - Shoppers Drug Mart",
+            "old_value": "320 Colborne St. West\u00a0- Shoppers Drug Mart"
+        },
+        "root[240]['location_name']": {
+            "new_value": "511 Huron St. - Shoppers Drug Mart",
+            "old_value": "511 Huron St.\u00a0- Shoppers Drug Mart"
+        },
+        "root[241]['location_name']": {
+            "new_value": "333 Dundas St. - Shoppers Drug Mart",
+            "old_value": "333 Dundas\u00a0St. - Shoppers Drug Mart"
+        },
+        "root[244]['location_name']": {
+            "new_value": "784 Taunton Road East  - Shoppers Drug Mart",
+            "old_value": "784 Taunton Road East\u00a0 - Shoppers Drug Mart"
+        },
+        "root[245]['location_name']": {
+            "new_value": "95 Williamson Drive West - Shoppers Drug Mart",
+            "old_value": "95 Williamson Drive West\u00a0- Shoppers Drug Mart"
+        },
+        "root[246]['location_name']": {
+            "new_value": "910 Dundas St. West  - Shoppers Drug Mart",
+            "old_value": "910 Dundas St. West\u00a0 - Shoppers Drug Mart"
+        },
+        "root[250]['location_name']": {
+            "new_value": "741 Lansdowne St. West - Shoppers Drug Mart",
+            "old_value": "741 Lansdowne St. West\u00a0- Shoppers Drug Mart"
+        },
+        "root[257]['location_name']": {
+            "new_value": "2206 Lake Shore Boulevard. - Shoppers Drug Mart",
+            "old_value": "2206 Lake Shore Boulevard.\u00a0- Shoppers Drug Mart"
+        },
+        "root[258]['longitude']": {
+            "new_value": " -80.314353",
+            "old_value": "\u00a0-80.314353"
+        },
+        "root[261]['location_name']": {
+            "new_value": "5100 Rutherford Road - Shoppers Drug Mart",
+            "old_value": "5100 Rutherford Road\u00a0- Shoppers Drug Mart"
+        },
+        "root[263]['location_name']": {
+            "new_value": "8000 Bathurst St. - Shoppers Drug Mart",
+            "old_value": "8000 Bathurst St.\u00a0- Shoppers Drug Mart"
+        },
+        "root[267]['location_name']": {
+            "new_value": "831 Big Bay Point Road - Shoppers Drug Mart",
+            "old_value": "831 Big Bay Point Road\u00a0- Shoppers Drug Mart"
+        },
+        "root[269]['location_name']": {
+            "new_value": "7 Clair Road West - Shoppers Drug Mart",
+            "old_value": "7 Clair\u00a0Road West\u00a0- Shoppers Drug Mart"
+        },
+        "root[270]['location_name']": {
+            "new_value": "511 Muskoka Road South - Shoppers Drug Mart",
+            "old_value": "511 Muskoka Road South\u00a0- Shoppers Drug Mart"
+        },
+        "root[272]['location_name']": {
+            "new_value": "390 Queen's Quay West - Shoppers Drug Mart",
+            "old_value": "390 Queen's Quay West\u00a0- Shoppers Drug Mart"
+        },
+        "root[273]['location_name']": {
+            "new_value": "388 King St. West - Shoppers Drug Mart",
+            "old_value": "388 King St. West\u00a0- Shoppers Drug Mart"
+        },
+        "root[274]['location_name']": {
+            "new_value": "279 Yonge St. - Shoppers Drug Mart",
+            "old_value": "279 Yonge St.\u00a0- Shoppers Drug Mart"
+        },
+        "root[275]['location_name']": {
+            "new_value": "951 Bay St. - Shoppers Drug Mart",
+            "old_value": "951 Bay St.\u00a0- Shoppers Drug Mart"
+        },
+        "root[277]['location_name']": {
+            "new_value": "593 Dundas St. East - Shoppers Drug Mart",
+            "old_value": "593 Dundas St. East\u00a0- Shoppers Drug Mart"
+        },
+        "root[282]['location_name']": {
+            "new_value": "2110 Rymal Road East - Shoppers Drug Mart",
+            "old_value": "2110 Rymal Road East\u00a0- Shoppers Drug Mart"
+        },
+        "root[283]['location_name']": {
+            "new_value": "101 Osler Drive - Shoppers Drug Mart",
+            "old_value": "101 Osler Drive\u00a0- Shoppers Drug Mart"
+        },
+        "root[284]['location_name']": {
+            "new_value": "269 Erie St. South - Shoppers Drug Mart",
+            "old_value": "269 Erie St. South\u00a0- Shoppers Drug Mart"
+        },
+        "root[287]['location_name']": {
+            "new_value": "2501 Third Line - Shoppers Drug Mart",
+            "old_value": "2501 Third Line\u00a0- Shoppers Drug Mart"
+        },
+        "root[289]['location_name']": {
+            "new_value": "600 Ouellette Ave. - Shoppers Drug Mart",
+            "old_value": "600 Ouellette Ave.\u00a0- Shoppers Drug Mart"
+        },
+        "root[290]['location_name']": {
+            "new_value": "260 Indian Road - Shoppers Drug Mart",
+            "old_value": "260 Indian Road\u00a0- Shoppers Drug Mart"
+        },
+        "root[291]['location_name']": {
+            "new_value": "1155 Commissioners Road - Shoppers Drug Mart",
+            "old_value": "1155 Commissioners Road\u00a0- Shoppers Drug Mart"
+        },
+        "root[292]['location_name']": {
+            "new_value": "550 Kerr St. - Shoppers Drug Mart",
+            "old_value": "550 Kerr St.\u00a0- Shoppers Drug Mart"
+        },
+        "root[310]['tuesday']": {
+            "new_value": "09:00-17:30 ",
+            "old_value": "09:00-17:30\u00a0"
+        },
+        "root[310]['website']": {
+            "new_value": "https://www.guardian-ida-pharmacies.ca/en/ontario/london/medpoint-care-pharmacy-7015702 ",
+            "old_value": "https://www.guardian-ida-pharmacies.ca/en/ontario/london/medpoint-care-pharmacy-7015702\u00a0"
+        },
+        "root[310]['postal_code']": {
+            "new_value": "N6A 3N7 ",
+            "old_value": "N6A 3N7\u00a0"
+        },
+        "root[310]['monday']": {
+            "new_value": "09:00-17:30 ",
+            "old_value": "09:00-17:30\u00a0"
+        },
+        "root[310]['thursday']": {
+            "new_value": "09:00-17:30 ",
+            "old_value": "09:00-17:30\u00a0"
+        },
+        "root[310]['wednesday']": {
+            "new_value": "09:00-17:30 ",
+            "old_value": "09:00-17:30\u00a0"
+        },
+        "root[310]['friday']": {
+            "new_value": "09:00-17:30 ",
+            "old_value": "09:00-17:30\u00a0"
+        },
+        "root[369]['active']": {
+            "new_value": "No",
+            "old_value": "Yes"
+        }
+    }
+}

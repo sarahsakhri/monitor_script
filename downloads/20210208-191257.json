@@ -1,0 +1,1400 @@
+[{
+        "URL": "https://www.nthssa.ca/en/services/coronavirus-disease-covid-19-updates"
+    },
+
+    {
+        "tag": "[document]",
+        "text": "html",
+        "attrs": {}
+    },
+    {
+        "tag": "title",
+        "text": "Coronavirus Disease (COVID-19) Updates | Health and Social Services Authority",
+        "attrs": {}
+    },
+    {
+        "tag": "style",
+        "text": ".highlighted{background-image:url('/sites/all/themes/gnwt_base_theme/images/curve.png');}\n.banner,.region-banner-full > .block{background-image:url('/sites/all/themes/gnwt_base_theme/images/banner-bg.png');}",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(i,s,o,g,r,a,m){i[\"GoogleAnalyticsObject\"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,\"script\",\"https://www.google-analytics.com/analytics.js\",\"ga\");ga(\"create\", \"UA-135607203-2\", {\"cookieDomain\":\"auto\"});ga(\"set\", \"anonymizeIp\", true);ga(\"send\", \"pageview\");",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "jQuery.extend(Drupal.settings, {\"basePath\":\"\\/\",\"pathPrefix\":\"en\\/\",\"ajaxPageState\":{\"theme\":\"nthssa_theme\",\"theme_token\":\"vZEiF1ATfdDdNzsOM72u773OFbaszKcIS4KPWzx69Ao\",\"js\":{\"sites\\/all\\/modules\\/contrib\\/jquery_update\\/replace\\/jquery\\/1.8\\/jquery.min.js\":1,\"misc\\/jquery-extend-3.4.0.js\":1,\"misc\\/jquery-html-prefilter-3.5.0-backport.js\":1,\"misc\\/jquery.once.js\":1,\"misc\\/drupal.js\":1,\"sites\\/all\\/modules\\/contrib\\/views_slideshow\\/js\\/views_slideshow.js\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/js\\/jquery.bgiframe.js\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/js\\/jquery.hoverIntent.js\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/js\\/superfish.js\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/js\\/nice_menus.js\":1,\"sites\\/all\\/modules\\/contrib\\/ctools\\/js\\/jump-menu.js\":1,\"sites\\/all\\/modules\\/contrib\\/toc_filter\\/toc_filter.js\":1,\"sites\\/all\\/libraries\\/colorbox\\/jquery.colorbox-min.js\":1,\"sites\\/all\\/modules\\/contrib\\/colorbox\\/js\\/colorbox.js\":1,\"sites\\/all\\/modules\\/contrib\\/colorbox\\/styles\\/default\\/colorbox_style.js\":1,\"sites\\/all\\/modules\\/sandbox\\/views_slideshow__cycle2\\/js\\/views_slideshow_cycle2.js\":1,\"sites\\/all\\/libraries\\/jquery.cycle2\\/jquery.cycle2.min.js\":1,\"sites\\/all\\/modules\\/contrib\\/google_analytics\\/googleanalytics.js\":1,\"0\":1,\"sites\\/all\\/libraries\\/jquery.cycle2\\/jquery.cycle2.swipe.min.js\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/js\\/any-resize-event.min.js\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/js\\/gnwt-core.js\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/js\\/jquery.browser.min.js\":1},\"css\":{\"modules\\/system\\/system.base.css\":1,\"modules\\/system\\/system.menus.css\":1,\"modules\\/system\\/system.messages.css\":1,\"modules\\/system\\/system.theme.css\":1,\"sites\\/all\\/modules\\/contrib\\/views_slideshow\\/views_slideshow.css\":1,\"sites\\/all\\/modules\\/contrib\\/date\\/date_api\\/date.css\":1,\"modules\\/field\\/theme\\/field.css\":1,\"modules\\/node\\/node.css\":1,\"modules\\/search\\/search.css\":1,\"sites\\/all\\/modules\\/contrib\\/toc_filter\\/toc_filter.css\":1,\"modules\\/user\\/user.css\":1,\"sites\\/all\\/modules\\/contrib\\/views\\/css\\/views.css\":1,\"sites\\/all\\/modules\\/contrib\\/ckeditor\\/css\\/ckeditor.css\":1,\"sites\\/all\\/modules\\/contrib\\/media\\/modules\\/media_wysiwyg\\/css\\/media_wysiwyg.base.css\":1,\"sites\\/all\\/modules\\/contrib\\/colorbox\\/styles\\/default\\/colorbox_style.css\":1,\"sites\\/all\\/modules\\/contrib\\/ctools\\/css\\/ctools.css\":1,\"sites\\/all\\/modules\\/contrib\\/addressfield\\/addressfield.css\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/css\\/nice_menus.css\":1,\"\\/sites\\/all\\/themes\\/gnwt_base_theme\\/css\\/gnwt-core.css\":1,\"sites\\/all\\/modules\\/contrib\\/views_slideshow\\/views_slideshow_controls_text.css\":1,\"sites\\/all\\/modules\\/sandbox\\/views_slideshow__cycle2\\/views_slideshow_cycle2.css\":1,\"modules\\/locale\\/locale.css\":1,\"sites\\/all\\/themes\\/zen\\/system.base.css\":1,\"sites\\/nthssa\\/themes\\/nthssa_theme\\/system.menus.css\":1,\"sites\\/nthssa\\/themes\\/nthssa_theme\\/system.messages.css\":1,\"sites\\/nthssa\\/themes\\/nthssa_theme\\/system.theme.css\":1,\"sites\\/nthssa\\/themes\\/nthssa_theme\\/comment.css\":1,\"sites\\/nthssa\\/themes\\/nthssa_theme\\/node.css\":1,\"sites\\/nthssa\\/themes\\/nthssa_theme\\/css\\/gnwt-core.css\":1,\"0\":1,\"1\":1}},\"colorbox\":{\"opacity\":\"0.85\",\"current\":\"{current} of {total}\",\"previous\":\"\\u00ab Prev\",\"next\":\"Next \\u00bb\",\"close\":\"Close\",\"maxWidth\":\"98%\",\"maxHeight\":\"98%\",\"fixed\":true,\"mobiledetect\":true,\"mobiledevicewidth\":\"480px\",\"specificPagesDefaultValue\":\"admin*\\nimagebrowser*\\nimg_assist*\\nimce*\\nnode\\/add\\/*\\nnode\\/*\\/edit\\nprint\\/*\\nprintpdf\\/*\\nsystem\\/ajax\\nsystem\\/ajax\\/*\"},\"toc_filter_smooth_scroll_duration\":\"\",\"viewsSlideshow\":{\"home_slider-block_1\":{\"methods\":{\"goToSlide\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\",\"viewsSlideshowCycle2\"],\"nextSlide\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\",\"viewsSlideshowCycle2\"],\"pause\":[\"viewsSlideshowControls\",\"viewsSlideshowCycle2\"],\"play\":[\"viewsSlideshowControls\",\"viewsSlideshowCycle2\"],\"previousSlide\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\",\"viewsSlideshowCycle2\"],\"transitionBegin\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\"],\"transitionEnd\":[]},\"paused\":0},\"home_slider-block_2\":{\"methods\":{\"goToSlide\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\",\"viewsSlideshowCycle2\"],\"nextSlide\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\",\"viewsSlideshowCycle2\"],\"pause\":[\"viewsSlideshowControls\",\"viewsSlideshowCycle2\"],\"play\":[\"viewsSlideshowControls\",\"viewsSlideshowCycle2\"],\"previousSlide\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\",\"viewsSlideshowCycle2\"],\"transitionBegin\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\"],\"transitionEnd\":[]},\"paused\":0}},\"viewsSlideshowControls\":{\"home_slider-block_1\":{\"bottom\":{\"type\":\"viewsSlideshowControlsText\"}},\"home_slider-block_2\":{\"bottom\":{\"type\":\"viewsSlideshowControlsText\"}}},\"viewsSlideshowPager\":{\"home_slider-block_1\":{\"bottom\":{\"type\":\"viewsSlideshowPagerFields\",\"master_pager\":\"0\"}},\"home_slider-block_2\":{\"bottom\":{\"type\":\"viewsSlideshowPagerFields\",\"master_pager\":\"0\"}}},\"viewsSlideshowPagerFields\":{\"home_slider-block_1\":{\"bottom\":{\"activatePauseOnHover\":0}},\"home_slider-block_2\":{\"bottom\":{\"activatePauseOnHover\":0}}},\"viewsSlideshowCycle2\":{\"#views_slideshow_cycle2_main_home_slider-block_1\":{\"num_divs\":5,\"id_prefix\":\"#views_slideshow_cycle2_main_\",\"div_prefix\":\"#views_slideshow_cycle2_div_\",\"vss_id\":\"home_slider-block_1\",\"effect\":\"fade\",\"transition_advanced\":0,\"timeout\":5000,\"speed\":700,\"delay\":0,\"sync\":1,\"random\":0,\"pause\":1,\"pause_on_click\":0,\"action_advanced\":0,\"start_paused\":null,\"remember_slide\":0,\"remember_slide_days\":1,\"pause_in_middle\":0,\"pause_when_hidden\":0,\"pause_when_hidden_type\":\"full\",\"amount_allowed_visible\":\"\",\"nowrap\":0,\"fixed_height\":1,\"items_per_slide\":1,\"image_loader\":false,\"swipe\":1,\"cleartype\":true,\"cleartypenobg\":false,\"advanced_options\":\"{}\"},\"#views_slideshow_cycle2_main_home_slider-block_2\":{\"num_divs\":5,\"id_prefix\":\"#views_slideshow_cycle2_main_\",\"div_prefix\":\"#views_slideshow_cycle2_div_\",\"vss_id\":\"home_slider-block_2\",\"effect\":\"fade\",\"transition_advanced\":0,\"timeout\":5000,\"speed\":700,\"delay\":0,\"sync\":1,\"random\":0,\"pause\":1,\"pause_on_click\":0,\"action_advanced\":0,\"start_paused\":null,\"remember_slide\":0,\"remember_slide_days\":1,\"pause_in_middle\":0,\"pause_when_hidden\":0,\"pause_when_hidden_type\":\"full\",\"amount_allowed_visible\":\"\",\"nowrap\":0,\"fixed_height\":1,\"items_per_slide\":1,\"image_loader\":false,\"swipe\":1,\"cleartype\":true,\"cleartypenobg\":false,\"advanced_options\":\"{}\"}},\"better_exposed_filters\":{\"views\":{\"home_slider\":{\"displays\":{\"block\":{\"filters\":[]},\"block_1\":{\"filters\":[]},\"block_2\":{\"filters\":[]},\"block_3\":{\"filters\":[]},\"block_4\":{\"filters\":[]},\"block_5\":{\"filters\":[]}}},\"position_contact_information\":{\"displays\":{\"block_2\":{\"filters\":[]},\"block_1\":{\"filters\":[]}}},\"service_header\":{\"displays\":{\"block\":{\"filters\":[]},\"block_1\":{\"filters\":[]}}}}},\"nice_menus_options\":{\"delay\":800,\"speed\":\"slow\"},\"googleanalytics\":{\"trackOutbound\":1,\"trackMailto\":1,\"trackDownload\":1,\"trackDownloadExtensions\":\"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip\",\"trackColorbox\":1},\"urlIsAjaxTrusted\":{\"\\/en\\/services\\/coronavirus-disease-covid-19-updates\":true},\"ogContext\":{\"groupType\":\"node\",\"gid\":\"360\"}});",
+        "attrs": {}
+    },
+    {
+        "tag": "meta",
+        "text": "[if lt IE 9]>\n        <script src=\"/sites/all/themes/zen/js/html5shiv.min.js\"></script>\n        <![endif]",
+        "attrs": {
+            "charset": "utf-8"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Jump to navigation",
+        "attrs": {
+            "href": "#main-menu",
+            "class": [
+                "skip-link",
+                "visually-hidden",
+                "visually-hidden--focusable"
+            ],
+            "id": "skip-link"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "www.gov.nt.ca",
+        "attrs": {
+            "href": "http://www.gov.nt.ca",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Departments",
+        "attrs": {
+            "href": "http://www.gov.nt.ca/node/3",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Services",
+        "attrs": {
+            "href": "http://services.exec.gov.nt.ca/",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "English",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates",
+            "class": [
+                "language-link",
+                "active"
+            ],
+            "xml:lang": "en",
+            "title": "Coronavirus Disease (COVID-19)  Updates"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fran\u00e7ais",
+        "attrs": {
+            "href": "/fr/services/mises-%C3%A0-jour-sur-la-maladie-%C3%A0-coronavirus-covid-19",
+            "class": [
+                "language-link"
+            ],
+            "xml:lang": "fr",
+            "title": "Mises \u00e0 jour sur la maladie \u00e0 coronavirus (COVID-19)"
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Enter the terms you wish to search for.",
+        "attrs": {
+            "class": [
+                "element-invisible"
+            ],
+            "for": "edit-search-keys"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Health and Social Services Authority",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Menu",
+        "attrs": {
+            "href": "#",
+            "class": [
+                "mobile-menu-button"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Search",
+        "attrs": {
+            "href": "#",
+            "class": [
+                "mobile-menu-button"
+            ]
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Enter the terms you wish to search for.",
+        "attrs": {
+            "class": [
+                "element-invisible"
+            ],
+            "for": "edit-search-keys--2"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "English",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates",
+            "class": [
+                "language-link",
+                "active"
+            ],
+            "xml:lang": "en",
+            "title": "Coronavirus Disease (COVID-19)  Updates"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fran\u00e7ais",
+        "attrs": {
+            "href": "/fr/services/mises-%C3%A0-jour-sur-la-maladie-%C3%A0-coronavirus-covid-19",
+            "class": [
+                "language-link"
+            ],
+            "xml:lang": "fr",
+            "title": "Mises \u00e0 jour sur la maladie \u00e0 coronavirus (COVID-19)"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID Testing",
+        "attrs": {
+            "href": "/en/covid-testing",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID Vaccine",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/covid-vaccine",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Guidance for Parents for Testing and Isolation for School Age Children",
+        "attrs": {
+            "href": "/en/guidance-parents-testing-and-isolation-school-age-children",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Continuing Primary Care",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/continuing-primary-care",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sick Notes, Return to Work Notes, Work at Home Exemptions and Masking Exemptions",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/sick-notes-return-work-notes-work-home-exemptions-and",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Virtual Care",
+        "attrs": {
+            "href": "/en/services/nwt-virtual-care",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Visitor Restrictions and Processes During Covid-19",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/visitor-restrictions-and-processes-during-covid-19",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 and Cancer Treatment",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/covid-19-and-cancer-treatment",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Mental Health Resources and Supports",
+        "attrs": {
+            "href": "/en/services/mental-health-resources-and-supports",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Community Health Centre and Public Health Service Levels",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/community-health-centre-and-public-health-service",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Specialist Service Levels",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/specialist-service-levels",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/en",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "About Us",
+        "attrs": {
+            "href": "/en/about-us",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Regional Portals",
+        "attrs": {
+            "href": "/en/regional-portals",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Programs and Services",
+        "attrs": {
+            "href": "/en/services",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Newsroom",
+        "attrs": {
+            "href": "/en/newsroom",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contacts",
+        "attrs": {
+            "href": "/en/contacts",
+            "title": "The list of nthssa contacts",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Resources",
+        "attrs": {
+            "href": "/en/resources",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "www.gov.nt.ca",
+        "attrs": {
+            "href": "http://www.gov.nt.ca",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Departments",
+        "attrs": {
+            "href": "http://www.gov.nt.ca/node/3",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Services",
+        "attrs": {
+            "href": "http://services.exec.gov.nt.ca/",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/en",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "About Us",
+        "attrs": {
+            "href": "/en/about-us",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Mission, Vision and Values",
+        "attrs": {
+            "href": "/en/our-mission-vision-and-values",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Regions",
+        "attrs": {
+            "href": "/en/our-regions",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Governance",
+        "attrs": {
+            "href": "/en/governance",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Regional Portals",
+        "attrs": {
+            "href": "/en/regional-portals",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Beaufort-Delta Region",
+        "attrs": {
+            "href": "/en/beaufort-delta-region",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Deh Cho Region",
+        "attrs": {
+            "href": "/en/deh-cho-region",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fort Smith Region",
+        "attrs": {
+            "href": "/en/fort-smith-region",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sahtu Region",
+        "attrs": {
+            "href": "/en/sahtu-region",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Stanton Territorial Hospital",
+        "attrs": {
+            "href": "/en/stanton-territorial-hospital",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Yellowknife Region",
+        "attrs": {
+            "href": "/en/yellowknife-region-0",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Programs and Services",
+        "attrs": {
+            "href": "/en/services",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Newsroom",
+        "attrs": {
+            "href": "/en/newsroom",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contacts",
+        "attrs": {
+            "href": "/en/contacts",
+            "title": "The list of nthssa contacts",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Social Media",
+        "attrs": {
+            "href": "/en/social-media",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Media Inquiries",
+        "attrs": {
+            "href": "/en/media-inquiries",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Reporting Suspected Child Maltreatment and Neglect",
+        "attrs": {
+            "href": "https://www.hss.gov.nt.ca/en/contact/reporting-suspected-child-maltreatment-and-neglect",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Resources",
+        "attrs": {
+            "href": "/en/resources",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "You are here",
+        "attrs": {
+            "class": [
+                "breadcrumb__title"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/en"
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "Coronavirus Disease (COVID-19) Updates",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Please review this page for information about what operational changes are taking place in response to COVID-19.",
+        "attrs": {}
+    },
+    {
+        "tag": "b",
+        "text": "For Yellowknife COVID-19\u00a0Testing, please use our",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "online booking service",
+        "attrs": {
+            "href": "https://square.site/book/LAG1FMB20985Q/northwest-territories-health-and-social-services-authority-administration-des-services-de-sante-et-des-services-sociaux-des-territoires-du-nord-ouest-yellowknife-nt-nt"
+        }
+    },
+    {
+        "tag": "b",
+        "text": "to book your appointment to get tested.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "The COVID Testing site has moved to 108 Archibald Street (across from the Folk on the Rocks parking lot,",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "google map link",
+        "attrs": {
+            "href": "https://goo.gl/maps/JeXU155v5sW8uEg89"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "). If you do not have transport you can arrange for shuttle service by calling 867-446-1194.\u00a0If you can book online please do, it will reduce waits and gatherings at the clinic and is a convenient way for you to plan your appointment.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "By using this online booking service and providing your contact information, you are consenting to the collection of this information by NTHSSA as well as the provider platform, Square. The information you provide is used by NTHSSA to facilitate your appointment for COVID testing, and may be shared with your health care provider for future services. All information held by Square is encrypted to their servers and will not be sold to any third-parties. For all privacy and security concerns, please email",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "NTHSSAFeedback@gov.nt.ca",
+        "attrs": {
+            "href": "mailto:NTHSSAFeedback@gov.nt.ca",
+            "title": "mailto:nthssafeedback@gov.nt.ca"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you do not wish to use the booking form you can call public health at 767-9120 for appointment information.",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "Who should get tested?",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Please visit the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "GNWT webpage on COVID-19 testing",
+        "attrs": {
+            "href": "https://www.gov.nt.ca/covid-19/en/services/about-covid-19/testing"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "for more information on who in the NWT should seek a COVID test.",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "How to access COVID Testing in the NWT:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you need access to COVID testing, especially if you are experiencing symptoms such as fever, cough or flu-like, but are well enough to stay home, please self-isolate and call your local health centre to arrange testing:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Yellowknife:",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Online book (preferred)",
+        "attrs": {
+            "href": "https://square.site/book/LAG1FMB20985Q/northwest-territories-health-and-social-services-authority-administration-des-services-de-sante-et-des-services-sociaux-des-territoires-du-nord-ouest-yellowknife-nt-nt"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "or call\u00a0867-767-9120",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Fort Liard:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "If you have symptoms of COVID-19, or if you\u2019ve been told to be tested,call the rapid response team at 867-695-1655 .",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "If you have trouble reaching them,call the health centre at 867-770-4301 for an appointment.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "For informaiton on COVID-19 call 8-1-1.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "For all other health and social services inquiries call the health centre",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Inuvik: 867-490 \u20132225 or 867-777-7246",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Fort Smith: 867-621-2233 or 867-872-0562",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Hay River: 867-874-8400",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Other Communities can call their local health centres,",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "www.hss.gov.nt.ca/health-centres",
+        "attrs": {
+            "href": "https://www.hss.gov.nt.ca/en/hospitals-and-health-centres"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Please review the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Self-Isolation Information",
+        "attrs": {
+            "href": "https://www.gov.nt.ca/covid-19/en/services/health-and-well-being/mandatory-self-isolation"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "for information about how to self-isolate.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "If you are experiencing severe symptoms such as shortness of breath or a worsening condition and feel that you need immediate medical care, call 9-1-1,",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "and call ahead to your health centre or hospital facility to let them know you are coming to the facility. Please describe your symptoms over the phone before your appointment so the clinic can arrange to see you without exposing others. Let them know if you have travelled or have been exposed to someone with COVID-19 in the last 14 days.",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "NTHSSA Service Changes and Announcements",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "In support of providing regular updates to our service levels throughout the COVID-19 pandemic response the NTHSSA has published two sets of dashboards. These dashboards provide updates on service levels in community health centres/public health units, and specialist service clinics.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Community Health Centre/Public Health Unit Services Dashboard",
+        "attrs": {
+            "href": "https://www.nthssa.ca/en/services/coronavirus-disease-covid-19-updates/community-health-centre-and-public-health-service"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Specialist Services Dashboard",
+        "attrs": {
+            "href": "https://www.nthssa.ca/en/services/coronavirus-disease-covid-19-updates/specialist-service-levels"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Report Phone Line Issues",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "We are also asking the public to",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "report if they are having issues with phone lines in reaching Yellowknife area clinics",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": ", particularly if you are put on hold and experience dropped calls. If you do get put on hold and experience a dropped call please email",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "nthssafeedback@gov.nt.ca",
+        "attrs": {
+            "href": "mailto:nthssafeedback@gov.nt.ca"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ". We are actively working to address any phone issues.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Coronavirus Disease (COVID-19) Updates",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates",
+            "class": [
+                "active"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID Testing",
+        "attrs": {
+            "href": "/en/covid-testing",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID Vaccine",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/covid-vaccine",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Guidance for Parents for Testing and Isolation for School Age Children",
+        "attrs": {
+            "href": "/en/guidance-parents-testing-and-isolation-school-age-children",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Continuing Primary Care",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/continuing-primary-care",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sick Notes, Return to Work Notes, Work at Home Exemptions and Masking Exemptions",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/sick-notes-return-work-notes-work-home-exemptions-and",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Virtual Care",
+        "attrs": {
+            "href": "/en/services/nwt-virtual-care",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Visitor Restrictions and Processes During Covid-19",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/visitor-restrictions-and-processes-during-covid-19",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 and Cancer Treatment",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/covid-19-and-cancer-treatment",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Mental Health Resources and Supports",
+        "attrs": {
+            "href": "/en/services/mental-health-resources-and-supports",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Community Health Centre and Public Health Service Levels",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/community-health-centre-and-public-health-service",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Specialist Service Levels",
+        "attrs": {
+            "href": "/en/services/coronavirus-disease-covid-19-updates/specialist-service-levels",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Contact us",
+        "attrs": {
+            "class": [
+                "block__title"
+            ]
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Inuvik Public Health Centre",
+        "attrs": {
+            "class": [
+                "field-content"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "106 Veterans Way (1st Floor)",
+        "attrs": {
+            "class": [
+                "thoroughfare"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Bag Service #2",
+        "attrs": {
+            "class": [
+                "premise"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Inuvik",
+        "attrs": {
+            "class": [
+                "locality"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": ",",
+        "attrs": {
+            "class": [
+                "addressfield-container-inline",
+                "locality-block",
+                "country-CA"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "NT",
+        "attrs": {
+            "class": [
+                "state"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "X0E 0T0",
+        "attrs": {
+            "class": [
+                "postal-code"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Phone",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "867-777-7246",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Fax",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "867-777-3255",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Yellowknife Public Health Clinic",
+        "attrs": {
+            "class": [
+                "field-content"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "1st Floor Jan Stirling Centre",
+        "attrs": {
+            "class": [
+                "thoroughfare"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "4702 Franklin Ave",
+        "attrs": {
+            "class": [
+                "premise"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Yellowknife",
+        "attrs": {
+            "class": [
+                "locality"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": ",",
+        "attrs": {
+            "class": [
+                "addressfield-container-inline",
+                "locality-block",
+                "country-CA"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "NT",
+        "attrs": {
+            "class": [
+                "state"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "X1A 1N2",
+        "attrs": {
+            "class": [
+                "postal-code"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Phone",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "867-767-9120",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Fax",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "867-873-0158",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Fort Smith Public Health - 24 Hour COVID phone",
+        "attrs": {
+            "class": [
+                "field-content"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Fort Smith",
+        "attrs": {
+            "class": [
+                "locality"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": ",",
+        "attrs": {
+            "class": [
+                "addressfield-container-inline",
+                "locality-block",
+                "country-CA"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "NT",
+        "attrs": {
+            "class": [
+                "state"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Cell Phone",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "867-621-2233",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Cell Phone",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "867-872-0562",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Fax",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "867-872-6251",
+        "attrs": {
+            "class": [
+                "field-item",
+                "even"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "360",
+        "attrs": {
+            "class": [
+                "element-invisible"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "360",
+        "attrs": {
+            "class": [
+                "element-invisible"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "360",
+        "attrs": {
+            "class": [
+                "element-invisible"
+            ]
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Feedback",
+        "attrs": {
+            "class": [
+                "block__title"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Have a suggestion to improve the site?",
+        "attrs": {
+            "style": "padding-left:10px;padding-bottom:10px;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Please give us your feedback",
+        "attrs": {
+            "href": "https://www.nthssa.ca/en/feedback"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {
+            "style": "padding-left:10px;padding-bottom:10px;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Phone Directory",
+        "attrs": {
+            "href": "http://rdirectory.gov.nt.ca/rDirectory.aspx",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Accessibility",
+        "attrs": {
+            "href": "http://www.gov.nt.ca/accessibility",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Newsroom",
+        "attrs": {
+            "href": "/en/newsroom",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    }
+]

@@ -1,0 +1,1043 @@
+[{
+        "URL": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/Pages/COVID-19-Drive-Thru-Wait-Times.aspx"
+    },
+    {
+        "tag": "[document]",
+        "text": "html",
+        "attrs": {}
+    },
+    {
+        "tag": "title",
+        "text": "COVID-19 Drive Thru Wait Times",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if lte IE 9]>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/_catalogs/masterpage/shainternet/css/belowie10.css\"/>\n<![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if lt IE 10]>\r\n            <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\r\n            <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\r\n            <![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"require.js\", \"\\u002f_layouts\\u002f15\\u002frequire.js?rev=4UhLIF\\u00252FezOvmGnh\\u00252Fs0LLpA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"strings.js\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fstrings.js?rev=k\\u00252FSaOdWtcHDDvsb\\u00252FUFykOA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.res.resx\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fsp.res.js?rev=MbB92HT8biYuFa\\u00252B1vTMilA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.runtime.js\", \"\\u002f_layouts\\u002f15\\u002fsp.runtime.js?rev=0vSivOGicHXjEyREoMQrSA\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.runtime.js\", \"sp.res.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.js\", \"\\u002f_layouts\\u002f15\\u002fsp.js?rev=O\\u00252BnTsKwlFM\\u00252FW9NWmGe56Iw\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.js\", \"sp.runtime.js\");RegisterSodDep(\"sp.js\", \"sp.ui.dialog.js\");RegisterSodDep(\"sp.js\", \"sp.res.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.init.js\", \"\\u002f_layouts\\u002f15\\u002fsp.init.js?rev=c4C50Gyrm58SZF9vCzhUCg\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.ui.dialog.js\", \"\\u002f_layouts\\u002f15\\u002fsp.ui.dialog.js?rev=ZFSgZlXgmaObMBUul6tlpg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.ui.dialog.js\", \"sp.init.js\");RegisterSodDep(\"sp.ui.dialog.js\", \"sp.res.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"core.js\", \"\\u002f_layouts\\u002f15\\u002fcore.js?rev=hO7xPurla2brWEodg78jTw\\u00253D\\u00253DTAG0\");RegisterSodDep(\"core.js\", \"strings.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"menu.js\", \"\\u002f_layouts\\u002f15\\u002fmenu.js?rev=TXz5FomObD7fh9zg79nq7A\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"mQuery.js\", \"\\u002f_layouts\\u002f15\\u002fmquery.js?rev=u2NznOZ8V0uyd0BEcUcjXA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"callout.js\", \"\\u002f_layouts\\u002f15\\u002fcallout.js?rev=JfcDNpQr8vQGmQAP2wUQmQ\\u00253D\\u00253DTAG0\");RegisterSodDep(\"callout.js\", \"strings.js\");RegisterSodDep(\"callout.js\", \"mQuery.js\");RegisterSodDep(\"callout.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.core.js\", \"\\u002f_layouts\\u002f15\\u002fsp.core.js?rev=yoVh0k6VK0\\u00252BRLVT8EuQakQ\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.core.js\", \"strings.js\");RegisterSodDep(\"sp.core.js\", \"sp.init.js\");RegisterSodDep(\"sp.core.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sharedhovercard.strings.js\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fsharedhovercard.strings.js?rev=sLsS\\u00252FNPqFzOSO42e3s6lgw\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sharedhovercard.js\", \"\\u002f_layouts\\u002f15\\u002fsharedhovercard.js?rev=uB89up9szoXj8bAMKPkPSg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sharedhovercard.js\", \"sharedhovercard.strings.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"clienttemplates.js\", \"\\u002f_layouts\\u002f15\\u002fclienttemplates.js?rev=pwX892gBmM\\u00252FTAkwM6KpX5Q\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sharing.js\", \"\\u002f_layouts\\u002f15\\u002fsharing.js?rev=9\\u00252FwgPOrW1zeYi5BAz53HTA\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sharing.js\", \"strings.js\");RegisterSodDep(\"sharing.js\", \"mQuery.js\");RegisterSodDep(\"sharing.js\", \"clienttemplates.js\");RegisterSodDep(\"sharing.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"suitelinks.js\", \"\\u002f_layouts\\u002f15\\u002fsuitelinks.js?rev=eMrrG\\u00252FhpsNDdgkNFFjHyEg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"suitelinks.js\", \"strings.js\");RegisterSodDep(\"suitelinks.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"userprofile\", \"\\u002f_layouts\\u002f15\\u002fsp.userprofiles.js?rev=cx6U8sP\\u00252ByP0OFLjk6ekyIg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"userprofile\", \"sp.runtime.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"followingcommon.js\", \"\\u002f_layouts\\u002f15\\u002ffollowingcommon.js?rev=qyMhHtVfcGQZxz7gjR2zGg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"followingcommon.js\", \"strings.js\");RegisterSodDep(\"followingcommon.js\", \"sp.js\");RegisterSodDep(\"followingcommon.js\", \"userprofile\");RegisterSodDep(\"followingcommon.js\", \"core.js\");RegisterSodDep(\"followingcommon.js\", \"mQuery.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"profilebrowserscriptres.resx\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.ui.mysitecommon.js\", \"\\u002f_layouts\\u002f15\\u002fsp.ui.mysitecommon.js?rev=CMQcw7aRmUvo\\u00252FkgwV4dBwQ\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"sp.init.js\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"sp.runtime.js\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"userprofile\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"profilebrowserscriptres.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"browserScript\", \"\\u002f_layouts\\u002f15\\u002fnon_ie.js?rev=7Lc11MBnN9oUhqQYECxpPw\\u00253D\\u00253DTAG0\");RegisterSodDep(\"browserScript\", \"strings.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"inplview\", \"\\u002f_layouts\\u002f15\\u002finplview.js?rev=FRjLFRWCQ169rtrz9j5NWA\\u00253D\\u00253DTAG0\");RegisterSodDep(\"inplview\", \"strings.js\");RegisterSodDep(\"inplview\", \"core.js\");RegisterSodDep(\"inplview\", \"clienttemplates.js\");RegisterSodDep(\"inplview\", \"sp.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "head",
+        "text": "Google Tag Manager",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\tnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\n\t\tj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n\t\t'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n\t\t})(window,document,'script','dataLayer','GTM-5DXQW4Z');",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "End Google Tag Manager",
+        "attrs": {}
+    },
+    {
+        "tag": "body",
+        "text": "Google Tag Manager (noscript)",
+        "attrs": {
+            "onhashchange": "if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"
+        }
+    },
+    {
+        "tag": "body",
+        "text": "End Google Tag Manager (noscript)",
+        "attrs": {
+            "onhashchange": "if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\nvar MSOWebPartPageFormName = 'aspnetForm';\nvar g_presenceEnabled = true;\nvar g_wsaEnabled = false;\n\nvar g_correlationId = '4f1aae9f-4b83-80a7-36a3-2db95ddb28a5';\nvar g_wsaQoSEnabled = false;\nvar g_wsaQoSDataPoints = [];\nvar g_wsaRUMEnabled = false;\nvar g_wsaLCID = 1033;\nvar g_wsaListTemplateId = 850;\nvar g_wsaSiteTemplateId = 'CMSPUBLISHING#0';\nvar _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: \"\\u002fnews\\u002fservice-alerts-emergency-events\", webAbsoluteUrl: \"https:\\u002f\\u002fwww.saskhealthauthority.ca\\u002fnews\\u002fservice-alerts-emergency-events\", siteAbsoluteUrl: \"https:\\u002f\\u002fwww.saskhealthauthority.ca\", serverRequestPath: \"\\u002fnews\\u002fservice-alerts-emergency-events\\u002fPages\\u002fCOVID-19-Drive-Thru-Wait-Times.aspx\", layoutsUrl: \"_layouts\\u002f15\", webTitle: \"Service Alerts and Emergency Events\", webTemplate: \"39\", tenantAppVersion: \"0\", isAppWeb: false, Has2019Era: true, webLogoUrl: \"_layouts\\u002f15\\u002fimages\\u002fsiteicon.png\", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: \"en-US\", currentCultureName: \"en-US\", clientServerTimeDelta: new Date(\"2021-02-23T15:18:12.3216466Z\") - new Date(), updateFormDigestPageLoaded: new Date(\"2021-02-23T15:18:12.3216466Z\"), siteClientTag: \"188$$16.0.4834.1000\", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196705},pageListId:\"{48d9b89a-d0a5-4dfb-868a-c62002e99fcf}\",pageItemId:15, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: \"\\u002f\", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69473024,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()\r\n{\r\n    if(typeof(window.SP) == \"undefined\") window.SP = {};\r\n    if(typeof(window.SP.YammerSwitch) == \"undefined\") window.SP.YammerSwitch = {};\r\n\r\n    var ysObj = window.SP.YammerSwitch;\r\n    ysObj.IsEnabled = false;\r\n    ysObj.TargetYammerHostName = \"www.yammer.com\";\r\n} )(); //]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\n(function(){\r\n\r\n        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {\r\n            return;\r\n        }\r\n        _spBodyOnLoadFunctions.push(function() {\r\n            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });\r\n        });\r\n    })();(function(){\r\n\r\n        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {\r\n            return;\r\n        }\r\n        _spBodyOnLoadFunctions.push(function() {\r\n            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });\r\n        });\r\n    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Turn on more accessible mode",
+        "attrs": {
+            "id": "linkTurnOnAcc",
+            "href": "#",
+            "class": [
+                "ms-accessible",
+                "ms-acc-button"
+            ],
+            "onclick": "SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Turn off more accessible mode",
+        "attrs": {
+            "id": "linkTurnOffAcc",
+            "href": "#",
+            "class": [
+                "ms-accessible",
+                "ms-acc-button"
+            ],
+            "onclick": "SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sign In",
+        "attrs": {
+            "id": "ctl00_ctl58_ExplicitLogin",
+            "class": [
+                "ms-signInLink"
+            ],
+            "href": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/_layouts/15/Authenticate.aspx?Source=%2Fnews%2Fservice%2Dalerts%2Demergency%2Devents%2FPages%2FCOVID%2D19%2DDrive%2DThru%2DWait%2DTimes%2Easpx",
+            "style": "display:inline-block;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Medical Staff",
+        "attrs": {
+            "target": "_self",
+            "href": "https://www.saskhealthauthority.ca/medical-staff/Pages/Home.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "|",
+        "attrs": {
+            "class": [
+                "text-right",
+                "toprightlinks"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "target": "_self",
+            "href": "https://www.saskhealthauthority.ca/pages/Contacts.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Healthy People, Healthy Saskatchewan.",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Healthy People,",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Healthy Saskatchewan.",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Organization",
+        "attrs": {
+            "class": [
+                "dropdown-toggle"
+            ],
+            "data-toggle": "dropdown",
+            "href": "/about"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Organization Home",
+        "attrs": {
+            "href": "/about"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Governance",
+        "attrs": {
+            "href": "/about/pages/governance.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Leadership & Structure",
+        "attrs": {
+            "href": "/about/Leadership-and-Structure/Pages/Home.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Brand / Logo",
+        "attrs": {
+            "href": "/about/Pages/Brand-Logo.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Publications and Reports",
+        "attrs": {
+            "href": "/about/Pages/Publications-and-Reports.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Strategic Direction",
+        "attrs": {
+            "href": "/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Commitment to Safety",
+        "attrs": {
+            "href": "/about/Pages/Safety-Charter.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Commitment to Truth and Reconciliation",
+        "attrs": {
+            "href": "/about/Pages/Truth-and-Reconciliation.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News",
+        "attrs": {
+            "class": [
+                "dropdown-toggle"
+            ],
+            "data-toggle": "dropdown",
+            "href": "/news"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News and Stories",
+        "attrs": {
+            "href": "/news/Pages/Home.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Health Alerts",
+        "attrs": {
+            "href": "/news/public-health-alerts/Pages/default.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Service Alerts",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events/Pages/service-alerts.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Emergency Events",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events/Pages/Emergency-Events.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Media Relations",
+        "attrs": {
+            "href": "/news/Pages/Media-Relations.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Facilities & Services",
+        "attrs": {
+            "href": "/Services-Locations"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Careers",
+        "attrs": {
+            "href": "/Careers"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Donate",
+        "attrs": {
+            "href": "/Pages/Donate.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Content area",
+        "attrs": {
+            "class": [
+                "container-fluid"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Breadcrumbs Area",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/"
+        }
+    },
+    {
+        "tag": "span",
+        "text": ">",
+        "attrs": {
+            "class": [
+                "pathsep"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News",
+        "attrs": {
+            "href": "/news"
+        }
+    },
+    {
+        "tag": "span",
+        "text": ">",
+        "attrs": {
+            "class": [
+                "pathsep"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Service Alerts and Emergency Events",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events"
+        }
+    },
+    {
+        "tag": "span",
+        "text": ">",
+        "attrs": {
+            "class": [
+                "pathsep"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Drive Thru Wait Times",
+        "attrs": {
+            "id": "ctl00_SHAPlaceHolderBreadCrumbs_ctl00_ContentMap_ctl08_HyperLink1",
+            "href": "/news/service-alerts-emergency-events/Pages/COVID-19-Drive-Thru-Wait-Times.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Breadcrumbs Area Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Global Announcements Area",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Global Announcements Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Notification bar",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Notification bar Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Body Area",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Page Top Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl00_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "\u200b\u200b\u200b\u200b\u200bCOVID-19 Drive-Thru Testing Wait Times\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Right Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl01_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "View COVID-19 Drive-Thru Testing Wait Ti\u200bmes\u200b\u200b",
+        "attrs": {
+            "href": "https://oapp.saskatoonhealthregion.ca/apex/f?p=163:1:4078213404540",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "These times are updated 3-4 times per day depending on site hours of operation.",
+        "attrs": {
+            "style": "text-align:center;"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Wait times are approximate and can change very quickly.",
+        "attrs": {
+            "style": "text-align:center;"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Page Middle Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl02_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "\u200bAbout Drive-Thru Testing",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Testing is universally available to anyone who requests it, regardless of whether they have symptoms or not.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The drive-thru testing sites will not require a referral from HealthLine 811 or a family physician or nurse practitioner; however, a valid health card and/or identification will be requested for each person getting tested.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "These drive-thru testing sites are one of the ways the SHA is expanding the options for people to get tested for COVID-19 to reach the testing targets of 4000 tests performed per day.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Collectively, Regina and Saskatoon account for approximately half of our provincial testing each day.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Locations and Hours of Operation",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Regina Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "International Trade Centre at Evraz Place - Hall C",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "1700 Elphinstone Street",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Regina Drive-Thru Testing Site\u00a0Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/sha-evraz-testing-map-20201126.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Open every day 11:30 a.m. - 7:00 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Saskatoon Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "3630 Thatcher Ave",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Saskatoon Drive-Thru Testing Site Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/saskatoontesting_20200904.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Weekdays 12:00 p.m. - 7:00 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Saturdays and Sundays 8:30 a.m. - 4:00 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Yorkton Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "276 Myrtle Ave",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Yorkton Drive-Thru Testing Site Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/yorkton-dt-testing-poster-20201106.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Open every day 10:30 a.m. - 3:30 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Prince Albert Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "The Cone Shop Car Wash, 890 6th Ave E",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Open every day 8:30 a.m. - 4 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Know Before You Go",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The drive-thru sites will also be first come, first served so it is likely that anyone wanting to get tested can expect some wait times.\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please bring your valid health card/identification\u00a0and be prepared to answer some personal health questions",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please note there are no public washrooms available at the drive-thru test sites.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please wear a mask while at the site.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please pay attention to our staff and follow all signage at the sites.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please be respectful of others' privacy - taking photos and video is discouraged while waiting for or during testing",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "\u200bFor more information about testing, self-isolation and test results, please read",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "What You Need to Know About Getting Tested for COVID-19",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events/Documents/CV-19-H0018-What-You-Need-to-Know-About-Getting-Tested-for-COVID-19-Feb%2011,%202021.pdf"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "\u200b.\u00a0Additional testing information can be found on the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Government of Saskatchewan COVID-19 site.\u200b",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/testing-information#drive-thru-testing-sites",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "The drive-thru wait times are updated three to four times a day depending on the site hours of operation. Wait times are approximate and can change very quickly.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 1 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl03_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 2 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl04_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 3 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl05_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 4 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl06_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 5 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl07_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Page Bottom Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl08_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Body Area ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Unused Content Place Holders",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Unused Content Place Holders Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Content area Ends",
+        "attrs": {
+            "class": [
+                "container-fluid"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Footer Area",
+        "attrs": {
+            "id": "s4-bodyContainer"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Terms of Use / Privacy",
+        "attrs": {
+            "href": "/pages/Terms-Of-Use.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "|",
+        "attrs": {
+            "class": [
+                "text-center",
+                "footerlinks"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "/pages/Contacts.aspx"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "|",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Sign In",
+        "attrs": {
+            "id": "ctl00_ctl63_ExplicitLogin",
+            "class": [
+                "ms-signInLink"
+            ],
+            "href": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/_layouts/15/Authenticate.aspx?Source=%2Fnews%2Fservice%2Dalerts%2Demergency%2Devents%2FPages%2FCOVID%2D19%2DDrive%2DThru%2DWait%2DTimes%2Easpx",
+            "style": "display:inline-block;"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Help us improve this site:",
+        "attrs": {
+            "class": [
+                "feedbackbtn"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Share your feedback.",
+        "attrs": {
+            "href": "https://apps.saskhealthauthority.ca/shafeedback/",
+            "id": "feedback"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "\u00a9 Saskatchewan Health Authority",
+        "attrs": {
+            "class": [
+                "text-center"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "2021",
+        "attrs": {
+            "id": "ctl00_lblYear"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Footer Area Ends",
+        "attrs": {
+            "id": "s4-bodyContainer"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\n        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];\r\n        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||\r\n            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))\r\n        {\r\n            formDigestElement.value = '0x6C43BC59F980D2C19FA53837AD1D3436EEDA53732918C4432B36167155D735D48A4D60CA01846EA345171C8290A42BE05CA7F4E84B2FCAD0E54C4DC041319DD9,23 Feb 2021 15:18:12 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();\r\n        }\r\n        //]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\nvar _spFormDigestRefreshInterval = 1440000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;\r\nfunction _RegisterWebPartPageCUI()\r\n{\r\n    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: \"{48d9b89a-d0a5-4dfb-868a-c62002e99fcf}\",itemId: 15,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: \"\\u002fnews\\u002fservice-alerts-emergency-events\\u002fPages\",itemPermissions:{High:16,Low:196705}};\r\n    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);\r\n    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();\r\n    var hid;\r\n    hid = document.getElementById(\"_wpSelected\");\r\n    if (hid != null)\r\n    {\r\n        var wpid = hid.value;\r\n        if (wpid.length > 0)\r\n        {\r\n            var zc = document.getElementById(wpid);\r\n            if (zc != null)\r\n                wpcomp.selectWebPart(zc, false);\r\n        }\r\n    }\r\n    hid = document.getElementById(\"_wzSelected\");\r\n    if (hid != null)\r\n    {\r\n        var wzid = hid.value;\r\n        if (wzid.length > 0)\r\n        {\r\n            wpcomp.selectWebPartZone(null, wzid);\r\n        }\r\n    }\r\n};\r\nfunction __RegisterWebPartPageCUI() {\r\nExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, \"sp.ribbon.js\");}\r\n_spBodyOnLoadFunctionNames.push(\"__RegisterWebPartPageCUI\");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = \"DeltaPlaceHolderMain\";\r\nvar g_clientIdDeltaPlaceHolderUtilityContent = \"DeltaPlaceHolderUtilityContent\";\r\n//]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "body",
+        "text": "put all your other scripts at the end",
+        "attrs": {
+            "onhashchange": "if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"
+        }
+    }
+]

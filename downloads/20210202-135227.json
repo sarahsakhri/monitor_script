@@ -1,0 +1,4252 @@
+[{
+        "URL": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/Pages/COVID-19-Drive-Thru-Wait-Times.aspx"
+    },
+
+    {
+        "tag": "[document]",
+        "text": "html",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\" lang=\"en\" xmlns:og=\"http://ogp.me/ns#\" xmlns:fb=\"http://www.facebook.com/2008/fbml\"> <![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\" lang=\"en\" xmlns:og=\"http://ogp.me/ns#\" xmlns:fb=\"http://www.facebook.com/2008/fbml\"> <![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if IE 8]>         <html class=\"no-js lt-ie9\" lang=\"en\" xmlns:og=\"http://ogp.me/ns#\" xmlns:fb=\"http://www.facebook.com/2008/fbml\"> <![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "[document]",
+        "text": "[if gt IE 8]><!",
+        "attrs": {}
+    },
+    {
+        "tag": "html",
+        "text": "<![endif]",
+        "attrs": {
+            "class": [
+                "no-js"
+            ],
+            "lang": "en",
+            "xmlns:og": "http://ogp.me/ns#",
+            "xmlns:fb": "http://www.facebook.com/2008/fbml"
+        }
+    },
+    {
+        "tag": "title",
+        "text": "Testing Information | COVID-19 | Government of Saskatchewan",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if lt IE 9]>\r\n      <script src=\"/assets/gos/js/respond.min.js\"></script>\r\n    <![endif]",
+        "attrs": {
+            "id": "pageHead"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "COVID-19 - Latest Information",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Learn more",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Close",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Learn more about",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "in Saskatchewan.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Case numbers",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "are updated daily.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Effective December 17",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": ", all private dwelling indoor gatherings are limited to immediate households only.\u00a0 Review all",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "public health measures",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Skip to Main Content",
+        "attrs": {
+            "href": "#skip-to-content"
+        }
+    },
+    {
+        "tag": "font",
+        "text": "Language",
+        "attrs": {
+            "class": [
+                "skiptranslate"
+            ]
+        }
+    },
+    {
+        "tag": "script",
+        "text": "Coveo.$(function () {\r\n\r\n            Coveo.SearchEndpoint.endpoints['default'] = new Coveo.SearchEndpoint(\r\n\r\n                { \"restUri\": \"/coveo/rest\" }\r\n\r\n            );\r\n            Coveo.$('#SearchBox').coveo('initSearchbox', 'https://www.saskatchewan.ca/search');\r\n            Coveo.$('#SearchBox').find(\".CoveoSearchbox input\").attr(\"placeholder\", \"What are you looking for?\");\r\n        });",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Renseignements en fran\u00e7ais",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/bonjour/health-and-healthy-living/2019-novel-coronavirus/testing-information",
+            "id": "ctl07_ctaTranslatedPage",
+            "class": [
+                "btn-primary",
+                "skiptranslate"
+            ],
+            "title": "Renseignements en fran\u00e7ais"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Google Translate Disclaimer",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "A number of pages on the Government of Saskatchewan's website have been professionally translated in French. These translations are identified by a yellow box in the right or left rail that resembles the link below. The home page for French-language content on this site can be found at:",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Renseignements en Fran\u00e7ais",
+        "attrs": {
+            "class": [
+                "btn-application"
+            ],
+            "href": "https://www.saskatchewan.ca/bonjour"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Where an official translation is not available, Google\u2122 Translate can be used. Google\u2122 Translate is a free online language translation service that can translate text and web pages into different languages. Translations are made available to increase access to Government of Saskatchewan content for populations whose first language is not English.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Software-based translations do not approach the fluency of a native speaker or possess the skill of a professional translator. The translation should not be considered exact, and may include incorrect or offensive language. The Government of Saskatchewan does not warrant the accuracy, reliability or timeliness of any information translated by this system. Some files or items cannot be translated, including graphs, photos and other file formats such as portable document formats (PDFs).",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Any person or entities that rely on information obtained from the system does so at his or her own risk. Government of Saskatchewan is not responsible for any damage or issues that may possibly result from using translated website content. If you have any questions about Google\u2122 Translate, please visit:",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Google\u2122 Translate FAQs",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Residents and Visitors",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Business and Industry",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Government",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Services",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Find services and information for Saskatchewan residents and visitors.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Overview",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Births, Deaths, Marriages and Divorces",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/births-deaths-marriages-and-divorces"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Immigrating and Moving to Saskatchewan",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Education and Learning",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/education-and-learning"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Emergency",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/emergency"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Environment, Public Health and Safety",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/environment-public-health-and-safety"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Family and Social Support",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/family-and-social-support"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "First Nations, M\u00e9tis and Northern Citizens",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/first-nations-citizens"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/health"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Housing \u2013 Renting, Owning and Developing",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/housing-and-renting"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Jobs, Working and Training",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/jobs-working-and-training"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Justice, Crime and the Law",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/justice-crime-and-the-law"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Parks, Culture, Heritage and Sport",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/parks-culture-heritage-and-sport"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Taxes, Budgeting and Investments",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/taxes-and-investments"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Transportation",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/transportation"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Voting, Consultations and Democracy",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/voting-consultations-and-democracy"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Find services and information for doing business in Saskatchewan.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Overview",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Agriculture, Natural Resources and Industry",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/agriculture-natural-resources-and-industry"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Information for Businesses and Workers",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/covid-19-information-for-businesses-and-workers"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Doing Business with Government",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/doing-business-with-government"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Employment Standards",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/employment-standards"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Entrepreneurs Start or Exit a Business",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/entrepreneurs-start-or-exit-a-business"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Environmental Protection and Sustainability",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/environmental-protection-and-sustainability"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "First Nations, M\u00e9tis, and Northern Community Businesses",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/first-nations-metis-and-northern-community-businesses"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Hire, Train and Manage Employees",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/hire-train-and-manage-employees"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Housing Development, Construction and Property Management",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/housing-development-construction-and-property-management"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Investment and Economic Development",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/investment-and-economic-development"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Safety in the Workplace",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/safety-in-the-workplace"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Taxes, Licensing and Reporting",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/taxes-licensing-and-reporting"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Transportation and Road Construction",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/transportation-and-road-construction"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Find how the Government of Saskatchewan governs and serves the province.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Overview",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Budget, Planning and Reporting",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/budget-planning-and-reporting"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Cabinet, Ministries, Agencies and Other Governments",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/government-structure"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Partnerships for Success",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/partnerships-for-success"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Cannabis in Saskatchewan",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/cannabis-in-saskatchewan"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Doing Business with Government",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/doing-business-with-government"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Educational Institutions and Child Care Facility Administration",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/education-and-child-care-facility-administration"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Federal Carbon Tax",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/federal-carbon-tax"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Find People and Government Offices",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/directory"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Government Publications",
+        "attrs": {
+            "href": "https://publications.saskatchewan.ca"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health Care Administration and Provider Resources",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Heritage, Honours and Awards",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/heritage-honours-and-awards"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Legislation, Maps and Authenticating Notarized Documents",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/notarized-documents-legislation-maps"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Municipal Administration",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/municipal-administration"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News and Media",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/news-and-media"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Stories",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/our-stories"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Engagement",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/public-consultations"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Statistics and Government Data",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/government-data"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Training and Workshops",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/training-and-workshops"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Visual Identity and Protocol",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/visual-identity-and-protocol"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Find a government service and access your Saskatchewan Account.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Overview",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Residents and Visitors Services",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services?audience=residents"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Business and Industry Services",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services?audience=business"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Government Services",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services?audience=government-stakeholders"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Services Directory",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services/directory"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Government",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health Care Administration and Provider Resources",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Treatment, Procedures and Guidelines",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Emerging Public Health Issues",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Testing Information",
+        "attrs": {
+            "class": [
+                "active"
+            ]
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "Testing Information",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "When to Get Tested",
+        "attrs": {
+            "href": "#when-to-get-tested"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Where to Get Tested",
+        "attrs": {
+            "href": "#where-to-get-tested"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Drive-Thru Testing Sites",
+        "attrs": {
+            "href": "#drive-thru-testing-sites"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Test Results",
+        "attrs": {
+            "href": "#test-results"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Who to Contact for More Information",
+        "attrs": {
+            "href": "#who-to-contact-for-more-information"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Renseignements en fran\u00e7ais",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/bonjour/health-and-healthy-living/2019-novel-coronavirus/testing-information",
+            "title": "Renseignements en fran\u00e7ais",
+            "class": [
+                "btn-primary",
+                "skiptranslate"
+            ]
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Share",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Print this page",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Top",
+        "attrs": {
+            "href": "#top",
+            "class": [
+                "float-button"
+            ]
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "1. When to Get Tested",
+        "attrs": {
+            "id": "when-to-get-tested"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Universal Testing",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Testing is part of the Saskatchewan Health Authority's strategy to limit the spread of COVID-19 and is made available to anyone wishing to be tested. You do not need to travel internationally or have symptoms to be tested.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Any individual can be tested. You can get a referral to a community testing centre by phoning:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "HealthLine 811",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Your family physician",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Your nurse practitioner",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "In Regina and Saskatoon, you can also get tested at a drive-thru testing site without a referral or appointment. See",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "drive-thru information",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/testing-information#drive-thru-testing-sites"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Please call your family physician or HealthLine 811 by dialing 811 if you have questions regarding COVID-19 and your health. HealthLine 811 can help you with screening for COVID-19 to determine if a test is recommended for you and refer you for testing if indicated. Testing will be prioritized according to established criteria placing higher priority on referrals that are most urgent, including individuals who are symptomatic or health care workers.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "LAUNCH SELF-ASSESSMENT",
+        "attrs": {
+            "href": "https://public.ehealthsask.ca/sites/COVID-19/",
+            "class": [
+                "btn-application"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Testing continues to be strongly recommended for:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Anyone who has unexplained new or worsening symptoms (even mild symptoms) that may include one or more of the following:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "fever",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "cough",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "headache",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "muscle and/or joint aches and pains",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "sore throat",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "chills",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "runny nose",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "nasal congestion",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "conjunctivitis",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "dizziness",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "fatigue",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "nausea/vomiting",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "diarrhea",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "loss of appetite (difficulty feeding for children)",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "loss of sense of taste or smell",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "shortness of breath",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "difficulty breathing",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Testing is also recommended for:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Patients being admitted to an acute care hospital for a stay anticipated to be greater than 24 hours. This includes all expectant mothers entering a health facility to give birth.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Symptomatic individuals who are homeless or living in other vulnerable settings.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Health care workers caring for certain immunocompromised patients.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Any one working outside the home, including those currently working or returning to work as part of the Re-Open Saskatchewan Plan, who desires a test.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Teachers and staff in elementary and high schools, ahead of and during the school year.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Your local public health official may also advise you to be tested if you have been identified as being at risk following contact with someone known or suspected of having COVID-19, or if you have been identified as being at high risk due to the active spread of COVID-19 in your workplace or community. Public health will contact you if you need to be tested under these circumstances.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Everyone should be familiar with self-monitoring and self-isolation precautions in order to keep you and those around you safe.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "The",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Mandatory Self-Isolation",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/public-health-measures/mandatory-isolation"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "page outlines the isolation requirements that are included in the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Saskatchewan Public Health Order",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/public-health-measures/public-health-orders#current-public-health-orders"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Testing Prioritization",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Currently, anyone can request testing",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "However, testing is prioritized for symptomatic individuals.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "There is an established criteria placing higher priority on referrals that are most urgent. Test sites will prioritize booking tests for",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "symptomatic patients, those directed by contact teams or MHOs and select other groups.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "For people who are symptomatic, in accordance with the latest expert advice on COVID-19,",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "we need to wait until symptoms have been present for 48 hours before testing to minimize the number of false negatives.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "The laboratories follow criteria for prioritizing specimen analysis as well:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Symptomatic individuals in priority groups (patients in acute care, healthcare workers and first responders, residents in long term care or personal care homes, teachers and educational staff and anyone that Medical Health Officers deem a high priority for testing).",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Symptomatic individuals in all population groups.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Asymptomatic individuals in priority groups (patients in acute care, healthcare workers and first responders, residents in long term care or personal care homes, teachers and educational staff, people who are part of a contact tracing, outbreak or cluster investigation).",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Asymptomatic individuals in all population groups.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you have questions about COVID-19, you can:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Call HealthLine 811",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Call your family physician",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Access the most up-to-date news and information on",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "www.saskatchewan.ca/COVID19",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Email",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "COVID19@health.gov.sk.ca",
+        "attrs": {
+            "href": "mailto:COVID19@health.gov.sk.ca"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Top",
+        "attrs": {
+            "href": "#top",
+            "class": [
+                "float-button"
+            ]
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "2. Where to Get Tested",
+        "attrs": {
+            "id": "where-to-get-tested"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Testing for COVID-19 in Saskatchewan is available by referral from HealthLine 811 or a health care provider. Additional testing options are now also being offered.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "You can still receive a referral for COVID-19 testing through HealthLine 811 or a health care provider. That referral will help you access an appointment at a testing site in your community.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Drive-thru testing",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/testing-information#drive-thru-testing-sites"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "sites are available seven days a week in Regina, Saskatoon, Yorkton and Prince Albert.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Some smaller communities offer options for testing such as drive-thru sites, pop-up sites or walk-in sites. These testing options are advertised within those communities in advance of the days they are offered.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "In response to an increase in cases in specific settings or areas, the SHA may offer mobile or pop-up site testing (eg. schools, workplaces, communities).",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Patients are advised to use this",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "self-assessment tool",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/covid-19-self-assessment"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "to determine if they should be tested for COVID-19. Those who fit the criteria and suspect they may have COVID-19 can obtain a referral to a community testing site by phoning 811 or contacting their family physician or nurse practitioner.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Addresses for specific for COVID-19 Testing sites and COVID-19 Assessment and Treatment Centres are provided to patients after referrals are made and testing is booked. Patients will be informed of the address during those conversations.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Testing Sites",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": ": Testing locations perform COVID-19 screening and testing only. No patient assessment or care is performed at these locations. Some communities may offer walk-in or pop-up testing sites; those will be advertised in advance.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "For information on testing in schools, please review the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Safe Schools Plan",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/safe-schools-plan"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Assiniboia",
+        "attrs": {
+            "style": "font-weight: normal;"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Melfort",
+        "attrs": {
+            "style": "font-weight: normal;"
+        }
+    },
+    {
+        "tag": "td",
+        "text": "Beauval",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Melville",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Birch Narrows",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Montreal Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Black Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Moose Jaw",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Buffalo Narrows",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Moosomin",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Buffalo River",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Nipawin",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Canoe Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "North Battleford",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Cumberland House & Cumberland House FN",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Onion Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Deschambault Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Outlook",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "English River",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Pelican Narrows",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Estevan",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Prince Albert",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Fond du Lac",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Red Earth & Shoal Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Fort Qu'Appelle",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Regina",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Grenfell",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Rosthern",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Hatchet Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Saskatoon",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Hudson Bay",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Shellbrook",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Humboldt",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Southend",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Ile La Crosse",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Stanley Mission",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Kamsack",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Swift Current",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Kindersley",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Tisdale",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "La Loche",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Turtleford",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "La Ronge",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Unity",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Lloydminster",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Wadena",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Maidstone/Lashburn",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Waterhen Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Maple Creek",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Weyburn",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Meadow Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "td",
+        "text": "Yorkton",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Top",
+        "attrs": {
+            "href": "#top",
+            "class": [
+                "float-button"
+            ]
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "3. Drive-Thru Testing Sites",
+        "attrs": {
+            "id": "drive-thru-testing-sites"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Drive-thru testing is available in Regina, Saskatoon, Yorkton and Prince Albert.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Drive-thru site locations, hours and wait times are available on the SHA website",
+        "attrs": {
+            "class": [
+                "btn-application"
+            ],
+            "href": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/Pages/COVID-19-Drive-Thru-Wait-Times.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Drive-Thru Testing Sites Q&A",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/drivethru-testing-sites-qa.pdf"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Top",
+        "attrs": {
+            "href": "#top",
+            "class": [
+                "float-button"
+            ]
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "4. Test Results",
+        "attrs": {
+            "id": "test-results"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "COVID-19 test results are conducted at multiple locations around the province within Saskatchewan Health Authority laboratories, including the Roy Romanow Provincial Laboratory. When results are",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "positive",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": ", the local Medical Health Officer and the ordering physician are quickly informed. Patients with positive test results will be notified of their results by medical authorities.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "The laboratories prioritize COVID-19 tests from symptomatic individuals before most asymptomatic testing. We are working to maintain a 24-48 hour turnaround time for test results from symptomatic COVID-19 suspected cases. Delays in results of asymptomatic screening tests may be expected depending on demand.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Factors such as the volume of tests being processed or the distance the test is transported may affect the length of time it takes to notify the patient.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Test Results for Travellers",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The Government of Canada, the Government of Saskatchewan and the Saskatchewan Health Authority are still advising against unnecessary travel, especially internationally. However, if you do decide to travel, it is important to follow the recommended travel guidelines.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The SHA is working hard to provide test results in a timely manner. However, it takes time to process and analyze tests and testing is prioritized for symptomatic individuals before asymptomatic testing.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "It is unlikely that getting results should take more than seven days. However, if you require proof of a negative COVID-19 test before your flight, research the requirements of the airline as well as your destination (as they may be different). Take into account testing and test result turnaround time as you plan your travel.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "The Saskatchewan Health Authority is partnering with Quantum Genetix Canada to provide an independent testing service as an option for asymptomatic testing, specifically travellers who require proof of a negative COVID-19 test for their airline or destination.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "This is testing will be available starting in December and is user-pay. Residents and businesses who are interested can learn more at",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "http://quantumgenetix.com/covidtesting/",
+        "attrs": {
+            "href": "http://quantumgenetix.com/covidtesting/"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "The agreement between the SHA and Quantum Genetix would see the company collecting and processing test specimens for asymptomatic people. All patient information collected would go to the SHA, and any specimen that is found to be positive will be forwarded to the Roy Romanow Provincial Laboratory for confirmation and verification. All testing performed will be included in the daily provincial case report, posted at",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "saskatchewan.ca/COVID19",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you would like to receive your COVID-19 test results online, sign up for MySaskHealthRecord at",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "eHealthsask.ca",
+        "attrs": {
+            "href": "https://www.ehealthsask.ca/"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ". Click on the blue \"MySaskHealthRecord\" button in the middle of the page.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Top",
+        "attrs": {
+            "href": "#top",
+            "class": [
+                "float-button"
+            ]
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "5. Who to Contact for More Information",
+        "attrs": {
+            "id": "who-to-contact-for-more-information"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "We understand that residents have questions about COVID-19 in Saskatchewan.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "If you have questions about COVID-19 or your health, please call your family physician or healthcare provider or HealthLine 811.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Public inquiries may be directed to",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "COVID19@health.gov.sk.ca",
+        "attrs": {
+            "href": "mailto:COVID19@health.gov.sk.ca"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Related Items",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Patient Handout for Testing Centres",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/covid-19/clinical-practice-resources/Documents/Primary%20Health%20Care/CV-19-H0018-What-You-Need-to-Know-About-Getting-Tested-for-COVID-19.pdf"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "What You Need to Know About Getting Tested for COVID-19",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "We need your feedback to improve saskatchewan.ca.",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Help us improve",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/feedback"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Residents and Visitors",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Births, Deaths, Marriages and Divorces",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/births-deaths-marriages-and-divorces"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Immigrating and Moving to Saskatchewan",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Education and Learning",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/education-and-learning"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Emergency",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/emergency"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Environment, Public Health and Safety",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/environment-public-health-and-safety"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Family and Social Support",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/family-and-social-support"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "First Nations, M\u00e9tis and Northern Citizens",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/first-nations-citizens"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/health"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Housing \u2013 Renting, Owning and Developing",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/housing-and-renting"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Jobs, Working and Training",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/jobs-working-and-training"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Justice, Crime and the Law",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/justice-crime-and-the-law"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Parks, Culture, Heritage and Sport",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/parks-culture-heritage-and-sport"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Taxes, Budgeting and Investments",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/taxes-and-investments"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Transportation",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/transportation"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Voting, Consultations and Democracy",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/residents/voting-consultations-and-democracy"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Business and Industry",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Agriculture, Natural Resources and Industry",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/agriculture-natural-resources-and-industry"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Information for Businesses and Workers",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/covid-19-information-for-businesses-and-workers"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Doing Business with Government",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/doing-business-with-government"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Employment Standards",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/employment-standards"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Entrepreneurs Start or Exit a Business",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/entrepreneurs-start-or-exit-a-business"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Environmental Protection and Sustainability",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/environmental-protection-and-sustainability"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "First Nations, M\u00e9tis, and Northern Community Businesses",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/first-nations-metis-and-northern-community-businesses"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Hire, Train and Manage Employees",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/hire-train-and-manage-employees"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Housing Development, Construction and Property Management",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/housing-development-construction-and-property-management"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Investment and Economic Development",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/investment-and-economic-development"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Safety in the Workplace",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/safety-in-the-workplace"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Taxes, Licensing and Reporting",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/taxes-licensing-and-reporting"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Transportation and Road Construction",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/business/transportation-and-road-construction"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Government",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Budget, Planning and Reporting",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/budget-planning-and-reporting"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Cabinet, Ministries, Agencies and Other Governments",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/government-structure"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Partnerships for Success",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/partnerships-for-success"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Cannabis in Saskatchewan",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/cannabis-in-saskatchewan"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Doing Business with Government",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/doing-business-with-government"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Educational Institutions and Child Care Facility Administration",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/education-and-child-care-facility-administration"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Federal Carbon Tax",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/federal-carbon-tax"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Find People and Government Offices",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/directory"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Government Publications",
+        "attrs": {
+            "href": "https://publications.saskatchewan.ca"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health Care Administration and Provider Resources",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Heritage, Honours and Awards",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/heritage-honours-and-awards"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Legislation, Maps and Authenticating Notarized Documents",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/notarized-documents-legislation-maps"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Municipal Administration",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/municipal-administration"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News and Media",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/news-and-media"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Stories",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/our-stories"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Engagement",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/public-consultations"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Statistics and Government Data",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/government-data"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Training and Workshops",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/training-and-workshops"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Visual Identity and Protocol",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/visual-identity-and-protocol"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Services",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Residents and Visitors Services",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services?audience=residents"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Business and Industry Services",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services?audience=business"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Government Services",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services?audience=government-stakeholders"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Services Directory",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/services/directory"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Services disponibles en fran\u00e7ais",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/bonjour",
+            "id": "ctl09_frenchServicesLink",
+            "class": [
+                "footer-cta",
+                "skiptranslate"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Accessibility",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/accessibility"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/contact-us"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Copyright",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/copyright"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Privacy",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/privacy"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Site Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/site-map"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Social Media",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/social-media"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Terms of Use",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/terms-of-use"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "Join the conversation:",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Facebook",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Twitter",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n    var canonical_link;\r\n    try{\r\n        canonical_link = document.querySelector(\"link[rel='canonical']\").getAttribute(\"href\").split(location.hostname)[1] || undefined;\r\n        location.hash = \"utm_campaign=q2_2015&utm_medium=short&utm_source=\" + encodeURIComponent(location.pathname);\r\n    }\r\n    catch(e){\r\n        canonical_link = undefined;\r\n    }\r\n\t\r\n    ga('create', 'UA-46191052-1', 'auto');\r\n    ga('require', 'linkid');\r\n\t\r\n\t\r\n\t\r\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", function(event) { \r\n\r\n\t\t\t\tga(function(tracker) {\r\n\t\t\t\t\tvar gosga = gos.analytics.crossDomain;\r\n\t\t\t\t\t\r\n\t\t\r\n\t\t\r\n\t\t\t\t\tgosga.crossDomainTrackers.push({\r\n\t\t\t\t\t\tdomain : 'thinksask.ca',\r\n\t\t\t\t\t\ttrackerId : 'UA-19625373-1',\r\n\t\t\t\t\t\tname : 'crossDomain1'\r\n\t\t\t\t\t});\r\n\r\n\t\t\r\n\t\t\r\n\t\t\t\t\tvar activeTracker = gosga.getActiveCrossDomainTracker( tracker.get('referrer') );\r\n\t\t\t\r\n\t\t\t\t\tif( !activeTracker ) return;\r\n\t\t\t\t\t\r\n\t\t\t\t\tga('create', activeTracker.trackerId, 'auto', {\r\n\t\t\t\t\t\tallowLinker: true,\r\n\t\t\t\t\t\t'cookieName' : activeTracker.name,\r\n\t\t\t\t\t\t'name' : activeTracker.name\r\n\t\t\t\t\t});\r\n\t\t\t\t\tga( activeTracker.name + '.require', 'linker');\r\n\t\t\t\t\t\r\n\t\t\t\t\t// Need to ensure traffic sent back to source domain has the auto-linker ID set.\r\n\t\t\t\t\tga( activeTracker.name + '.linker:autoLink', [ activeTracker.domain ]);\r\n\t\t\t\t\tga( activeTracker.name + '.send', 'pageview');\r\n\t\t\t\r\n\t\t\t\t});\r\n\t\r\n\t\t\t});\r\n\t\t\r\n\r\n    \r\n    \r\n\r\n    ga('send', 'pageview', canonical_link);\r\n\r\n    \r\n                 ga('create', 'UA-52287404-1', 'auto', 'secondary1');\r\n                 ga('secondary1.send', 'pageview', canonical_link);",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "var _pageLanguage = (false ? \"fr\" : \"en\");\r\n\r\n        function googleTranslateElementInit() {\r\n            new google.translate.TranslateElement({ pageLanguage: _pageLanguage }, 'google_translate_element');\r\n        }",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "!window.jQuery && document.write('<script src=\"/assets/gos/js/jquery.min.js\">&lt;/script>')",
+        "attrs": {}
+    },
+    {
+        "tag": "body",
+        "text": "[if lt IE 9]>\r\n      <script src=\"/assets/gos/js/ie8fix.min.js\"></script>\r\n    <![endif]",
+        "attrs": {
+            "class": [
+                "gov-page",
+                "how-to-template"
+            ]
+        }
+    },
+    {
+        "tag": "script",
+        "text": "setTimeout(function () {\r\n            var a = document.createElement(\"script\");\r\n            var b = document.getElementsByTagName(\"script\")[0];\r\n            a.src = document.location.protocol + \"//dnn506yrbagrg.cloudfront.net/pages/scripts/0024/0695.js?\" + Math.floor(new Date().getTime() / 3600000);\r\n            a.async = true; a.type = \"text/javascript\"; b.parentNode.insertBefore(a, b)\r\n        }, 1);",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "[document]",
+        "text": "html",
+        "attrs": {}
+    },
+    {
+        "tag": "title",
+        "text": "COVID-19 Drive Thru Wait Times",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if lte IE 9]>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/_catalogs/masterpage/shainternet/css/belowie10.css\"/>\n<![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if lt IE 10]>\r\n            <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\r\n            <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\r\n            <![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"require.js\", \"\\u002f_layouts\\u002f15\\u002frequire.js?rev=4UhLIF\\u00252FezOvmGnh\\u00252Fs0LLpA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"strings.js\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fstrings.js?rev=k\\u00252FSaOdWtcHDDvsb\\u00252FUFykOA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.res.resx\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fsp.res.js?rev=MbB92HT8biYuFa\\u00252B1vTMilA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.runtime.js\", \"\\u002f_layouts\\u002f15\\u002fsp.runtime.js?rev=0vSivOGicHXjEyREoMQrSA\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.runtime.js\", \"sp.res.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.js\", \"\\u002f_layouts\\u002f15\\u002fsp.js?rev=O\\u00252BnTsKwlFM\\u00252FW9NWmGe56Iw\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.js\", \"sp.runtime.js\");RegisterSodDep(\"sp.js\", \"sp.ui.dialog.js\");RegisterSodDep(\"sp.js\", \"sp.res.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.init.js\", \"\\u002f_layouts\\u002f15\\u002fsp.init.js?rev=c4C50Gyrm58SZF9vCzhUCg\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.ui.dialog.js\", \"\\u002f_layouts\\u002f15\\u002fsp.ui.dialog.js?rev=ZFSgZlXgmaObMBUul6tlpg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.ui.dialog.js\", \"sp.init.js\");RegisterSodDep(\"sp.ui.dialog.js\", \"sp.res.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"core.js\", \"\\u002f_layouts\\u002f15\\u002fcore.js?rev=hO7xPurla2brWEodg78jTw\\u00253D\\u00253DTAG0\");RegisterSodDep(\"core.js\", \"strings.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"menu.js\", \"\\u002f_layouts\\u002f15\\u002fmenu.js?rev=TXz5FomObD7fh9zg79nq7A\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"mQuery.js\", \"\\u002f_layouts\\u002f15\\u002fmquery.js?rev=u2NznOZ8V0uyd0BEcUcjXA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"callout.js\", \"\\u002f_layouts\\u002f15\\u002fcallout.js?rev=JfcDNpQr8vQGmQAP2wUQmQ\\u00253D\\u00253DTAG0\");RegisterSodDep(\"callout.js\", \"strings.js\");RegisterSodDep(\"callout.js\", \"mQuery.js\");RegisterSodDep(\"callout.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.core.js\", \"\\u002f_layouts\\u002f15\\u002fsp.core.js?rev=yoVh0k6VK0\\u00252BRLVT8EuQakQ\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.core.js\", \"strings.js\");RegisterSodDep(\"sp.core.js\", \"sp.init.js\");RegisterSodDep(\"sp.core.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sharedhovercard.strings.js\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fsharedhovercard.strings.js?rev=sLsS\\u00252FNPqFzOSO42e3s6lgw\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sharedhovercard.js\", \"\\u002f_layouts\\u002f15\\u002fsharedhovercard.js?rev=uB89up9szoXj8bAMKPkPSg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sharedhovercard.js\", \"sharedhovercard.strings.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"clienttemplates.js\", \"\\u002f_layouts\\u002f15\\u002fclienttemplates.js?rev=pwX892gBmM\\u00252FTAkwM6KpX5Q\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sharing.js\", \"\\u002f_layouts\\u002f15\\u002fsharing.js?rev=9\\u00252FwgPOrW1zeYi5BAz53HTA\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sharing.js\", \"strings.js\");RegisterSodDep(\"sharing.js\", \"mQuery.js\");RegisterSodDep(\"sharing.js\", \"clienttemplates.js\");RegisterSodDep(\"sharing.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"suitelinks.js\", \"\\u002f_layouts\\u002f15\\u002fsuitelinks.js?rev=eMrrG\\u00252FhpsNDdgkNFFjHyEg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"suitelinks.js\", \"strings.js\");RegisterSodDep(\"suitelinks.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"userprofile\", \"\\u002f_layouts\\u002f15\\u002fsp.userprofiles.js?rev=cx6U8sP\\u00252ByP0OFLjk6ekyIg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"userprofile\", \"sp.runtime.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"followingcommon.js\", \"\\u002f_layouts\\u002f15\\u002ffollowingcommon.js?rev=qyMhHtVfcGQZxz7gjR2zGg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"followingcommon.js\", \"strings.js\");RegisterSodDep(\"followingcommon.js\", \"sp.js\");RegisterSodDep(\"followingcommon.js\", \"userprofile\");RegisterSodDep(\"followingcommon.js\", \"core.js\");RegisterSodDep(\"followingcommon.js\", \"mQuery.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"profilebrowserscriptres.resx\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.ui.mysitecommon.js\", \"\\u002f_layouts\\u002f15\\u002fsp.ui.mysitecommon.js?rev=CMQcw7aRmUvo\\u00252FkgwV4dBwQ\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"sp.init.js\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"sp.runtime.js\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"userprofile\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"profilebrowserscriptres.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"browserScript\", \"\\u002f_layouts\\u002f15\\u002fnon_ie.js?rev=7Lc11MBnN9oUhqQYECxpPw\\u00253D\\u00253DTAG0\");RegisterSodDep(\"browserScript\", \"strings.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"inplview\", \"\\u002f_layouts\\u002f15\\u002finplview.js?rev=FRjLFRWCQ169rtrz9j5NWA\\u00253D\\u00253DTAG0\");RegisterSodDep(\"inplview\", \"strings.js\");RegisterSodDep(\"inplview\", \"core.js\");RegisterSodDep(\"inplview\", \"clienttemplates.js\");RegisterSodDep(\"inplview\", \"sp.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "head",
+        "text": "Google Tag Manager",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\tnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\n\t\tj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n\t\t'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n\t\t})(window,document,'script','dataLayer','GTM-5DXQW4Z');",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "End Google Tag Manager",
+        "attrs": {}
+    },
+    {
+        "tag": "body",
+        "text": "Google Tag Manager (noscript)",
+        "attrs": {
+            "onhashchange": "if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"
+        }
+    },
+    {
+        "tag": "body",
+        "text": "End Google Tag Manager (noscript)",
+        "attrs": {
+            "onhashchange": "if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\nvar MSOWebPartPageFormName = 'aspnetForm';\nvar g_presenceEnabled = true;\nvar g_wsaEnabled = false;\n\nvar g_correlationId = '2964a79f-5b59-80a7-fb8e-3c1f62997b16';\nvar g_wsaQoSEnabled = false;\nvar g_wsaQoSDataPoints = [];\nvar g_wsaRUMEnabled = false;\nvar g_wsaLCID = 1033;\nvar g_wsaListTemplateId = 850;\nvar g_wsaSiteTemplateId = 'CMSPUBLISHING#0';\nvar _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: \"\\u002fnews\\u002fservice-alerts-emergency-events\", webAbsoluteUrl: \"https:\\u002f\\u002fwww.saskhealthauthority.ca\\u002fnews\\u002fservice-alerts-emergency-events\", siteAbsoluteUrl: \"https:\\u002f\\u002fwww.saskhealthauthority.ca\", serverRequestPath: \"\\u002fnews\\u002fservice-alerts-emergency-events\\u002fPages\\u002fCOVID-19-Drive-Thru-Wait-Times.aspx\", layoutsUrl: \"_layouts\\u002f15\", webTitle: \"Service Alerts and Emergency Events\", webTemplate: \"39\", tenantAppVersion: \"0\", isAppWeb: false, Has2019Era: true, webLogoUrl: \"_layouts\\u002f15\\u002fimages\\u002fsiteicon.png\", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: \"en-US\", currentCultureName: \"en-US\", clientServerTimeDelta: new Date(\"2021-02-02T18:51:22.4290322Z\") - new Date(), updateFormDigestPageLoaded: new Date(\"2021-02-02T18:51:22.4290322Z\"), siteClientTag: \"188$$16.0.4834.1000\", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196705},pageListId:\"{48d9b89a-d0a5-4dfb-868a-c62002e99fcf}\",pageItemId:15, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: \"\\u002f\", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69473024,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()\r\n{\r\n    if(typeof(window.SP) == \"undefined\") window.SP = {};\r\n    if(typeof(window.SP.YammerSwitch) == \"undefined\") window.SP.YammerSwitch = {};\r\n\r\n    var ysObj = window.SP.YammerSwitch;\r\n    ysObj.IsEnabled = false;\r\n    ysObj.TargetYammerHostName = \"www.yammer.com\";\r\n} )(); //]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\n(function(){\r\n\r\n        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {\r\n            return;\r\n        }\r\n        _spBodyOnLoadFunctions.push(function() {\r\n            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });\r\n        });\r\n    })();(function(){\r\n\r\n        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {\r\n            return;\r\n        }\r\n        _spBodyOnLoadFunctions.push(function() {\r\n            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });\r\n        });\r\n    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Turn on more accessible mode",
+        "attrs": {
+            "id": "linkTurnOnAcc",
+            "href": "#",
+            "class": [
+                "ms-accessible",
+                "ms-acc-button"
+            ],
+            "onclick": "SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Turn off more accessible mode",
+        "attrs": {
+            "id": "linkTurnOffAcc",
+            "href": "#",
+            "class": [
+                "ms-accessible",
+                "ms-acc-button"
+            ],
+            "onclick": "SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sign In",
+        "attrs": {
+            "id": "ctl00_ctl58_ExplicitLogin",
+            "class": [
+                "ms-signInLink"
+            ],
+            "href": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/_layouts/15/Authenticate.aspx?Source=%2Fnews%2Fservice%2Dalerts%2Demergency%2Devents%2FPages%2FCOVID%2D19%2DDrive%2DThru%2DWait%2DTimes%2Easpx",
+            "style": "display:inline-block;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Medical Staff",
+        "attrs": {
+            "target": "_self",
+            "href": "https://www.saskhealthauthority.ca/medical-staff/Pages/Home.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "|",
+        "attrs": {
+            "class": [
+                "text-right",
+                "toprightlinks"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "target": "_self",
+            "href": "https://www.saskhealthauthority.ca/pages/Contacts.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Healthy People, Healthy Saskatchewan.",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Healthy People,",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Healthy Saskatchewan.",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Organization",
+        "attrs": {
+            "class": [
+                "dropdown-toggle"
+            ],
+            "data-toggle": "dropdown",
+            "href": "/about"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Organization Home",
+        "attrs": {
+            "href": "/about"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Governance",
+        "attrs": {
+            "href": "/about/pages/governance.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Leadership & Structure",
+        "attrs": {
+            "href": "/about/Leadership-and-Structure/Pages/Home.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Brand / Logo",
+        "attrs": {
+            "href": "/about/Pages/Brand-Logo.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Publications and Reports",
+        "attrs": {
+            "href": "/about/Pages/Publications-and-Reports.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Strategic Direction",
+        "attrs": {
+            "href": "/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Commitment to Safety",
+        "attrs": {
+            "href": "/about/Pages/Safety-Charter.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Commitment to Truth and Reconciliation",
+        "attrs": {
+            "href": "/about/Pages/Truth-and-Reconciliation.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News",
+        "attrs": {
+            "class": [
+                "dropdown-toggle"
+            ],
+            "data-toggle": "dropdown",
+            "href": "/news"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News and Stories",
+        "attrs": {
+            "href": "/news/Pages/Home.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Health Alerts",
+        "attrs": {
+            "href": "/news/public-health-alerts/Pages/default.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Service Alerts",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events/Pages/service-alerts.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Emergency Events",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events/Pages/Emergency-Events.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Media Relations",
+        "attrs": {
+            "href": "/news/Pages/Media-Relations.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Facilities & Services",
+        "attrs": {
+            "href": "/Services-Locations"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Careers",
+        "attrs": {
+            "href": "/Careers"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Donate",
+        "attrs": {
+            "href": "/Pages/Donate.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Content area",
+        "attrs": {
+            "class": [
+                "container-fluid"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Breadcrumbs Area",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/"
+        }
+    },
+    {
+        "tag": "span",
+        "text": ">",
+        "attrs": {
+            "class": [
+                "pathsep"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News",
+        "attrs": {
+            "href": "/news"
+        }
+    },
+    {
+        "tag": "span",
+        "text": ">",
+        "attrs": {
+            "class": [
+                "pathsep"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Service Alerts and Emergency Events",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events"
+        }
+    },
+    {
+        "tag": "span",
+        "text": ">",
+        "attrs": {
+            "class": [
+                "pathsep"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Drive Thru Wait Times",
+        "attrs": {
+            "id": "ctl00_SHAPlaceHolderBreadCrumbs_ctl00_ContentMap_ctl08_HyperLink1",
+            "href": "/news/service-alerts-emergency-events/Pages/COVID-19-Drive-Thru-Wait-Times.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Breadcrumbs Area Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Global Announcements Area",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Global Announcements Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Notification bar",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Notification bar Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Body Area",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Page Top Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl00_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "\u200b\u200b\u200b\u200b\u200bCOVID-19 Drive-Thru Testing Wait Times\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Right Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl01_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "View COVID-19 Drive-Thru Testing Wait Ti\u200bmes\u200b\u200b",
+        "attrs": {
+            "href": "https://oapp.saskatoonhealthregion.ca/apex/f?p=163:1:4078213404540",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "These times are updated 3-4 times per day depending on site hours of operation.",
+        "attrs": {
+            "style": "text-align:center;"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Wait times are approximate and can change very quickly.",
+        "attrs": {
+            "style": "text-align:center;"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Page Middle Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl02_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "\u200bAbout Drive-Thru Testing",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Testing is universally available to anyone who requests it, regardless of whether they have symptoms or not.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The drive-thru testing sites will not require a referral from HealthLine 811 or a family physician or nurse practitioner; however, a valid health card and/or identification will be requested for each person getting tested.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "These drive-thru testing sites are one of the ways the SHA is expanding the options for people to get tested for COVID-19 to reach the testing targets of 4000 tests performed per day.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Collectively, Regina and Saskatoon account for approximately half of our provincial testing each day.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Locations and Hours of Operation",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Regina Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "International Trade Centre at Evraz Place - Hall C",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "1700 Elphinstone Street",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Regina Drive-Thru Testing Site\u00a0Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/sha-evraz-testing-map-20201126.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Open every day 11:30 a.m. - 7:00 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Saskatoon Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "3630 Thatcher Ave",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Saskatoon Drive-Thru Testing Site Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/saskatoontesting_20200904.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Weekdays 12:00 p.m. - 7:00 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Saturdays and Sundays 8:30 a.m. - 4:00 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Yorkton Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "276 Myrtle Ave",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Yorkton Drive-Thru Testing Site Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/yorkton-dt-testing-poster-20201106.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Open every day 10:30 a.m. - 3:30 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Prince Albert Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "The Cone Shop Car Wash, 890 6th Ave E",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Open every day 8:30 a.m. - 4 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Know Before You Go",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The drive-thru sites will also be first come, first served so it is likely that anyone wanting to get tested can expect some wait times.\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please bring your valid health card/identification\u00a0and be prepared to answer some personal health questions",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please note there are no public washrooms available at the drive-thru test sites.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please wear a mask while at the site.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please pay attention to our staff and follow all signage at the sites.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please be respectful of others' privacy - taking photos and video is discouraged while waiting for or during testing",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "\u200bFor more information about testing, self-isolation and test results, please read",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "What You Need to Know About Getting Tested for COVID-19",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events/covid-19/clinical-practice-resources/Documents/Primary%20Health%20Care/CV-19-H0018-What-You-Need-to-Know-About-Getting-Tested-for-COVID-19.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "li",
+        "text": ". Additional testing information can be found on the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Government of Saskatchewan COVID-19 site.\u200b",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/testing-information#drive-thru-testing-sites",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "The drive-thru wait times are updated three to four times a day depending on the site hours of operation. Wait times are approximate and can change very quickly.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 1 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl03_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 2 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl04_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 3 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl05_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 4 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl06_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 5 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl07_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Page Bottom Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl08_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Body Area ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Unused Content Place Holders",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Unused Content Place Holders Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Content area Ends",
+        "attrs": {
+            "class": [
+                "container-fluid"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Footer Area",
+        "attrs": {
+            "id": "s4-bodyContainer"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Terms of Use / Privacy",
+        "attrs": {
+            "href": "/pages/Terms-Of-Use.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "|",
+        "attrs": {
+            "class": [
+                "text-center",
+                "footerlinks"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "/pages/Contacts.aspx"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "|",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Sign In",
+        "attrs": {
+            "id": "ctl00_ctl63_ExplicitLogin",
+            "class": [
+                "ms-signInLink"
+            ],
+            "href": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/_layouts/15/Authenticate.aspx?Source=%2Fnews%2Fservice%2Dalerts%2Demergency%2Devents%2FPages%2FCOVID%2D19%2DDrive%2DThru%2DWait%2DTimes%2Easpx",
+            "style": "display:inline-block;"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Help us improve this site:",
+        "attrs": {
+            "class": [
+                "feedbackbtn"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Share your feedback.",
+        "attrs": {
+            "href": "https://apps.saskhealthauthority.ca/shafeedback/",
+            "id": "feedback"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "\u00a9 Saskatchewan Health Authority",
+        "attrs": {
+            "class": [
+                "text-center"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "2021",
+        "attrs": {
+            "id": "ctl00_lblYear"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Footer Area Ends",
+        "attrs": {
+            "id": "s4-bodyContainer"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\n        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];\r\n        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||\r\n            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))\r\n        {\r\n            formDigestElement.value = '0x90FDD56E040B9BBF735902FB1D5C7D8E40F251BFFFC96CF62AC4E9C279BD2BDF4762D71FD00BA7DDD0C988B78495A9322D7E82E3F2DA306AFBD30E7BC0E117B0,02 Feb 2021 18:51:22 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();\r\n        }\r\n        //]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\nvar _spFormDigestRefreshInterval = 1440000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;\r\nfunction _RegisterWebPartPageCUI()\r\n{\r\n    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: \"{48d9b89a-d0a5-4dfb-868a-c62002e99fcf}\",itemId: 15,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: \"\\u002fnews\\u002fservice-alerts-emergency-events\\u002fPages\",itemPermissions:{High:16,Low:196705}};\r\n    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);\r\n    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();\r\n    var hid;\r\n    hid = document.getElementById(\"_wpSelected\");\r\n    if (hid != null)\r\n    {\r\n        var wpid = hid.value;\r\n        if (wpid.length > 0)\r\n        {\r\n            var zc = document.getElementById(wpid);\r\n            if (zc != null)\r\n                wpcomp.selectWebPart(zc, false);\r\n        }\r\n    }\r\n    hid = document.getElementById(\"_wzSelected\");\r\n    if (hid != null)\r\n    {\r\n        var wzid = hid.value;\r\n        if (wzid.length > 0)\r\n        {\r\n            wpcomp.selectWebPartZone(null, wzid);\r\n        }\r\n    }\r\n};\r\nfunction __RegisterWebPartPageCUI() {\r\nExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, \"sp.ribbon.js\");}\r\n_spBodyOnLoadFunctionNames.push(\"__RegisterWebPartPageCUI\");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = \"DeltaPlaceHolderMain\";\r\nvar g_clientIdDeltaPlaceHolderUtilityContent = \"DeltaPlaceHolderUtilityContent\";\r\n//]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "body",
+        "text": "put all your other scripts at the end",
+        "attrs": {
+            "onhashchange": "if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"
+        }
+    },
+    {
+        "tag": "[document]",
+        "text": "html",
+        "attrs": {}
+    },
+    {
+        "tag": "title",
+        "text": "COVID-19 Drive Thru Wait Times",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if lte IE 9]>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/_catalogs/masterpage/shainternet/css/belowie10.css\"/>\n<![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "[if lt IE 10]>\r\n            <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\r\n            <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\r\n            <![endif]",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"require.js\", \"\\u002f_layouts\\u002f15\\u002frequire.js?rev=4UhLIF\\u00252FezOvmGnh\\u00252Fs0LLpA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"strings.js\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fstrings.js?rev=k\\u00252FSaOdWtcHDDvsb\\u00252FUFykOA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.res.resx\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fsp.res.js?rev=MbB92HT8biYuFa\\u00252B1vTMilA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.runtime.js\", \"\\u002f_layouts\\u002f15\\u002fsp.runtime.js?rev=0vSivOGicHXjEyREoMQrSA\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.runtime.js\", \"sp.res.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.js\", \"\\u002f_layouts\\u002f15\\u002fsp.js?rev=O\\u00252BnTsKwlFM\\u00252FW9NWmGe56Iw\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.js\", \"sp.runtime.js\");RegisterSodDep(\"sp.js\", \"sp.ui.dialog.js\");RegisterSodDep(\"sp.js\", \"sp.res.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.init.js\", \"\\u002f_layouts\\u002f15\\u002fsp.init.js?rev=c4C50Gyrm58SZF9vCzhUCg\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.ui.dialog.js\", \"\\u002f_layouts\\u002f15\\u002fsp.ui.dialog.js?rev=ZFSgZlXgmaObMBUul6tlpg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.ui.dialog.js\", \"sp.init.js\");RegisterSodDep(\"sp.ui.dialog.js\", \"sp.res.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"core.js\", \"\\u002f_layouts\\u002f15\\u002fcore.js?rev=hO7xPurla2brWEodg78jTw\\u00253D\\u00253DTAG0\");RegisterSodDep(\"core.js\", \"strings.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"menu.js\", \"\\u002f_layouts\\u002f15\\u002fmenu.js?rev=TXz5FomObD7fh9zg79nq7A\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"mQuery.js\", \"\\u002f_layouts\\u002f15\\u002fmquery.js?rev=u2NznOZ8V0uyd0BEcUcjXA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"callout.js\", \"\\u002f_layouts\\u002f15\\u002fcallout.js?rev=JfcDNpQr8vQGmQAP2wUQmQ\\u00253D\\u00253DTAG0\");RegisterSodDep(\"callout.js\", \"strings.js\");RegisterSodDep(\"callout.js\", \"mQuery.js\");RegisterSodDep(\"callout.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.core.js\", \"\\u002f_layouts\\u002f15\\u002fsp.core.js?rev=yoVh0k6VK0\\u00252BRLVT8EuQakQ\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.core.js\", \"strings.js\");RegisterSodDep(\"sp.core.js\", \"sp.init.js\");RegisterSodDep(\"sp.core.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sharedhovercard.strings.js\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fsharedhovercard.strings.js?rev=sLsS\\u00252FNPqFzOSO42e3s6lgw\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sharedhovercard.js\", \"\\u002f_layouts\\u002f15\\u002fsharedhovercard.js?rev=uB89up9szoXj8bAMKPkPSg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sharedhovercard.js\", \"sharedhovercard.strings.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"clienttemplates.js\", \"\\u002f_layouts\\u002f15\\u002fclienttemplates.js?rev=pwX892gBmM\\u00252FTAkwM6KpX5Q\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sharing.js\", \"\\u002f_layouts\\u002f15\\u002fsharing.js?rev=9\\u00252FwgPOrW1zeYi5BAz53HTA\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sharing.js\", \"strings.js\");RegisterSodDep(\"sharing.js\", \"mQuery.js\");RegisterSodDep(\"sharing.js\", \"clienttemplates.js\");RegisterSodDep(\"sharing.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"suitelinks.js\", \"\\u002f_layouts\\u002f15\\u002fsuitelinks.js?rev=eMrrG\\u00252FhpsNDdgkNFFjHyEg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"suitelinks.js\", \"strings.js\");RegisterSodDep(\"suitelinks.js\", \"core.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"userprofile\", \"\\u002f_layouts\\u002f15\\u002fsp.userprofiles.js?rev=cx6U8sP\\u00252ByP0OFLjk6ekyIg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"userprofile\", \"sp.runtime.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"followingcommon.js\", \"\\u002f_layouts\\u002f15\\u002ffollowingcommon.js?rev=qyMhHtVfcGQZxz7gjR2zGg\\u00253D\\u00253DTAG0\");RegisterSodDep(\"followingcommon.js\", \"strings.js\");RegisterSodDep(\"followingcommon.js\", \"sp.js\");RegisterSodDep(\"followingcommon.js\", \"userprofile\");RegisterSodDep(\"followingcommon.js\", \"core.js\");RegisterSodDep(\"followingcommon.js\", \"mQuery.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"profilebrowserscriptres.resx\", \"\\u002f_layouts\\u002f15\\u002f1033\\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\\u00253D\\u00253DTAG0\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"sp.ui.mysitecommon.js\", \"\\u002f_layouts\\u002f15\\u002fsp.ui.mysitecommon.js?rev=CMQcw7aRmUvo\\u00252FkgwV4dBwQ\\u00253D\\u00253DTAG0\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"sp.init.js\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"sp.runtime.js\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"userprofile\");RegisterSodDep(\"sp.ui.mysitecommon.js\", \"profilebrowserscriptres.resx\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"browserScript\", \"\\u002f_layouts\\u002f15\\u002fnon_ie.js?rev=7Lc11MBnN9oUhqQYECxpPw\\u00253D\\u00253DTAG0\");RegisterSodDep(\"browserScript\", \"strings.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "RegisterSod(\"inplview\", \"\\u002f_layouts\\u002f15\\u002finplview.js?rev=FRjLFRWCQ169rtrz9j5NWA\\u00253D\\u00253DTAG0\");RegisterSodDep(\"inplview\", \"strings.js\");RegisterSodDep(\"inplview\", \"core.js\");RegisterSodDep(\"inplview\", \"clienttemplates.js\");RegisterSodDep(\"inplview\", \"sp.js\");",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "head",
+        "text": "Google Tag Manager",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\tnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\n\t\tj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n\t\t'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n\t\t})(window,document,'script','dataLayer','GTM-5DXQW4Z');",
+        "attrs": {}
+    },
+    {
+        "tag": "head",
+        "text": "End Google Tag Manager",
+        "attrs": {}
+    },
+    {
+        "tag": "body",
+        "text": "Google Tag Manager (noscript)",
+        "attrs": {
+            "onhashchange": "if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"
+        }
+    },
+    {
+        "tag": "body",
+        "text": "End Google Tag Manager (noscript)",
+        "attrs": {
+            "onhashchange": "if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\nvar MSOWebPartPageFormName = 'aspnetForm';\nvar g_presenceEnabled = true;\nvar g_wsaEnabled = false;\n\nvar g_correlationId = '3964a79f-6b44-80a7-fb8e-389498f4815e';\nvar g_wsaQoSEnabled = false;\nvar g_wsaQoSDataPoints = [];\nvar g_wsaRUMEnabled = false;\nvar g_wsaLCID = 1033;\nvar g_wsaListTemplateId = 850;\nvar g_wsaSiteTemplateId = 'CMSPUBLISHING#0';\nvar _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: \"\\u002fnews\\u002fservice-alerts-emergency-events\", webAbsoluteUrl: \"https:\\u002f\\u002fwww.saskhealthauthority.ca\\u002fnews\\u002fservice-alerts-emergency-events\", siteAbsoluteUrl: \"https:\\u002f\\u002fwww.saskhealthauthority.ca\", serverRequestPath: \"\\u002fnews\\u002fservice-alerts-emergency-events\\u002fPages\\u002fCOVID-19-Drive-Thru-Wait-Times.aspx\", layoutsUrl: \"_layouts\\u002f15\", webTitle: \"Service Alerts and Emergency Events\", webTemplate: \"39\", tenantAppVersion: \"0\", isAppWeb: false, Has2019Era: true, webLogoUrl: \"_layouts\\u002f15\\u002fimages\\u002fsiteicon.png\", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: \"en-US\", currentCultureName: \"en-US\", clientServerTimeDelta: new Date(\"2021-02-02T18:52:27.6256103Z\") - new Date(), updateFormDigestPageLoaded: new Date(\"2021-02-02T18:52:27.6256103Z\"), siteClientTag: \"188$$16.0.4834.1000\", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196705},pageListId:\"{48d9b89a-d0a5-4dfb-868a-c62002e99fcf}\",pageItemId:15, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: \"\\u002f\", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69473024,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()\r\n{\r\n    if(typeof(window.SP) == \"undefined\") window.SP = {};\r\n    if(typeof(window.SP.YammerSwitch) == \"undefined\") window.SP.YammerSwitch = {};\r\n\r\n    var ysObj = window.SP.YammerSwitch;\r\n    ysObj.IsEnabled = false;\r\n    ysObj.TargetYammerHostName = \"www.yammer.com\";\r\n} )(); //]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\n(function(){\r\n\r\n        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {\r\n            return;\r\n        }\r\n        _spBodyOnLoadFunctions.push(function() {\r\n            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });\r\n        });\r\n    })();(function(){\r\n\r\n        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {\r\n            return;\r\n        }\r\n        _spBodyOnLoadFunctions.push(function() {\r\n            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });\r\n        });\r\n    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Turn on more accessible mode",
+        "attrs": {
+            "id": "linkTurnOnAcc",
+            "href": "#",
+            "class": [
+                "ms-accessible",
+                "ms-acc-button"
+            ],
+            "onclick": "SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Turn off more accessible mode",
+        "attrs": {
+            "id": "linkTurnOffAcc",
+            "href": "#",
+            "class": [
+                "ms-accessible",
+                "ms-acc-button"
+            ],
+            "onclick": "SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sign In",
+        "attrs": {
+            "id": "ctl00_ctl58_ExplicitLogin",
+            "class": [
+                "ms-signInLink"
+            ],
+            "href": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/_layouts/15/Authenticate.aspx?Source=%2Fnews%2Fservice%2Dalerts%2Demergency%2Devents%2FPages%2FCOVID%2D19%2DDrive%2DThru%2DWait%2DTimes%2Easpx",
+            "style": "display:inline-block;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Medical Staff",
+        "attrs": {
+            "target": "_self",
+            "href": "https://www.saskhealthauthority.ca/medical-staff/Pages/Home.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "|",
+        "attrs": {
+            "class": [
+                "text-right",
+                "toprightlinks"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "target": "_self",
+            "href": "https://www.saskhealthauthority.ca/pages/Contacts.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Healthy People, Healthy Saskatchewan.",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Healthy People,",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Healthy Saskatchewan.",
+        "attrs": {
+            "href": "https://www.saskhealthauthority.ca/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Organization",
+        "attrs": {
+            "class": [
+                "dropdown-toggle"
+            ],
+            "data-toggle": "dropdown",
+            "href": "/about"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Organization Home",
+        "attrs": {
+            "href": "/about"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Governance",
+        "attrs": {
+            "href": "/about/pages/governance.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Leadership & Structure",
+        "attrs": {
+            "href": "/about/Leadership-and-Structure/Pages/Home.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Brand / Logo",
+        "attrs": {
+            "href": "/about/Pages/Brand-Logo.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Publications and Reports",
+        "attrs": {
+            "href": "/about/Pages/Publications-and-Reports.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Strategic Direction",
+        "attrs": {
+            "href": "/about/Pages/Strategic-Direction.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Commitment to Safety",
+        "attrs": {
+            "href": "/about/Pages/Safety-Charter.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Our Commitment to Truth and Reconciliation",
+        "attrs": {
+            "href": "/about/Pages/Truth-and-Reconciliation.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News",
+        "attrs": {
+            "class": [
+                "dropdown-toggle"
+            ],
+            "data-toggle": "dropdown",
+            "href": "/news"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News and Stories",
+        "attrs": {
+            "href": "/news/Pages/Home.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Health Alerts",
+        "attrs": {
+            "href": "/news/public-health-alerts/Pages/default.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Service Alerts",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events/Pages/service-alerts.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Emergency Events",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events/Pages/Emergency-Events.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Media Relations",
+        "attrs": {
+            "href": "/news/Pages/Media-Relations.aspx"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Facilities & Services",
+        "attrs": {
+            "href": "/Services-Locations"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Careers",
+        "attrs": {
+            "href": "/Careers"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Donate",
+        "attrs": {
+            "href": "/Pages/Donate.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Content area",
+        "attrs": {
+            "class": [
+                "container-fluid"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Breadcrumbs Area",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/"
+        }
+    },
+    {
+        "tag": "span",
+        "text": ">",
+        "attrs": {
+            "class": [
+                "pathsep"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News",
+        "attrs": {
+            "href": "/news"
+        }
+    },
+    {
+        "tag": "span",
+        "text": ">",
+        "attrs": {
+            "class": [
+                "pathsep"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Service Alerts and Emergency Events",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events"
+        }
+    },
+    {
+        "tag": "span",
+        "text": ">",
+        "attrs": {
+            "class": [
+                "pathsep"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Drive Thru Wait Times",
+        "attrs": {
+            "id": "ctl00_SHAPlaceHolderBreadCrumbs_ctl00_ContentMap_ctl08_HyperLink1",
+            "href": "/news/service-alerts-emergency-events/Pages/COVID-19-Drive-Thru-Wait-Times.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Breadcrumbs Area Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Global Announcements Area",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Global Announcements Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Notification bar",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Notification bar Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Body Area",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Page Top Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl00_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "\u200b\u200b\u200b\u200b\u200bCOVID-19 Drive-Thru Testing Wait Times\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Right Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl01_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "View COVID-19 Drive-Thru Testing Wait Ti\u200bmes\u200b\u200b",
+        "attrs": {
+            "href": "https://oapp.saskatoonhealthregion.ca/apex/f?p=163:1:4078213404540",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "These times are updated 3-4 times per day depending on site hours of operation.",
+        "attrs": {
+            "style": "text-align:center;"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Wait times are approximate and can change very quickly.",
+        "attrs": {
+            "style": "text-align:center;"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Page Middle Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl02_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "\u200bAbout Drive-Thru Testing",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Testing is universally available to anyone who requests it, regardless of whether they have symptoms or not.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The drive-thru testing sites will not require a referral from HealthLine 811 or a family physician or nurse practitioner; however, a valid health card and/or identification will be requested for each person getting tested.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "These drive-thru testing sites are one of the ways the SHA is expanding the options for people to get tested for COVID-19 to reach the testing targets of 4000 tests performed per day.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Collectively, Regina and Saskatoon account for approximately half of our provincial testing each day.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Locations and Hours of Operation",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Regina Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "International Trade Centre at Evraz Place - Hall C",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "1700 Elphinstone Street",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Regina Drive-Thru Testing Site\u00a0Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/sha-evraz-testing-map-20201126.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Open every day 11:30 a.m. - 7:00 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Saskatoon Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "3630 Thatcher Ave",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Saskatoon Drive-Thru Testing Site Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/saskatoontesting_20200904.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Weekdays 12:00 p.m. - 7:00 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Saturdays and Sundays 8:30 a.m. - 4:00 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Yorkton Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "276 Myrtle Ave",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Yorkton Drive-Thru Testing Site Map",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/-/media/files/coronavirus/testing/yorkton-dt-testing-poster-20201106.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": "Open every day 10:30 a.m. - 3:30 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Prince Albert Drive-Thru Testing Site",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "The Cone Shop Car Wash, 890 6th Ave E",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Open every day 8:30 a.m. - 4 p.m.",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Know Before You Go",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "The drive-thru sites will also be first come, first served so it is likely that anyone wanting to get tested can expect some wait times.\u200b",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please bring your valid health card/identification\u00a0and be prepared to answer some personal health questions",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please note there are no public washrooms available at the drive-thru test sites.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please wear a mask while at the site.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please pay attention to our staff and follow all signage at the sites.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Please be respectful of others' privacy - taking photos and video is discouraged while waiting for or during testing",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "\u200bFor more information about testing, self-isolation and test results, please read",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "What You Need to Know About Getting Tested for COVID-19",
+        "attrs": {
+            "href": "/news/service-alerts-emergency-events/covid-19/clinical-practice-resources/Documents/Primary%20Health%20Care/CV-19-H0018-What-You-Need-to-Know-About-Getting-Tested-for-COVID-19.pdf",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "li",
+        "text": ". Additional testing information can be found on the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Government of Saskatchewan COVID-19 site.\u200b",
+        "attrs": {
+            "href": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/testing-information#drive-thru-testing-sites",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "The drive-thru wait times are updated three to four times a day depending on the site hours of operation. Wait times are approximate and can change very quickly.",
+        "attrs": {}
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 1 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl03_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 2 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl04_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 3 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl05_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 4 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl06_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Pillar 5 Column Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl07_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Page Bottom Content",
+        "attrs": {
+            "id": "ctl00_PlaceHolderMain_ctl08_label",
+            "style": "display:none"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Body Area ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Unused Content Place Holders",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Unused Content Place Holders Ends",
+        "attrs": {
+            "id": "content",
+            "class": [
+                "container"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Content area Ends",
+        "attrs": {
+            "class": [
+                "container-fluid"
+            ]
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Footer Area",
+        "attrs": {
+            "id": "s4-bodyContainer"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Terms of Use / Privacy",
+        "attrs": {
+            "href": "/pages/Terms-Of-Use.aspx"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "|",
+        "attrs": {
+            "class": [
+                "text-center",
+                "footerlinks"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "/pages/Contacts.aspx"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "|",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Sign In",
+        "attrs": {
+            "id": "ctl00_ctl63_ExplicitLogin",
+            "class": [
+                "ms-signInLink"
+            ],
+            "href": "https://www.saskhealthauthority.ca/news/service-alerts-emergency-events/_layouts/15/Authenticate.aspx?Source=%2Fnews%2Fservice%2Dalerts%2Demergency%2Devents%2FPages%2FCOVID%2D19%2DDrive%2DThru%2DWait%2DTimes%2Easpx",
+            "style": "display:inline-block;"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Help us improve this site:",
+        "attrs": {
+            "class": [
+                "feedbackbtn"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Share your feedback.",
+        "attrs": {
+            "href": "https://apps.saskhealthauthority.ca/shafeedback/",
+            "id": "feedback"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "\u00a9 Saskatchewan Health Authority",
+        "attrs": {
+            "class": [
+                "text-center"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "2021",
+        "attrs": {
+            "id": "ctl00_lblYear"
+        }
+    },
+    {
+        "tag": "div",
+        "text": "Footer Area Ends",
+        "attrs": {
+            "id": "s4-bodyContainer"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\n        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];\r\n        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||\r\n            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))\r\n        {\r\n            formDigestElement.value = '0x28EADC8EF8EF1B976E0B789F6381CE2D2E1BF6E0B3251816A05F37ACF2F07E4FB0D17463222066BE5BC87503A034B189D30D2666EA1544C0A9C7D8C9C7306FB8,02 Feb 2021 18:52:27 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();\r\n        }\r\n        //]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "script",
+        "text": "//<![CDATA[\r\nvar _spFormDigestRefreshInterval = 1440000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;\r\nfunction _RegisterWebPartPageCUI()\r\n{\r\n    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: \"{48d9b89a-d0a5-4dfb-868a-c62002e99fcf}\",itemId: 15,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: \"\\u002fnews\\u002fservice-alerts-emergency-events\\u002fPages\",itemPermissions:{High:16,Low:196705}};\r\n    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);\r\n    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();\r\n    var hid;\r\n    hid = document.getElementById(\"_wpSelected\");\r\n    if (hid != null)\r\n    {\r\n        var wpid = hid.value;\r\n        if (wpid.length > 0)\r\n        {\r\n            var zc = document.getElementById(wpid);\r\n            if (zc != null)\r\n                wpcomp.selectWebPart(zc, false);\r\n        }\r\n    }\r\n    hid = document.getElementById(\"_wzSelected\");\r\n    if (hid != null)\r\n    {\r\n        var wzid = hid.value;\r\n        if (wzid.length > 0)\r\n        {\r\n            wpcomp.selectWebPartZone(null, wzid);\r\n        }\r\n    }\r\n};\r\nfunction __RegisterWebPartPageCUI() {\r\nExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, \"sp.ribbon.js\");}\r\n_spBodyOnLoadFunctionNames.push(\"__RegisterWebPartPageCUI\");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = \"DeltaPlaceHolderMain\";\r\nvar g_clientIdDeltaPlaceHolderUtilityContent = \"DeltaPlaceHolderUtilityContent\";\r\n//]]>",
+        "attrs": {
+            "type": "text/javascript"
+        }
+    },
+    {
+        "tag": "body",
+        "text": "put all your other scripts at the end",
+        "attrs": {
+            "onhashchange": "if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"
+        }
+    }
+]

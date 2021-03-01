@@ -1,0 +1,2985 @@
+[{
+        "URL": "https://www.hss.gov.nt.ca/en/hospitals-and-health-centres"
+    },
+    {
+        "tag": "[document]",
+        "text": "html",
+        "attrs": {}
+    },
+    {
+        "tag": "title",
+        "text": "Hospitals and Health Centres | Health and Social Services",
+        "attrs": {}
+    },
+    {
+        "tag": "style",
+        "text": ".highlighted{background-image:url('/sites/all/themes/gnwt_base_theme/images/curve.png');}\n.banner,.region-banner-full > .block{background-image:url('/sites/all/themes/gnwt_base_theme/images/banner-bg.png');}",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "(function(i,s,o,g,r,a,m){i[\"GoogleAnalyticsObject\"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,\"script\",\"https://www.google-analytics.com/analytics.js\",\"ga\");ga(\"create\", \"UA-34079699-1\", {\"cookieDomain\":\"auto\"});ga(\"set\", \"anonymizeIp\", true);ga(\"send\", \"pageview\");",
+        "attrs": {}
+    },
+    {
+        "tag": "script",
+        "text": "jQuery.extend(Drupal.settings, {\"basePath\":\"\\/\",\"pathPrefix\":\"en\\/\",\"ajaxPageState\":{\"theme\":\"gnwt_base_theme\",\"theme_token\":\"shD_FKxLlH5DC0dPEqKTJl8SM3R3pVxm5tJoLvyMVXU\",\"js\":{\"sites\\/all\\/modules\\/contrib\\/jquery_update\\/replace\\/jquery\\/1.11\\/jquery.min.js\":1,\"misc\\/jquery-extend-3.4.0.js\":1,\"misc\\/jquery-html-prefilter-3.5.0-backport.js\":1,\"misc\\/jquery.once.js\":1,\"misc\\/drupal.js\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/js\\/jquery.bgiframe.js\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/js\\/jquery.hoverIntent.js\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/js\\/superfish.js\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/js\\/nice_menus.js\":1,\"sites\\/all\\/modules\\/contrib\\/views_slideshow\\/js\\/views_slideshow.js\":1,\"sites\\/all\\/modules\\/contrib\\/admin_menu\\/admin_devel\\/admin_devel.js\":1,\"sites\\/all\\/modules\\/contrib\\/ctools\\/js\\/jump-menu.js\":1,\"sites\\/all\\/modules\\/contrib\\/toc_filter\\/toc_filter.js\":1,\"sites\\/all\\/libraries\\/colorbox\\/jquery.colorbox-min.js\":1,\"sites\\/all\\/modules\\/contrib\\/colorbox\\/js\\/colorbox.js\":1,\"sites\\/all\\/modules\\/contrib\\/colorbox\\/styles\\/default\\/colorbox_style.js\":1,\"sites\\/all\\/modules\\/sandbox\\/views_slideshow__cycle2\\/js\\/views_slideshow_cycle2.js\":1,\"sites\\/all\\/libraries\\/jquery.cycle2\\/jquery.cycle2.min.js\":1,\"sites\\/all\\/modules\\/contrib\\/google_analytics\\/googleanalytics.js\":1,\"0\":1,\"https:\\/\\/www.hss.gov.nt.ca\\/sites\\/all\\/libraries\\/readspeaker\\/ReadSpeaker.js?pids=embhl\":1,\"sites\\/all\\/modules\\/contrib\\/field_group\\/field_group.js\":1,\"sites\\/all\\/modules\\/contrib\\/extlink\\/js\\/extlink.js\":1,\"sites\\/all\\/libraries\\/jquery.cycle2\\/jquery.cycle2.swipe.min.js\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/js\\/any-resize-event.min.js\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/js\\/gnwt-core.js\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/js\\/jquery.browser.min.js\":1},\"css\":{\"modules\\/system\\/system.base.css\":1,\"modules\\/system\\/system.menus.css\":1,\"modules\\/system\\/system.messages.css\":1,\"modules\\/system\\/system.theme.css\":1,\"sites\\/all\\/modules\\/contrib\\/views_slideshow\\/views_slideshow.css\":1,\"sites\\/all\\/modules\\/contrib\\/date\\/date_api\\/date.css\":1,\"sites\\/all\\/modules\\/contrib\\/date\\/date_popup\\/themes\\/datepicker.1.7.css\":1,\"modules\\/field\\/theme\\/field.css\":1,\"modules\\/node\\/node.css\":1,\"modules\\/search\\/search.css\":1,\"sites\\/all\\/modules\\/contrib\\/toc_filter\\/toc_filter.css\":1,\"modules\\/user\\/user.css\":1,\"sites\\/all\\/modules\\/contrib\\/extlink\\/css\\/extlink.css\":1,\"sites\\/all\\/modules\\/contrib\\/views\\/css\\/views.css\":1,\"sites\\/all\\/modules\\/contrib\\/ckeditor\\/css\\/ckeditor.css\":1,\"sites\\/all\\/modules\\/contrib\\/media\\/modules\\/media_wysiwyg\\/css\\/media_wysiwyg.base.css\":1,\"sites\\/all\\/modules\\/contrib\\/colorbox\\/styles\\/default\\/colorbox_style.css\":1,\"sites\\/all\\/modules\\/contrib\\/ctools\\/css\\/ctools.css\":1,\"sites\\/all\\/modules\\/contrib\\/nice_menus\\/css\\/nice_menus.css\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/css\\/styles.css\":1,\"sites\\/all\\/modules\\/contrib\\/views_slideshow\\/views_slideshow_controls_text.css\":1,\"sites\\/all\\/modules\\/sandbox\\/views_slideshow__cycle2\\/views_slideshow_cycle2.css\":1,\"modules\\/locale\\/locale.css\":1,\"sites\\/all\\/themes\\/zen\\/system.base.css\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/system.menus.css\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/system.messages.css\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/system.theme.css\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/comment.css\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/node.css\":1,\"sites\\/all\\/themes\\/gnwt_base_theme\\/css\\/gnwt-core.css\":1,\"0\":1,\"1\":1}},\"colorbox\":{\"opacity\":\"0.85\",\"current\":\"{current} of {total}\",\"previous\":\"\\u00ab Prev\",\"next\":\"Next \\u00bb\",\"close\":\"Close\",\"maxWidth\":\"98%\",\"maxHeight\":\"98%\",\"fixed\":true,\"mobiledetect\":true,\"mobiledevicewidth\":\"480px\",\"specificPagesDefaultValue\":\"admin*\\nimagebrowser*\\nimg_assist*\\nimce*\\nnode\\/add\\/*\\nnode\\/*\\/edit\\nprint\\/*\\nprintpdf\\/*\\nsystem\\/ajax\\nsystem\\/ajax\\/*\"},\"toc_filter_smooth_scroll_duration\":\"\",\"better_exposed_filters\":{\"views\":{\"service_header\":{\"displays\":{\"block_1\":{\"filters\":[]},\"block\":{\"filters\":[]}}},\"position_contact_information\":{\"displays\":{\"block\":{\"filters\":[]}}},\"home_slider\":{\"displays\":{\"block\":{\"filters\":[]},\"block_1\":{\"filters\":[]},\"block_2\":{\"filters\":[]}}}}},\"nice_menus_options\":{\"delay\":800,\"speed\":\"slow\"},\"viewsSlideshow\":{\"home_slider-block_1\":{\"methods\":{\"goToSlide\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\",\"viewsSlideshowCycle\",\"viewsSlideshowCycle2\"],\"nextSlide\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\",\"viewsSlideshowCycle\",\"viewsSlideshowCycle2\"],\"pause\":[\"viewsSlideshowControls\",\"viewsSlideshowCycle\",\"viewsSlideshowCycle2\"],\"play\":[\"viewsSlideshowControls\",\"viewsSlideshowCycle\",\"viewsSlideshowCycle2\"],\"previousSlide\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\",\"viewsSlideshowCycle\",\"viewsSlideshowCycle2\"],\"transitionBegin\":[\"viewsSlideshowPager\",\"viewsSlideshowSlideCounter\"],\"transitionEnd\":[]},\"paused\":0}},\"viewsSlideshowPager\":{\"home_slider-block_1\":{\"bottom\":{\"type\":\"viewsSlideshowPagerFields\",\"master_pager\":\"0\"}}},\"viewsSlideshowPagerFields\":{\"home_slider-block_1\":{\"bottom\":{\"activatePauseOnHover\":0}}},\"viewsSlideshowControls\":{\"home_slider-block_1\":{\"bottom\":{\"type\":\"viewsSlideshowControlsText\"}}},\"viewsSlideshowCycle2\":{\"#views_slideshow_cycle2_main_home_slider-block_1\":{\"num_divs\":5,\"id_prefix\":\"#views_slideshow_cycle2_main_\",\"div_prefix\":\"#views_slideshow_cycle2_div_\",\"vss_id\":\"home_slider-block_1\",\"effect\":\"fade\",\"transition_advanced\":0,\"timeout\":5000,\"speed\":700,\"delay\":0,\"sync\":1,\"random\":0,\"pause\":1,\"pause_on_click\":0,\"action_advanced\":0,\"start_paused\":null,\"remember_slide\":0,\"remember_slide_days\":1,\"pause_in_middle\":0,\"pause_when_hidden\":0,\"pause_when_hidden_type\":\"full\",\"amount_allowed_visible\":\"\",\"nowrap\":0,\"fixed_height\":1,\"items_per_slide\":1,\"image_loader\":false,\"swipe\":1,\"cleartype\":true,\"cleartypenobg\":false,\"advanced_options\":\"{}\",\"effect_options\":{\"tile\":{\"tile-vertical\":\"true\",\"tile-count\":\"\",\"tile-delay\":\"\"}}}},\"googleanalytics\":{\"trackOutbound\":1,\"trackMailto\":1,\"trackDownload\":1,\"trackDownloadExtensions\":\"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip\",\"trackColorbox\":1},\"urlIsAjaxTrusted\":{\"\\/en\\/hospitals-and-health-centres\":true},\"field_group\":{\"div\":\"full\"},\"extlink\":{\"extTarget\":\"_blank\",\"extClass\":\"ext\",\"extLabel\":\"(link is external)\",\"extImgClass\":0,\"extIconPlacement\":\"append\",\"extSubdomains\":1,\"extExclude\":\".*\\\\.gov\\\\.nt\\\\.ca\",\"extInclude\":\"\",\"extCssExclude\":\"\",\"extCssExplicit\":\"\",\"extAlert\":0,\"extAlertText\":\"This link will take you to an external web site.\",\"mailtoClass\":\"mailto\",\"mailtoLabel\":\"(link sends e-mail)\",\"extUseFontAwesome\":false}});",
+        "attrs": {}
+    },
+    {
+        "tag": "meta",
+        "text": "[if lt IE 9]>\n        <script src=\"/sites/all/themes/zen/js/html5shiv.min.js\"></script>\n        <![endif]",
+        "attrs": {
+            "charset": "utf-8"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Jump to navigation",
+        "attrs": {
+            "href": "#main-menu",
+            "class": [
+                "skip-link",
+                "visually-hidden",
+                "visually-hidden--focusable"
+            ],
+            "id": "skip-link"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "www.gov.nt.ca",
+        "attrs": {
+            "href": "http://www.gov.nt.ca",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Departments",
+        "attrs": {
+            "href": "http://www.gov.nt.ca/node/3",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "/en/content/contact-us",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Aboriginal Languages",
+        "attrs": {
+            "href": "/en/aboriginal-resources",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "English",
+        "attrs": {
+            "href": "/en/hospitals-and-health-centres",
+            "class": [
+                "language-link",
+                "active"
+            ],
+            "xml:lang": "en",
+            "title": "Health Centres / Hospitals"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fran\u00e7ais",
+        "attrs": {
+            "href": "/fr/hopitaux-centres-de-sante",
+            "class": [
+                "language-link"
+            ],
+            "xml:lang": "fr",
+            "title": "Centres de sant\u00e9 et h\u00f4pitaux"
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Enter the terms you wish to search for.",
+        "attrs": {
+            "class": [
+                "element-invisible"
+            ],
+            "for": "edit-search-keys"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Health and Social Services",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Menu",
+        "attrs": {
+            "href": "#",
+            "class": [
+                "mobile-menu-button"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Search",
+        "attrs": {
+            "href": "#",
+            "class": [
+                "mobile-menu-button"
+            ]
+        }
+    },
+    {
+        "tag": "label",
+        "text": "Enter the terms you wish to search for.",
+        "attrs": {
+            "class": [
+                "element-invisible"
+            ],
+            "for": "edit-search-keys--2"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "English",
+        "attrs": {
+            "href": "/en/hospitals-and-health-centres",
+            "class": [
+                "language-link",
+                "active"
+            ],
+            "xml:lang": "en",
+            "title": "Health Centres / Hospitals"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fran\u00e7ais",
+        "attrs": {
+            "href": "/fr/hopitaux-centres-de-sante",
+            "class": [
+                "language-link"
+            ],
+            "xml:lang": "fr",
+            "title": "Centres de sant\u00e9 et h\u00f4pitaux"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/en",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Topics",
+        "attrs": {
+            "href": "/en/topics",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Resources",
+        "attrs": {
+            "href": "/en/resources",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Jobs",
+        "attrs": {
+            "href": "http://careers.hr.gov.nt.ca/en/search/job",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "About Us",
+        "attrs": {
+            "href": "/en/about-us",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Newsroom",
+        "attrs": {
+            "href": "/en/newsroom",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "HSS Professionals (Staff Only)",
+        "attrs": {
+            "href": "https://www.hss.gov.nt.ca/professionals/en",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "www.gov.nt.ca",
+        "attrs": {
+            "href": "http://www.gov.nt.ca",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Departments",
+        "attrs": {
+            "href": "http://www.gov.nt.ca/node/3",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "/en/content/contact-us",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Aboriginal Languages",
+        "attrs": {
+            "href": "/en/aboriginal-resources",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home",
+        "attrs": {
+            "href": "/en",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Topics",
+        "attrs": {
+            "href": "/en/topics",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Resources",
+        "attrs": {
+            "href": "/en/resources",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Forms",
+        "attrs": {
+            "href": "/en/resources?f%5B0%5D=field_resource_type%3A133",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Jobs",
+        "attrs": {
+            "href": "http://careers.hr.gov.nt.ca/en/search/job",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "About Us",
+        "attrs": {
+            "href": "/en/about-us",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Budget",
+        "attrs": {
+            "href": "/en/about/budget",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Engagement",
+        "attrs": {
+            "href": "/en/about/consultations-and-engagement",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Corporate Reports",
+        "attrs": {
+            "href": "/en/about/corporate-reports",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Funding Programs",
+        "attrs": {
+            "href": "/en/about/funding-programs",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health Care Service Complaints",
+        "attrs": {
+            "href": "/en/services/health-care-service-complaints",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Legislation and Policies",
+        "attrs": {
+            "href": "/en/about/legislation-and-policies",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Meet the Minister",
+        "attrs": {
+            "href": "https://www.assembly.gov.nt.ca/meet-members/mla/diane-thom",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Privacy",
+        "attrs": {
+            "href": "/en/services/protecting-your-health-information",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Research",
+        "attrs": {
+            "href": "/en/services/health-and-social-services-research-nwt",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient / Client Relations",
+        "attrs": {
+            "href": "/en/services/patient-client-relations",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Contact Us",
+        "attrs": {
+            "href": "/en/content/contact-us",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Newsroom",
+        "attrs": {
+            "href": "/en/newsroom",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "News Releases",
+        "attrs": {
+            "href": "https://www.gov.nt.ca/en/newsroom?f%5B0%5D=field_news_department%3A91",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Boil Water Advisories",
+        "attrs": {
+            "href": "/en/services/boil-water-advisories",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Public Health Advisories",
+        "attrs": {
+            "href": "/en/advisories",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "HSS Professionals (Staff Only)",
+        "attrs": {
+            "href": "https://www.hss.gov.nt.ca/professionals/en",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Listen",
+        "attrs": {}
+    },
+    {
+        "tag": "h2",
+        "text": "You are here",
+        "attrs": {
+            "class": [
+                "element-invisible"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "www.gov.nt.ca",
+        "attrs": {
+            "href": "http://www.gov.nt.ca"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "\u00bb",
+        "attrs": {
+            "class": [
+                "delimiter"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "HSS",
+        "attrs": {
+            "href": "/en"
+        }
+    },
+    {
+        "tag": "span",
+        "text": "\u00bb",
+        "attrs": {
+            "class": [
+                "delimiter"
+            ]
+        }
+    },
+    {
+        "tag": "span",
+        "text": "Hospitals and Health Centres",
+        "attrs": {
+            "class": [
+                "inline",
+                "odd",
+                "last"
+            ]
+        }
+    },
+    {
+        "tag": "h1",
+        "text": "Hospitals and Health Centres",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "COVID-19 Information (for more information, see",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "www.gov.nt.ca/covid-19",
+        "attrs": {
+            "href": "//www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": ")",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "p",
+        "text": "If you are experiencing",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 symptoms",
+        "attrs": {
+            "href": "//www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/about-covid-19#what-are-the-symptoms-of-covid-19-",
+            "rel": [
+                "noopener",
+                "noreferrer"
+            ],
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "p",
+        "text": ",",
+        "attrs": {}
+    },
+    {
+        "tag": "b",
+        "text": "go or stay home",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "and:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "take the",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "NWT Online COVID-19 Self-Assessment Tool",
+        "attrs": {
+            "href": "//www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/nwt-online-covid-19-self-assessment-tool",
+            "rel": [
+                "noopener",
+                "noreferrer"
+            ],
+            "target": "_blank",
+            "title": "https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/nwt-online-covid-19-self-assessment-tool\nCtrl+Click or tap to follow the link"
+        }
+    },
+    {
+        "tag": "li",
+        "text": "; or call",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "8-1-1",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Yellowknife:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "867-767-9120, or book online at",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "www.nthssa.ca/en/services/coronavirus-disease-covid-19-updates",
+        "attrs": {
+            "href": "https://www.nthssa.ca/en/services/coronavirus-disease-covid-19-updates",
+            "target": "_blank"
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Inuvik:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "867-490-2225",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fort Smith:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "867-621-2233 or 867-872-0562",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Hay River:",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "867-874-8400 (between 08:30-16.30).\u00a0After hours call Emergency Department at 867-874-8050.",
+        "attrs": {}
+    },
+    {
+        "tag": "li",
+        "text": "Other Communities can call their local health centres,\u00a0please scroll down for phone numbers.",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "If your symptoms become severe call 9-1-1",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": ".",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Contents",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "COVID-19 Information (for more information, see www.gov.nt.ca/covid-19)",
+        "attrs": {
+            "href": "#-a-id-covid-19-contact-name-covid-19-contact-a-covid-19-information-for-more-information-see-a-href-node-2923-www-gov-nt-ca-covid-19-a-"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Aklavik",
+        "attrs": {
+            "href": "#aklavik"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Behchoko\u0328\u0300",
+        "attrs": {
+            "href": "#behchoko-"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Colville Lake",
+        "attrs": {
+            "href": "#colville-lake"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "D\u00e9l\u00een\u00ea",
+        "attrs": {
+            "href": "#d-l-n-"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fort Good Hope",
+        "attrs": {
+            "href": "#fort-good-hope"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fort Liard",
+        "attrs": {
+            "href": "#fort-liard"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fort McPherson",
+        "attrs": {
+            "href": "#fort-mcpherson"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fort Providence",
+        "attrs": {
+            "href": "#fort-providence"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fort Resolution",
+        "attrs": {
+            "href": "#fort-resolution"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fort Simpson",
+        "attrs": {
+            "href": "#fort-simpson"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Fort Smith",
+        "attrs": {
+            "href": "#fort-smith-"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Gam\u00e8t\u00ec",
+        "attrs": {
+            "href": "#gam-t-"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Hay River",
+        "attrs": {
+            "href": "#hay-river"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Inuvik",
+        "attrs": {
+            "href": "#inuvik"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Jean Marie River",
+        "attrs": {
+            "href": "#jean-marie-river"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "\u0141utselk'e",
+        "attrs": {
+            "href": "#-utselk-e"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Nahanni Butte",
+        "attrs": {
+            "href": "#nahanni-butte"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Norman Wells",
+        "attrs": {
+            "href": "#norman-wells"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Paulatuk",
+        "attrs": {
+            "href": "#paulatuk"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sachs Harbour",
+        "attrs": {
+            "href": "#sachs-harbour"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Sambaa K\u2019e",
+        "attrs": {
+            "href": "#sambaa-k-e"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Tsiigehtchic",
+        "attrs": {
+            "href": "#tsiigehtchic"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Tuktoyaktuk",
+        "attrs": {
+            "href": "#tuktoyaktuk"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Tulita",
+        "attrs": {
+            "href": "#tulita"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Ulukhaktok",
+        "attrs": {
+            "href": "#ulukhaktok"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Wekwe\u00e8t\u00ec",
+        "attrs": {
+            "href": "#wekwe-t-"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "What\u00ec",
+        "attrs": {
+            "href": "#what-"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Wrigley",
+        "attrs": {
+            "href": "#wrigley"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Yellowknife",
+        "attrs": {
+            "href": "#yellowknife"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Aklavik",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-978-2516",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-978-2160",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "2 Airport Road, P.O.\u00a0Box 114,\u00a0Aklavik, NT \u00a0X0E 0A0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Behchoko\u0328\u0300",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-392-6075",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-392-6612",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Bag #5,",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "Behchok\u01eb\u0300, NT \u00a0X0E 0Y0",
+        "attrs": {
+            "style": "line-height: 1.5;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Colville Lake",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-709-2409",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-709-2504",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0Colville Lake",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": ", NT \u00a0X0E 1L0",
+        "attrs": {
+            "style": "line-height: 1.5;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "D\u00e9l\u00een\u00ea",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-589-5555",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-589-5570",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0D\u00e9l\u00een\u00ea",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": ", NT \u00a0X0E 0G0",
+        "attrs": {
+            "style": "line-height: 1.5;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Fort Good Hope",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-598-3333",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-598-2605",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "P.O. Box 9,\u00a0Fort Good Hope,",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "NT \u00a0X0E 0H0",
+        "attrs": {
+            "style": "line-height: 1.5;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Fort Liard",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-770-4301",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-770-3235",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0Fort Liard,",
+        "attrs": {}
+    },
+    {
+        "tag": "span",
+        "text": "NT \u00a0X0G 0A0",
+        "attrs": {
+            "style": "line-height: 1.5;"
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Fort McPherson",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-952-2586",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-952-2620",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "P.O. Box 56, Fort McPherson, NT X0E 0J0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Fort Providence",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-699-4311",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-699-3811",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "P.O. Box 260, Fort Providence, NT X0E 0L0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Fort Resolution",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-394-4511",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-394-3117",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "P.O. Box 1997, Fort Resolution, NT X0E 0M0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Fort Simpson",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-695-7000",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-695-7017",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "P.O. Box 246, Fort Simpson, NT X0E 0N0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Fort Smith",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Medical Clinic",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-872-6205",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-872-6260",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "P.O. Box 1080, Fort Smith, NT X0E 0P0",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Health Centre (Public Health)",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-872-6203",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-872-6251",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "41 Breynet Street,\u00a0P.O. Box 1080, Fort Smith, NT X0E 0P0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Gam\u00e8t\u00ec",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-997-3141",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-997-3045",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery, Gam\u00e8t\u00ec, NT X0E 1R0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Hay River",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Regional Health Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-874-8000",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-874-8016",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "37911 MacKenzie Highway,\u00a0Hay River, NT X0E 0R6",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Public Health",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-874-8400",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-874-8401",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "#3 Gaetz Drive,\u00a0Hay River, NT X0E 0R8",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Medical Clinic",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-874-8100",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-874-8099",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "37911 MacKenzie Highway,\u00a0Hay River, NT X0E 0R6",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Inuvik",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Inuvik Regional Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-777-8000",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-777-8054",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Bag Service #2,\u00a0285 MacKenzie Rd, Inuvik, NT X0E 0T0",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Public Health",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-777-7246",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-777-8054",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "106 Veterans Way (1st Floor)",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Jean Marie River",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-809-2900",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-809-2902",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0Jean Marie River, NT X0E 0N0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "\u0141utselk'e",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-370-3115",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-370-3022",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "P.O. Box 56,\u00a0\u0141utselk'e, NT X0E 1A0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Nahanni Butte",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-602-2203",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-602-2021",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0Nahanni Butte, NT X0E 0N0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Norman Wells",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-587-3333",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-587-2934",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "26 Woodland Avenue, P.O. Box 340,\u00a0Norman Wells, NT X0E 0V0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Paulatuk",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-580-3231",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-580-3300",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0Paulatuk, NT X0E 1N0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Sachs Harbour",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-690-4181",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-690-3802",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0Sachs Harbour, NT X0E 0Z0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Sambaa K\u2019e",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-206-2838",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-206-2024",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0Sambaa K\u2019e, NT X0E 1Z0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Tsiigehtchic",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-953-3361",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-953-3408",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0Tsiigehtchic, NT X0E 0B0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Tuktoyaktuk",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-977-2321",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-977-2535",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "Bag 1000,\u00a0Tuktoyaktuk, NT X0E 1C0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Tulita",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-588-3333",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-588-3000",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "P.O. Box 145,\u00a0Tulita, NT X0E 0K0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Ulukhaktok",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-396-3111",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-396-3221",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "P.O. Box 160,\u00a0Ulukhaktok, NT X0E 0S0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Wekwe\u00e8t\u00ec",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-713-2904",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-713-2903",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0Wekwe\u00e8t\u00ec, NT X0E 1W0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "What\u00ec",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-573-3261",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-573-3701",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery,\u00a0What\u00ec, NT X0E 1P0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Wrigley",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-581-3441",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-581-3200",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "General Delivery, Wrigley, NT X0E 1E0",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Yellowknife",
+        "attrs": {
+            "class": [
+                "toc-header",
+                "toc-header-bullet"
+            ]
+        }
+    },
+    {
+        "tag": "h3",
+        "text": "Ambulatory Care Centre (previously called Stanton Medical Clinic)",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-669-4122 and 867-669-3100",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-669-4139",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "548 Byrne Rd, Yellowknife, NT X1A 2N1",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Audiology Clinic",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-669-3130",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-669-4128",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "550 Byrne Rd, Yellowknife, NT X1A 2N1",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Eye Clinic",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-873-3577",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-920-7992",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "4916 47 St, Yellowknife, NT X1A 1L8",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Frame Lake Community Health Clinic",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-767-9125",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-920-2210",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "312 Old Airport Rd, Yellowknife, NT X1A 3T3",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Public Health",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-767-9120",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-873-0158",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "4702 Franklin Ave, Yellowknife, NT X1A 1N2",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Stanton Medical Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-669-3100",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-920-4271",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "419 Byrne Rd, Yellowknife, NT X1A 2N1",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Stanton Territorial Hospital",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-669-4111",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-669-4128",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "548 Byrne Rd, Yellowknife, NT X1A 2N1",
+        "attrs": {}
+    },
+    {
+        "tag": "h3",
+        "text": "Yellowknife Primary Care Centre",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Phone:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-920-7777",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Fax:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "867-920-7711",
+        "attrs": {}
+    },
+    {
+        "tag": "strong",
+        "text": "Address:",
+        "attrs": {}
+    },
+    {
+        "tag": "p",
+        "text": "4915 48 St, Yellowknife, NT X1A 1N2",
+        "attrs": {}
+    },
+    {
+        "tag": "a",
+        "text": "Back to top",
+        "attrs": {
+            "href": "#top"
+        }
+    },
+    {
+        "tag": "h2",
+        "text": "Other Contacts",
+        "attrs": {
+            "class": [
+                "block__title"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "GNWT Employee",
+        "attrs": {
+            "href": "http://rdirectory.gov.nt.ca/rDirectory.aspx",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Community Counsellor",
+        "attrs": {
+            "href": "/en/contact/community-counsellor",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Environmental Health",
+        "attrs": {
+            "href": "/en/services/environmental-health/contacting-environmental-health-officer",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health Care Coverage",
+        "attrs": {
+            "href": "/en/services/nwt-health-care-plan",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Health Centres / Hospitals",
+        "attrs": {
+            "href": "/en/hospitals-and-health-centres",
+            "title": "",
+            "class": [
+                "menu__link",
+                "is-active-trail",
+                "active-trail",
+                "active"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Help Lines",
+        "attrs": {
+            "href": "/en/contact/help-lines",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Home and Community Care",
+        "attrs": {
+            "href": "/en/services/continuing-care-services/contact-information-home-care",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Patient Concerns / Complaints",
+        "attrs": {
+            "href": "/en/services/patient-client-relations",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Professional Licensing",
+        "attrs": {
+            "href": "/en/services/professional-licensing",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Reporting Suspected Child Maltreatment and Neglect",
+        "attrs": {
+            "href": "/en/contact/reporting-suspected-child-maltreatment-and-neglect",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Social Services",
+        "attrs": {
+            "href": "/en/content/contact-us/social-services-office",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "System Navigator",
+        "attrs": {
+            "href": "/en/services/system-navigator",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Vital Statistics",
+        "attrs": {
+            "href": "/en/topics?mefibs-form-filters-combine=&mefibs-form-filters-field_sector_tid=All&mefibs-form-filters-field_program_type_tid=35&mefibs-form-filters-mefibs_block_id=filters",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Phone Directory",
+        "attrs": {
+            "href": "http://rdirectory.gov.nt.ca/rDirectory.aspx",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Terms of Use",
+        "attrs": {
+            "href": "http://www.gov.nt.ca/terms",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Accessibility",
+        "attrs": {
+            "href": "http://www.gov.nt.ca/accessibility",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    },
+    {
+        "tag": "a",
+        "text": "Using the LISTEN Feature",
+        "attrs": {
+            "href": "/en/using-listen-feature",
+            "title": "",
+            "class": [
+                "menu__link"
+            ]
+        }
+    }
+]

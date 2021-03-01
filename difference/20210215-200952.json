@@ -1,0 +1,27 @@
+{
+  "values_changed": {
+    "root[16]['tag']": {
+      "new_value": "li",
+      "old_value": "p"
+    },
+    "root[17]['text']": {
+      "new_value": "COVID-19 vaccine",
+      "old_value": "Effective December 17"
+    },
+    "root[18]['tag']": {
+      "new_value": "li",
+      "old_value": "p"
+    },
+    "root[18]['text']": {
+      "new_value": "information",
+      "old_value": ", all private dwelling indoor gatherings are limited to immediate households only.\u00a0 Review all"
+    }
+  },
+  "iterable_item_added": {
+    "root[19]": {
+      "tag": "li",
+      "text": "Review all",
+      "attrs": {}
+    }
+  }
+}

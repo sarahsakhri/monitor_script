@@ -1,0 +1,211 @@
+{
+  "values_changed": {
+    "root[11]['text']": {
+      "new_value": "[if lt IE 9]>\n<link type=\"text/css\" rel=\"stylesheet\" href=\"https://yukon.ca/profiles/wetkit/libraries/theme-wet-boew/css/ie8-theme.min.css?qo9vpb\" media=\"all\" />\n<![endif]",
+      "old_value": "[if lt IE 9]>\n<link type=\"text/css\" rel=\"stylesheet\" href=\"https://yukon.ca/profiles/wetkit/libraries/theme-wet-boew/css/ie8-theme.min.css?qnyozp\" media=\"all\" />\n<![endif]",
+      "diff": "--- \n+++ \n@@ -1,3 +1,3 @@\n [if lt IE 9]>\n-<link type=\"text/css\" rel=\"stylesheet\" href=\"https://yukon.ca/profiles/wetkit/libraries/theme-wet-boew/css/ie8-theme.min.css?qnyozp\" media=\"all\" />\n+<link type=\"text/css\" rel=\"stylesheet\" href=\"https://yukon.ca/profiles/wetkit/libraries/theme-wet-boew/css/ie8-theme.min.css?qo9vpb\" media=\"all\" />\n <![endif]"
+    },
+    "root[16]['text']": {
+      "new_value": "jQuery.extend(Drupal.settings, {\"basePath\":\"\\/\",\"pathPrefix\":\"en\\/\",\"ajaxPageState\":{\"theme\":\"yukon_wxt\",\"theme_token\":\"vK0ZCfZSDXI0KI3n_NfZl1YbMOo0BnU-aJH4nbgySs8\",\"jquery_version\":\"1.10\",\"js\":{\"profiles\\/wetkit\\/libraries\\/wet-boew\\/js\\/wet-boew.min.js\":1,\"profiles\\/wetkit\\/libraries\\/wet-boew\\/js\\/ie8-wet-boew2.min.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/picture\\/picturefill2\\/picturefill.min.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/picture\\/picture.min.js\":1,\"profiles\\/wetkit\\/themes\\/bootstrap\\/js\\/bootstrap.js\":1,\"\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/jquery\\/1.10.2\\/jquery.min.js\":1,\"0\":1,\"misc\\/jquery-extend-3.4.0.js\":1,\"misc\\/jquery-html-prefilter-3.5.0-backport.js\":1,\"misc\\/jquery.once.js\":1,\"misc\\/drupal.js\":1,\"\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/jqueryui\\/1.10.2\\/jquery-ui.min.js\":1,\"1\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/jquery_update\\/replace\\/ui\\/external\\/jquery.cookie.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/jquery_update\\/replace\\/misc\\/jquery.form.min.js\":1,\"misc\\/ajax.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/jquery_update\\/js\\/jquery_update.js\":1,\"2\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/js\\/wetkit-accordion.js\":1,\"sites\\/all\\/modules\\/contrib\\/ajax_error_behavior\\/ajax_error_behavior.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/panopoly_magic\\/panopoly-magic.js\":1,\"sites\\/all\\/modules\\/features\\/wetkit_admin\\/wetkit-admin.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_bootstrapx\\/js\\/alert.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_bootstrapx\\/js\\/collapse.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_bootstrapx\\/js\\/tooltip.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_bootstrapx\\/js\\/vertical_tabs.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/js\\/wetkit-emberx.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_widgets\\/js\\/wetkit_widgets.js\":1,\"profiles\\/wetkit\\/libraries\\/jstorage\\/jstorage.min.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/custom_search\\/js\\/custom_search.js\":1,\"sites\\/all\\/modules\\/custom\\/goy_document_listing_filter\\/js\\/goy_document_listing_filter_helper.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_bean\\/js\\/wetkit_bean.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_admin\\/modules\\/wetkit_navbar\\/js\\/wetkit-navbar.js\":1,\"sites\\/all\\/modules\\/contrib\\/piwik\\/piwik.js\":1,\"3\":1,\"misc\\/textarea.js\":1,\"profiles\\/wetkit\\/themes\\/bootstrap\\/js\\/misc\\/_progress.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/webform\\/js\\/webform.js\":1,\"sites\\/yukon.ca\\/themes\\/yukon_wxt\\/js\\/wetkit-bootstrap.modules.js\":1,\"sites\\/yukon.ca\\/themes\\/yukon_wxt\\/js\\/sticky.min.js\":1,\"sites\\/yukon.ca\\/themes\\/yukon_wxt\\/js\\/build\\/script.min.js\":1,\"profiles\\/wetkit\\/themes\\/bootstrap\\/js\\/misc\\/ajax.js\":1},\"css\":{\"modules\\/system\\/system.base.css\":1,\"misc\\/ui\\/jquery.ui.core.css\":1,\"misc\\/ui\\/jquery.ui.theme.css\":1,\"misc\\/ui\\/jquery.ui.tabs.css\":1,\"misc\\/ui\\/jquery.ui.accordion.css\":1,\"profiles\\/wetkit\\/libraries\\/theme-wet-boew\\/css\\/theme.min.css\":1,\"profiles\\/wetkit\\/libraries\\/theme-wet-boew\\/css\\/ie8-theme.min.css\":1,\"sites\\/all\\/modules\\/contrib\\/ldap\\/ldap_user\\/ldap_user.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/css\\/wetkit-featured.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/css\\/wetkit-accordian.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/date\\/date_api\\/date.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/date\\/date_popup\\/themes\\/datepicker.1.7.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/date\\/date_repeat_field\\/date_repeat_field.css\":1,\"modules\\/field\\/theme\\/field.css\":1,\"modules\\/node\\/node.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/picture\\/picture_wysiwyg.css\":1,\"sites\\/all\\/modules\\/features\\/wetkit_admin\\/wetkit-admin.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-contextual.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-ctools.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-media.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-modal.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-panels-ipe.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_layouts\\/css\\/layouts.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_admin\\/modules\\/wetkit_navbar\\/css\\/wetkit-navbar.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_widgets\\/css\\/wetkit_widgets.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/views\\/css\\/views.css\":1,\"profiles\\/wetkit\\/css\\/wetkit.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_menu\\/css\\/wetkit_menu.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/media\\/modules\\/media_wysiwyg\\/css\\/media_wysiwyg.base.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/ctools\\/css\\/ctools.css\":1,\"sites\\/all\\/modules\\/contrib\\/ldap\\/ldap_servers\\/ldap_servers.admin.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/panels\\/css\\/panels.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/custom_search\\/custom_search.css\":1,\"modules\\/locale\\/locale.css\":1,\"sites\\/yukon.ca\\/files\\/hpas\\/hpas.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/webform\\/css\\/webform.css\":1,\"sites\\/all\\/libraries\\/fontawesome\\/css\\/font-awesome.css\":1,\"profiles\\/wetkit\\/themes\\/bootstrap\\/css\\/3.3.5\\/overrides.min.css\":1,\"profiles\\/wetkit\\/themes\\/wetkit_bootstrap\\/css\\/wetkit_bootstrap.styles.css\":1,\"sites\\/yukon.ca\\/themes\\/yukon_wxt\\/css\\/style.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_bean\\/css\\/wetkit_bean.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_core\\/css\\/wetkit_core.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_search\\/css\\/wetkit_search.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_wetboew\\/css\\/wetkit_wetboew.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_images\\/css\\/wetkit_images.css\":1}},\"admin_menu\":{\"suppress\":1},\"ajaxErrorBehavior\":{\"behavior\":\"console\",\"error\":\"There was some error in the user interface, please contact the site administrator.\",\"watchdog_url\":\"https:\\/\\/yukon.ca\\/en\\/ajax_error_behavior\\/watchdog\"},\"CToolsModal\":{\"modalSize\":{\"type\":\"scale\",\"width\":\".90\",\"height\":\".80\",\"addWidth\":0,\"addHeight\":0,\"contentRight\":25,\"contentBottom\":75},\"modalOptions\":{\"opacity\":\".60\",\"background-color\":\"#000\"},\"animationSpeed\":\"fast\",\"modalTheme\":\"CToolsModalDialog\",\"throbberTheme\":\"CToolsModalThrobber\"},\"panopoly_magic\":{\"pane_add_preview_mode\":\"single\"},\"custom_search\":{\"form_target\":\"_self\",\"solr\":1},\"currentPath\":\"node\\/13093\",\"currentPathIsAdmin\":false,\"piwik\":{\"trackMailto\":1},\"urlIsAjaxTrusted\":{\"\\/news\":true,\"\\/en\\/find-respiratory-assessment-centre\":true,\"\\/en\\/system\\/ajax\":true},\"webform\":{\"conditionals\":{\"webform-client-form-8\":{\"ruleGroups\":{\"rgid_1\":{\"andor\":null,\"actions\":{\"aid_0\":{\"target\":\"webform-component--how-can-we-improve-this-page\",\"invert\":0,\"action\":\"show\",\"argument\":\"\"}},\"rules\":{\"rid_0\":{\"source_type\":\"component\",\"source\":\"webform-component--was-this-page-helpful\",\"value\":\"No\",\"callback\":\"conditionalOperatorStringEqual\"}}},\"rgid_0\":{\"andor\":null,\"actions\":{\"aid_1\":{\"target\":\"webform-component--how-did-this-page-help-you\",\"invert\":0,\"action\":\"show\",\"argument\":\"\"}},\"rules\":{\"rid_1\":{\"source_type\":\"component\",\"source\":\"webform-component--was-this-page-helpful\",\"value\":\"Yes\",\"callback\":\"conditionalOperatorStringEqual\"}}}},\"sourceMap\":{\"webform-component--was-this-page-helpful\":{\"rgid_1\":\"rgid_1\",\"rgid_0\":\"rgid_0\"}},\"values\":[]}}},\"ajax\":{\"edit-webform-ajax-submit-8\":{\"callback\":\"webform_ajax_callback\",\"wrapper\":\"webform-ajax-wrapper-8\",\"progress\":{\"message\":\"\",\"type\":\"throbber\"},\"event\":\"click\",\"url\":\"\\/en\\/system\\/ajax\",\"submit\":{\"_triggering_element_name\":\"op\",\"_triggering_element_value\":\"Submit feedback\"}}},\"bootstrap\":{\"anchorsFix\":\"0\",\"anchorsSmoothScrolling\":\"0\",\"formHasError\":1,\"popoverEnabled\":1,\"popoverOptions\":{\"animation\":1,\"html\":0,\"placement\":\"right\",\"selector\":\"\",\"trigger\":\"click\",\"triggerAutoclose\":1,\"title\":\"\",\"content\":\"\",\"delay\":0,\"container\":\"body\"},\"tooltipEnabled\":1,\"tooltipOptions\":{\"animation\":1,\"html\":0,\"placement\":\"auto left\",\"selector\":\"\",\"trigger\":\"hover focus\",\"delay\":0,\"container\":\"body\"}}});",
+      "old_value": "jQuery.extend(Drupal.settings, {\"basePath\":\"\\/\",\"pathPrefix\":\"en\\/\",\"ajaxPageState\":{\"theme\":\"yukon_wxt\",\"theme_token\":\"mXCG9uBNOKwaF3C328wbnqKOmJYyZ1eenVMwmxluAeA\",\"jquery_version\":\"1.10\",\"js\":{\"profiles\\/wetkit\\/libraries\\/wet-boew\\/js\\/wet-boew.min.js\":1,\"profiles\\/wetkit\\/libraries\\/wet-boew\\/js\\/ie8-wet-boew2.min.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/picture\\/picturefill2\\/picturefill.min.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/picture\\/picture.min.js\":1,\"profiles\\/wetkit\\/themes\\/bootstrap\\/js\\/bootstrap.js\":1,\"\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/jquery\\/1.10.2\\/jquery.min.js\":1,\"0\":1,\"misc\\/jquery-extend-3.4.0.js\":1,\"misc\\/jquery-html-prefilter-3.5.0-backport.js\":1,\"misc\\/jquery.once.js\":1,\"misc\\/drupal.js\":1,\"\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/jqueryui\\/1.10.2\\/jquery-ui.min.js\":1,\"1\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/jquery_update\\/replace\\/ui\\/external\\/jquery.cookie.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/jquery_update\\/replace\\/misc\\/jquery.form.min.js\":1,\"misc\\/ajax.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/jquery_update\\/js\\/jquery_update.js\":1,\"2\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/js\\/wetkit-accordion.js\":1,\"sites\\/all\\/modules\\/contrib\\/ajax_error_behavior\\/ajax_error_behavior.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/panopoly_magic\\/panopoly-magic.js\":1,\"sites\\/all\\/modules\\/features\\/wetkit_admin\\/wetkit-admin.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_bootstrapx\\/js\\/alert.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_bootstrapx\\/js\\/collapse.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_bootstrapx\\/js\\/tooltip.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_bootstrapx\\/js\\/vertical_tabs.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/js\\/wetkit-emberx.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_widgets\\/js\\/wetkit_widgets.js\":1,\"profiles\\/wetkit\\/libraries\\/jstorage\\/jstorage.min.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/custom_search\\/js\\/custom_search.js\":1,\"sites\\/all\\/modules\\/custom\\/goy_document_listing_filter\\/js\\/goy_document_listing_filter_helper.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_bean\\/js\\/wetkit_bean.js\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_admin\\/modules\\/wetkit_navbar\\/js\\/wetkit-navbar.js\":1,\"sites\\/all\\/modules\\/contrib\\/piwik\\/piwik.js\":1,\"3\":1,\"misc\\/textarea.js\":1,\"profiles\\/wetkit\\/themes\\/bootstrap\\/js\\/misc\\/_progress.js\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/webform\\/js\\/webform.js\":1,\"sites\\/yukon.ca\\/themes\\/yukon_wxt\\/js\\/wetkit-bootstrap.modules.js\":1,\"sites\\/yukon.ca\\/themes\\/yukon_wxt\\/js\\/sticky.min.js\":1,\"sites\\/yukon.ca\\/themes\\/yukon_wxt\\/js\\/build\\/script.min.js\":1,\"profiles\\/wetkit\\/themes\\/bootstrap\\/js\\/misc\\/ajax.js\":1},\"css\":{\"modules\\/system\\/system.base.css\":1,\"misc\\/ui\\/jquery.ui.core.css\":1,\"misc\\/ui\\/jquery.ui.theme.css\":1,\"misc\\/ui\\/jquery.ui.tabs.css\":1,\"misc\\/ui\\/jquery.ui.accordion.css\":1,\"profiles\\/wetkit\\/libraries\\/theme-wet-boew\\/css\\/theme.min.css\":1,\"profiles\\/wetkit\\/libraries\\/theme-wet-boew\\/css\\/ie8-theme.min.css\":1,\"sites\\/all\\/modules\\/contrib\\/ldap\\/ldap_user\\/ldap_user.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/css\\/wetkit-featured.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/css\\/wetkit-accordian.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/date\\/date_api\\/date.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/date\\/date_popup\\/themes\\/datepicker.1.7.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/date\\/date_repeat_field\\/date_repeat_field.css\":1,\"modules\\/field\\/theme\\/field.css\":1,\"modules\\/node\\/node.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/picture\\/picture_wysiwyg.css\":1,\"sites\\/all\\/modules\\/features\\/wetkit_admin\\/wetkit-admin.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-contextual.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-ctools.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-media.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-modal.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_theme\\/modules\\/wetkit_emberx\\/css\\/ember-panels-ipe.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_layouts\\/css\\/layouts.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_admin\\/modules\\/wetkit_navbar\\/css\\/wetkit-navbar.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_widgets\\/css\\/wetkit_widgets.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/views\\/css\\/views.css\":1,\"profiles\\/wetkit\\/css\\/wetkit.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_menu\\/css\\/wetkit_menu.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/media\\/modules\\/media_wysiwyg\\/css\\/media_wysiwyg.base.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/ctools\\/css\\/ctools.css\":1,\"sites\\/all\\/modules\\/contrib\\/ldap\\/ldap_servers\\/ldap_servers.admin.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/panels\\/css\\/panels.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/custom_search\\/custom_search.css\":1,\"modules\\/locale\\/locale.css\":1,\"sites\\/yukon.ca\\/files\\/hpas\\/hpas.css\":1,\"profiles\\/wetkit\\/modules\\/contrib\\/webform\\/css\\/webform.css\":1,\"sites\\/all\\/libraries\\/fontawesome\\/css\\/font-awesome.css\":1,\"profiles\\/wetkit\\/themes\\/bootstrap\\/css\\/3.3.5\\/overrides.min.css\":1,\"profiles\\/wetkit\\/themes\\/wetkit_bootstrap\\/css\\/wetkit_bootstrap.styles.css\":1,\"sites\\/yukon.ca\\/themes\\/yukon_wxt\\/css\\/style.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_bean\\/css\\/wetkit_bean.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_core\\/css\\/wetkit_core.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_search\\/css\\/wetkit_search.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_wetboew\\/css\\/wetkit_wetboew.css\":1,\"profiles\\/wetkit\\/modules\\/custom\\/wetkit_images\\/css\\/wetkit_images.css\":1}},\"admin_menu\":{\"suppress\":1},\"ajaxErrorBehavior\":{\"behavior\":\"console\",\"error\":\"There was some error in the user interface, please contact the site administrator.\",\"watchdog_url\":\"https:\\/\\/yukon.ca\\/en\\/ajax_error_behavior\\/watchdog\"},\"CToolsModal\":{\"modalSize\":{\"type\":\"scale\",\"width\":\".90\",\"height\":\".80\",\"addWidth\":0,\"addHeight\":0,\"contentRight\":25,\"contentBottom\":75},\"modalOptions\":{\"opacity\":\".60\",\"background-color\":\"#000\"},\"animationSpeed\":\"fast\",\"modalTheme\":\"CToolsModalDialog\",\"throbberTheme\":\"CToolsModalThrobber\"},\"panopoly_magic\":{\"pane_add_preview_mode\":\"single\"},\"custom_search\":{\"form_target\":\"_self\",\"solr\":1},\"currentPath\":\"node\\/13093\",\"currentPathIsAdmin\":false,\"piwik\":{\"trackMailto\":1},\"urlIsAjaxTrusted\":{\"\\/en\\/health-and-wellness\\/covid-19-information\\/case-counts-covid-19\":true,\"\\/en\\/find-respiratory-assessment-centre\":true,\"\\/en\\/system\\/ajax\":true},\"webform\":{\"conditionals\":{\"webform-client-form-8\":{\"ruleGroups\":{\"rgid_1\":{\"andor\":null,\"actions\":{\"aid_0\":{\"target\":\"webform-component--how-can-we-improve-this-page\",\"invert\":0,\"action\":\"show\",\"argument\":\"\"}},\"rules\":{\"rid_0\":{\"source_type\":\"component\",\"source\":\"webform-component--was-this-page-helpful\",\"value\":\"No\",\"callback\":\"conditionalOperatorStringEqual\"}}},\"rgid_0\":{\"andor\":null,\"actions\":{\"aid_1\":{\"target\":\"webform-component--how-did-this-page-help-you\",\"invert\":0,\"action\":\"show\",\"argument\":\"\"}},\"rules\":{\"rid_1\":{\"source_type\":\"component\",\"source\":\"webform-component--was-this-page-helpful\",\"value\":\"Yes\",\"callback\":\"conditionalOperatorStringEqual\"}}}},\"sourceMap\":{\"webform-component--was-this-page-helpful\":{\"rgid_1\":\"rgid_1\",\"rgid_0\":\"rgid_0\"}},\"values\":[]}}},\"ajax\":{\"edit-webform-ajax-submit-8\":{\"callback\":\"webform_ajax_callback\",\"wrapper\":\"webform-ajax-wrapper-8\",\"progress\":{\"message\":\"\",\"type\":\"throbber\"},\"event\":\"click\",\"url\":\"\\/en\\/system\\/ajax\",\"submit\":{\"_triggering_element_name\":\"op\",\"_triggering_element_value\":\"Submit feedback\"}}},\"bootstrap\":{\"anchorsFix\":\"0\",\"anchorsSmoothScrolling\":\"0\",\"formHasError\":1,\"popoverEnabled\":1,\"popoverOptions\":{\"animation\":1,\"html\":0,\"placement\":\"right\",\"selector\":\"\",\"trigger\":\"click\",\"triggerAutoclose\":1,\"title\":\"\",\"content\":\"\",\"delay\":0,\"container\":\"body\"},\"tooltipEnabled\":1,\"tooltipOptions\":{\"animation\":1,\"html\":0,\"placement\":\"auto left\",\"selector\":\"\",\"trigger\":\"hover focus\",\"delay\":0,\"container\":\"body\"}}});"
+    },
+    "root[895]['attrs']['href']": {
+      "new_value": "/en/events/indigenous-book-club",
+      "old_value": "/en/health-and-wellness/covid-19-information/economic-and-social-supports-covid-19/submit-expression"
+    },
+    "root[895]['text']": {
+      "new_value": "Indigenous Book Club",
+      "old_value": "Submit an Expression of Interest: COVID-19 Recovery Research Program"
+    },
+    "root[87]['attrs']['href']": {
+      "new_value": "/en/apply-youth-investment-fund",
+      "old_value": "/en/arts-and-culture/programs-and-funding/apply-youth-investment-fund"
+    },
+    "root[108]['attrs']['href']": {
+      "new_value": "/en/cat",
+      "old_value": "/en/arts-and-culture/youth-camps-and-awards/apply-conservation-summer-camp-cat"
+    },
+    "root[289]['attrs']['href']": {
+      "new_value": "/en/doing-business/licensing/find-liquor-products-and-prices",
+      "old_value": "/en/liquor-products-prices"
+    },
+    "root[676]['attrs']['href']": {
+      "new_value": "/en/bus",
+      "old_value": "/en/education-and-schools/plan-elementary-and-high-school/school-bus-and-other-student-transportation"
+    },
+    "root[842]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/babies-and-childrens-health/find-child-care-yukoners",
+      "old_value": "/en/child-care-information"
+    },
+    "root[871]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/covid-19-information/closures-cancellations-and-restricted-facility-access",
+      "old_value": "/en/health-and-wellness/covid-19/closures-cancellations-facility-access-and-services"
+    },
+    "root[932]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/covid-19/guidelines-and-recommendations-covid-19/faith-based-services-guidelines",
+      "old_value": "/en/health-and-wellness/covid-19-information/industry-operating-guidelines-covid-19/faith-based-services"
+    },
+    "root[945]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/covid-19-information/industry-operating-guidelines-covid-19/holiday-planning",
+      "old_value": "/en/holiday-planning"
+    },
+    "root[949]['attrs']['href']": {
+      "new_value": "/en/workplace",
+      "old_value": "/en/health-and-wellness/covid-19-information/industry-operating-guidelines-covid-19/workplace"
+    },
+    "root[964]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/covid-19-information/industry-operating-guidelines-covid-19/reopening-food-premises-guidelines-covid-19",
+      "old_value": "/en/health-and-wellness/covid-19-information/industry-operating-guidelines-covid-19/reopening-food"
+    },
+    "root[967]['attrs']['href']": {
+      "new_value": "/en/vulnerable-populations-covid-19-guidance",
+      "old_value": "/en/health-and-wellness/covid-19-information/industry-operating-guidelines-covid-19/vulnerable"
+    },
+    "root[997]['attrs']['href']": {
+      "new_value": "/en/potential-covid-19-exposure",
+      "old_value": "/en/notices-possible-exposure-covid-19"
+    },
+    "root[998]['attrs']['href']": {
+      "new_value": "/en/self-isolation-covid-19",
+      "old_value": "/en/health-and-wellness/covid-19-information/your-health-covid-19/self-isolation-covid-19"
+    },
+    "root[1026]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/care-services/get-referral-chronic-conditions-support-program",
+      "old_value": "/en/health-and-wellness/care-services/get-information-about-chronic-conditions-support-program"
+    },
+    "root[1038]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/care-services/register-chronic-condition-your-health-your-way-workshop",
+      "old_value": "/en/your-health-your-way"
+    },
+    "root[1039]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/care-services/register-diabetes-support-program",
+      "old_value": "/en/diabetes-support"
+    },
+    "root[1041]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/care-services/register-blood-pressure-and-heart-disease-support-programs",
+      "old_value": "/en/blood-pressure-heart-disease"
+    },
+    "root[1042]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/care-services/register-chronic-lung-condition-rehabilitation",
+      "old_value": "/en/copd"
+    },
+    "root[1043]['attrs']['href']": {
+      "new_value": "/en/health-and-wellness/care-services/register-diabetes-wellness-series",
+      "old_value": "/en/diabetes-wellness-series"
+    },
+    "root[1121]['attrs']['href']": {
+      "new_value": "/en/apply-rent-subsidy",
+      "old_value": "/en/apply-canada-yukon-housing-benefit"
+    },
+    "root[1211]['attrs']['href']": {
+      "new_value": "/en/apply-assistance-pay-rent-social-housing",
+      "old_value": "/en/housing-and-property/social-housing-tenant-supports/apply-assistance-pay-your-rent"
+    },
+    "root[1212]['attrs']['href']": {
+      "new_value": "/en/apply-social-housing",
+      "old_value": "/en/housing-and-property/social-housing-tenant-supports/apply-social-housing"
+    },
+    "root[1213]['attrs']['href']": {
+      "new_value": "/en/social-housing-rent-reduction",
+      "old_value": "/en/housing-and-property/social-housing-tenant-supports/apply-get-your-rent-reduced"
+    },
+    "root[1214]['attrs']['href']": {
+      "new_value": "/en/pets-social-housing",
+      "old_value": "/en/housing-and-property/social-housing-tenant-supports/apply-have-pet-your-social-housing-unit"
+    },
+    "root[1215]['attrs']['href']": {
+      "new_value": "/en/short-term-leave-social%20housing",
+      "old_value": "/en/housing-and-property/social-housing-tenant-supports/ask-permission-leave-your-housing-unit-period"
+    },
+    "root[1216]['attrs']['href']": {
+      "new_value": "/en/priority-social-housing-health-condition",
+      "old_value": "/en/housing-and-property/social-housing-tenant-supports/ask-priority-social-housing-due-health-issue"
+    },
+    "root[1217]['attrs']['href']": {
+      "new_value": "/en/housing-and-property/social-housing-tenant-supports/ask-change-locks-or-keys-yukon-housing",
+      "old_value": "/en/ask-lock-key-change"
+    },
+    "root[1218]['attrs']['href']": {
+      "new_value": "/en/change-number-tenants",
+      "old_value": "/en/housing-and-property/social-housing-tenant-supports/change-number-tenants-your-social-housing-lease"
+    },
+    "root[1220]['attrs']['href']": {
+      "new_value": "/en/social-housing-income-thresholds-rules-policies",
+      "old_value": "/en/housing-and-property/social-housing-tenant-supports/find-household-income-limit-thresholds-rules-and"
+    },
+    "root[1257]['attrs']['href']": {
+      "new_value": "/en/legal-and-social-supports/community-supports/community-banking-services-update",
+      "old_value": "/en/community-banking-services"
+    },
+    "root[1280]['attrs']['href']": {
+      "new_value": "/en/public-guardian-and-trustee-forms",
+      "old_value": "/en/legal-and-social-supports/find-public-guardian-and-trustee-forms"
+    },
+    "root[1400]['attrs']['href']": {
+      "new_value": "/en/fishing-regulations",
+      "old_value": "/en/outdoor-recreation-and-wildlife/fishing/see-fishing-rules-and-regulations"
+    },
+    "root[1412]['attrs']['href']": {
+      "new_value": "/en/yukon-hunting-licence",
+      "old_value": "/en/outdoor-recreation-and-wildlife/hunting-and-trapping/get-yukon-hunting-licence"
+    },
+    "root[1702]['attrs']['href']": {
+      "new_value": "/en/rss",
+      "old_value": "/en/your-government/contact-and-follow-government/use-rss-feed-receive-news-releases"
+    },
+    "root[1745]['attrs']['href']": {
+      "new_value": "/en/your-government/find-out-what-government-doing/find-out-about-improved-relations-between-rcmp-and",
+      "old_value": "/en/your-government/find-out-what-government-doing/find-out-about-yukon-police-council"
+    },
+    "root[1863]['attrs']['href']": {
+      "new_value": "/en/find-statistics-yukons-labour-market",
+      "old_value": "/en/statistics-and-data/yukon-bureau-statistics/find-employment-statistics-yukon"
+    },
+    "root[1867]['attrs']['href']": {
+      "new_value": "/en/statistics-and-data/yukon-bureau-statistics/find-monthly-statistics-yukon",
+      "old_value": "/en/statistics-and-data/yukon-bureau-statistics/find-yukons-monthly-statistics"
+    },
+    "root[1900]['text']": {
+      "new_value": "Review draft forestry plans",
+      "old_value": "Review draft timber harvest plans"
+    },
+    "root[1938]['attrs']['href']": {
+      "new_value": "/en/science-and-natural-resources/outreach-and-collaboration/share-and-borrow-seeds",
+      "old_value": "/en/science-and-natural-resources/outreach-and-collaboration/use-seed-library"
+    },
+    "root[1967]['text']": {
+      "new_value": "February 15, 2021",
+      "old_value": "February 8, 2021"
+    }
+  },
+  "iterable_item_added": {
+    "root[636]": {
+      "tag": "a",
+      "text": "Early childhood learning and programs",
+      "attrs": {
+        "href": "/en/education-and-schools/early-childhood-learning-and-programs"
+      }
+    },
+    "root[638]": {
+      "tag": "a",
+      "text": "Learn about universal child care and rural early kindergarten program",
+      "attrs": {
+        "href": "/en/education-and-schools/learn-about-universal-child-care-and-rural-early-kindergarten-program"
+      }
+    },
+    "root[895]": {
+      "tag": "a",
+      "text": "Invitational call for proposals: COVID-19 Recovery Research Program",
+      "attrs": {
+        "href": "/en/health-and-wellness/covid-19-information/economic-and-social-supports-covid-19/covid-19-recovery-research-program"
+      }
+    },
+    "root[1660]": {
+      "tag": "a",
+      "text": "Midwifery Advisory Committee",
+      "attrs": {
+        "href": "/en/midwifery-advisory-committee"
+      }
+    }
+  }
+}

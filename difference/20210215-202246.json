@@ -1,0 +1,162 @@
+{
+  "iterable_item_added": {
+    "root[264]": {
+      "tag": "a",
+      "text": "COVID-19 Assessment Centres:\nMicrosites",
+      "attrs": {
+        "href": "#microsites"
+      }
+    },
+    "root[325]": {
+      "tag": "h3",
+      "text": "COVID-19 Assessment\nCentres: Microsites",
+      "attrs": {}
+    },
+    "root[326]": {
+      "tag": "p",
+      "text": "Testing at microsite locations is limited and by appointment\nonly. More information will be provided upon booking.",
+      "attrs": {}
+    },
+    "root[327]": {
+      "tag": "strong",
+      "text": "Zone 1 (Moncton area)",
+      "attrs": {}
+    },
+    "root[328]": {
+      "tag": "a",
+      "text": "Rogersville Community Health Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-rogersville-health-centre.aspx"
+      }
+    },
+    "root[329]": {
+      "tag": "a",
+      "text": "Port Elgin and Region Health Centre",
+      "attrs": {
+        "href": "/facilities-and-services/facilities/port-elgin-and-region-health-centre.aspx"
+      }
+    },
+    "root[330]": {
+      "tag": "a",
+      "text": "Albert County Community Health Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/albert-county-community-health-centre.aspx"
+      }
+    },
+    "root[331]": {
+      "tag": "p",
+      "text": "- Riverside-Albert",
+      "attrs": {}
+    },
+    "root[332]": {
+      "tag": "strong",
+      "text": "Zone 2 (Saint John area)",
+      "attrs": {}
+    },
+    "root[333]": {
+      "tag": "a",
+      "text": "Fundy Health Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/fundy-health-centre.aspx"
+      }
+    },
+    "root[334]": {
+      "tag": "p",
+      "text": "- Blacks Harbour",
+      "attrs": {}
+    },
+    "root[335]": {
+      "tag": "a",
+      "text": "Campobello Island Health Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/campobello-island-health-centre.aspx"
+      }
+    },
+    "root[336]": {
+      "tag": "a",
+      "text": "Charlotte County Collaborative Wellness Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-charlotte-county-collaborative-wellness-centre-(cccwc).aspx"
+      }
+    },
+    "root[337]": {
+      "tag": "p",
+      "text": "- St.\nStephen",
+      "attrs": {}
+    },
+    "root[338]": {
+      "tag": "strong",
+      "text": "Zone 3 (Fredericton and Upper River Valley\narea)",
+      "attrs": {}
+    },
+    "root[339]": {
+      "tag": "a",
+      "text": "Queens North Community Health Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/queens-north-community-health-centre.aspx"
+      }
+    },
+    "root[340]": {
+      "tag": "p",
+      "text": "- Minto",
+      "attrs": {}
+    },
+    "root[341]": {
+      "tag": "a",
+      "text": "Fredericton Downtown Community Health Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/fredericton-downtown-community-health-centre.aspx"
+      }
+    },
+    "root[342]": {
+      "tag": "a",
+      "text": "Central Miramichi Community Health Centre",
+      "attrs": {
+        "href": "/facilities-and-services/facilities/central-miramichi-community-health-centre.aspx"
+      }
+    },
+    "root[343]": {
+      "tag": "p",
+      "text": "- Doaktown",
+      "attrs": {}
+    },
+    "root[344]": {
+      "tag": "a",
+      "text": "Tobique Valley Community Health Centre",
+      "attrs": {
+        "href": "/facilities-and-services/facilities/tobique-valley-community-health-centre.aspx"
+      }
+    },
+    "root[345]": {
+      "tag": "p",
+      "text": "- Plaster Rock",
+      "attrs": {}
+    },
+    "root[346]": {
+      "tag": "strong",
+      "text": "Zone 7 (Miramichi area)",
+      "attrs": {}
+    },
+    "root[347]": {
+      "tag": "a",
+      "text": "Baie-Sainte-Anne Health Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-baie-sainte-anne-health-centre.aspx"
+      }
+    },
+    "root[348]": {
+      "tag": "a",
+      "text": "N\u00c3\u00a9guac Health Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-neguac-health-centre.aspx"
+      }
+    },
+    "root[349]": {
+      "tag": "a",
+      "text": "Blackville Health Centre",
+      "attrs": {
+        "href": "/home/facilities-and-services/facilities/horizon%E2%80%99s-blackville-health-centre.aspx"
+      }
+    }
+  }
+}
